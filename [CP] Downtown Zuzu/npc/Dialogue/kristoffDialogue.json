@@ -1,0 +1,70 @@
+﻿{
+//INTRODUCTION//
+"Introduction": "Oui bonjour, que fais-tu loin de ton bureau ?#$e#Comment ça, tu ne travailles pas pour moi ?#$b#Oh, tu es fermier ? Tu t’appelles @ ? Tu n’as rien à faire ici.",
+
+//DIALOGUE INITIAL (0 COEURS)//
+"Mon": "Ah, les lundis... J’adore le bruit des travailleurs occupés.$h",
+"Tue": "Toi encore ? Tu essaies de récupérer ton ancien boulot ?",
+"Wed": "Tu ne cherches pas à obtenir quelque chose gratuitement, j’espère ? Rien de bon n’est gratuit.",
+"Thu": "Si tu veux que ta ferme réussisse, tu devrais vraiment passer moins de temps à traîner partout.",
+"Fri": "Comment tu passes toujours la sécurité ? Quelqu’un demande à se faire virer.$u",
+"Sat": "Je n’ai jamais eu d’enfants, mais je considère Joja Corp comme mon enfant.",
+"Sun": "Mon anniversaire, si ça t’intéresse, c’est le 25 été.",
+
+//DIALOGUE 2 COEURS//
+"Mon2": "Mes parents ont toujours été très occupés et entreprenants. Je pense que ça m’a un peu influencé.$h",
+"Tue2": "Tu sais, si jamais tu te lasses de la ferme, il y a toujours une place pour toi dans la famille Joja.$h",
+"Wed2": "Je pense à faire quelques changements dans mon personnel. Je ne sais pas qui virer...$s#$e#C’est une décision difficile.",
+"Thu2": "Tu ferais tellement mieux pour ton image si tu arrêtais de courir tout le temps couvert de terre de ferme.$u",
+"Fri2": "Je pense aller aux îles Ferngill ce week-end. Voyager, c’est une des grandes expériences de la vie.$h",
+"Sat2": "Tu sais, mes employés ont vraiment la vie facile. Moi, je ne prenais pas mes samedis quand j’ai commencé Joja.#$b#Et ensuite ils osent m’appeler un patron horrible !$a",
+"Sun2": "Tu es déjà allé au petit 'Sanctuary Café' ?#$b#C’est un peu miteux mais ça ne me dérange pas d’y aller.$h",
+
+//DIALOGUE 4 COEURS//
+"Mon4": "J’ai beaucoup à penser aujourd’hui. Ne me dérange pas.#$e#Je t’ai dit de ne pas me déranger.$a",
+"Tue4": "Tu es plutôt doué pour réseauter, hein ? Comme si tu connaissais beaucoup de monde ici.",
+"Wed4": "Tu sais, avant je me souciais de la popularité. Mais tout cela paraît vide quand les gens ne s’intéressent qu’à ce que tu peux leur donner.$s",
+"Thu4": "As-tu pensé à ouvrir un compte bancaire Joja ?#$e#Tu ferais plus de bénéfices si tu pouvais emprunter pour acheter des graines au début de la saison.",
+"Fri4": "Je sais que certains de mes employés ne sont pas à la hauteur... mais virer quelqu’un, c’est difficile !",
+"Sat4": "*bâille* Oh, salut, @. Comment ça va aujourd’hui ?",
+"Sun4": "Si j’ai appris une chose dans la vie, @, c’est que tout le monde ne peut pas te dire quoi faire.#$b#Suis tes rêves. Moi, c’est ce que j’ai fait, regarde où j’en suis !",
+
+//DIALOGUE 6 COEURS//
+"Tue6": "Je pense lancer un sondage sur tout le site.#$b#Tu pourrais m’aider à trouver les questions ?$h",
+"Fri6": "J’ai lu des livres sur la psychologie organisationnelle dernièrement. Je pense rénover le bureau.",
+"Sat6": "@, j’ai l’impression qu’on devient de bons amis.#$b#Ce n’est pas courant pour moi, alors... Merci, et félicitations, je suppose.$h",
+"Sun6": "Tout le monde pense que je suis un salaud, mais ce n’est pas vrai. Je veux juste ce qu’il y a de mieux pour Joja et mon personnel, je suppose.$s",
+
+//DIALOGUE 8 COEURS//
+"Mon8": "C’est étrange de changer ma façon de faire après tout ce temps, mais tu me donnes confiance pour toujours faire mieux.$l",
+"Tue8": "'Bonsoir à tous, je suis Kristoff Joja, PDG de Joja Corp, et je suis ici aujourd’hui pour présenter-'#$b#-Oh, @ ! Je ne savais pas que tu étais là !$e#Tu appréciais mon discours ?$h",
+"Wed8": "Quand tu travaillais ici, @, étais-je un bon patron ?#$b#J’ai l’impression que mon personnel me critique derrière mon dos.$s",
+"Sat8": "Tu penses que tu aimerais partir en voyage avec moi un de ces jours ?$l#$b#J’ai entendu dire que c’est joli vers le désert de Calico.$h",
+"Sun8": "Hmm ? Oh, salut, @ ! Je prépare les prix du 'Employé de la semaine'.$h#$b#Comment ça va ?",
+
+//DIALOGUE 10 COEURS//
+"Mon10": "Tu as pris du temps dans ta journée chargée pour venir me voir ? Je suis tellement content.$l",
+"Tue10": "@, j’ai l’impression qu’on a développé un lien très fort.$l#$b#C’est rare. Merci de me redonner du bon, @.$l",
+"Wed10": "Bonjour, @ ! J’ai essayé d’avoir un 'état d’esprit positif' aujourd’hui !#$b#Ça m’a mis de bonne humeur !$h",
+"Thu10": "Comment tu fais pour venir jusqu’à la ville ? En bus ? En train ?#$b#Tu fais tout ça juste pour me voir ?$l",
+"Fri10": "Salut, @. Tu voudrais aller au cinéma un de ces jours ?$h#J’ai trouvé un super film, 'Mysterium' !$h",
+"Sat10": "Tu es déjà allé au 'Zuzu Underground club', @ ?#$e#Tu voudrais y aller avec moi, un jour ?$l",
+"Sun10": "Argh, je suis de mauvaise humeur. Trop de paperasse !$a#$b#Mais te voir illumine toujours ma journée, @.",
+
+//DIALOGUES SAISONNIERS ET DIVERS//
+"spring": "Tu sais, beaucoup de planification entre en jeu à chaque saison de vente. Toute la famille Joja fait de son mieux pour anticiper tes besoins.",
+"spring_Mon": "Il n’y a jamais d’erreur qu’on ne peut pas surmonter avec une bonne équipe à ses côtés. Mes avocats sont sûrement trop payés, mais ce sont les meilleurs.",
+"spring_Thu": "Tu sais, chaque aspect de ce que tu fais peut être plus réussi avec le bon état d’esprit. Je sais de quoi je parle, j’ai écrit le livre.",
+"summer_Sat": "As-tu vu les produits de saison ?#$b#Je pense que l’équipe créative a fait un excellent travail cette saison.$h",
+"summer_Mon": "Je sous-traite beaucoup de travail que je faisais moi-même. Parfois j’aimerais en faire plus, mais il n’y a pas assez de temps.",
+"summer_Tue": "L’information est un des meilleurs outils pour une entreprise.#$b#Ou un des meilleurs outils, tout court, je suppose.",
+"summer_Wed": "Tu sais, je ne demande jamais à mes employés de faire quelque chose que je ne ferais pas moi-même.",
+"summer_Fri": "J’ai toujours aimé les défis, et mon instinct m’a toujours réussi.$h",
+"fall_Sat": "Je déteste le jargon. Si tu veux une communication claire, il ne faut pas te cacher derrière de longs mots !$a",
+"fall_Mon": "Je ne viens pas souvent en ville mais la foire de Stardew Valley est une des rares choses qui me donne envie de prendre du temps.",
+"fall_Thu": "Ma façon de m’amuser ne convient pas à tout le monde au début, mais c’est une vie remplie de sens.",
+"fall_Fri": "J’admire ton éthique de travail. Qu’est-ce qui te motive ?#$b#Peut-être que je devrais faire ça avec mes employés.",
+"winter_Mon": "Dans la plupart des villes, l’hiver est la meilleure saison pour les ventes, mais Stardew Valley fait exception. On devrait vraiment étendre la gamme de magasins là-bas.",
+"winter_Wed": "Tu n’as pas besoin d’écouter tout ce que disent les gens dans cette vie. Plus de la moitié du temps, ce n’est que du vent.",
+"rainy": "Il y a toujours quelque chose de nostalgique dans la pluie, non ?$l#$b#Bon, au boulot."
+}

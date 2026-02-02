@@ -1,0 +1,21 @@
+{
+  "Name": "Sunberry Village French Images",
+  "Author": "Mazout",
+  "Version": "1.0.0",
+  "Description": "Replaces the English text in Sunberry with French text.",
+  "UniqueID": "Mazout.SBV.FR",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [
+    "Nexus:???"
+  ],
+  "Dependencies": [
+    // required mods
+    {
+      "UniqueID": "skellady.SBVCP",
+      "IsRequired": true
+    },
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

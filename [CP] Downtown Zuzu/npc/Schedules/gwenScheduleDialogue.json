@@ -1,0 +1,17 @@
+{
+    "morning.1": "B-bon matin, @ ! Comment tu vas aujourd'hui ?$h",
+    "morning.2": "Je me demande ce qu’il y a dans cet entrepôt...#$b#J’ai toujours e-eu envie d’y entrer, m-mais je trouve jamais le courage...$s",
+    "morning.3": "Ugh... m-ma tête... La gueule de bois...$s",
+    "forest.1": "Tu vois les p’tits poissons, @ ?#$b#Ils sont trop mignons, non ?$h",
+    "forest.2": "La vue d’ici est...#$b#Effrayante, pas vrai ?",
+    "forest.3": "Je v-viens ici pour être seul parfois...#$b#Mais ça me dérange pas si tu veux rester.",
+    "forest.4": "J'aime b-bien regarder la forêt d'en haut, pleine de vie animale.#$b#Pardon, je parle trop...$s",
+    "sanc.1": "J-j’adore le sanctuaire. C’est trop chaleureux.$l",
+    "club.1": "WOUH ! J’ADORE CET ENDROIT !$h#$b#QU’EST-CE QUE TU AS DIT, @ ? LA MUSIQUE EST TROP FORTE !",
+    "club.2": "La boîte est géniale, h-hein, @ ?$h#$b#Tu y v-viens souvent ?",
+    "store.1": "S-salut, @. Je fais juste quelques courses...",
+    "store.2": "Je prends juste un p-peu de nourriture. Pas grand-chose...",
+    "lobby.1": "Oooh, regarde Xena !#$b#C’est une si gentille fifille...$h",
+    "lobby.2": "J-je regarde rarement la télé, m-mais cette émission parle de voyages !$h",
+    "lobby.3": "Je-suis en train de cuisiner. T’en veux ?[240 241 235]"
+}

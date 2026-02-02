@@ -1,0 +1,90 @@
+﻿{
+  // INTRODUCTION //
+  "Introduction": "H-hein ? Oh, bonjour ! Je suis Gwen... Comment tu t’appelles ?#$b#@ ? Et tu vis dans une ferme ? C’est... plutôt cool !$h#$e#Comment c’est, par ici ? C’est un endroit sympa pour vivre ?",
+
+  // INITIAL DIALOGUE (0 COEURS) //
+  "Mon": "B-bonjour, @. C-comment ça va ?#$b#D-désolée, je suis un peu nerveuse, on ne me parle pas souvent...$s",
+  "Tue": "J-Je suis assez fatiguée... Laisse-moi tranquille, s’il te plaît.#$e#...$u",
+  "Wed": "Mon a-anniversaire ? Oh, c’est le 20 de l’automne ! M-merci de demander !$h",
+  "Thu": "J’ai t-toujours voulu aller aux Îles aux Gemmes.#$b#Mais j’ai pas les sous, malheureusement.$s",
+  "Fri": "Comment c’est sur %farm ?#$e#Ça a l’air super.#$e#J’aimerais bien vivre à la ferme, moi aussi !$h#$b#A-attends, je voulais pas dire ça comme ça...$l",
+  "Sat": "La v-vie me pèse un peu en ce moment.$s#$b#Mais toi, tu es là ! Tu as des histoires à me raconter ?$h",
+  "Sun": "Un boulot ? J-j’en ai pas...#$e#Mes parents sont morts il y a quelques années, ils m’ont laissé tout leur argent, alors je vis avec ça pour l’instant...$s",
+
+  // 2 COEURS //
+  "Mon2": "J’aimerais aller voir un psy mais je n’ose pas... Je dois juste doucement travailler sur ma confiance, puis y a des gens qui en ont plus besoin que moi.#$b#Je lis surtout des livres de développement perso...",
+  "Tue2": "...#$b#Si tu vas me juger, autant ne pas me parler du tout.$s",
+  "Wed2": "Ça peut sembler bizarre, mais porter du noir m’aide à me sentir plus calme.#$b#Porter des couleurs gaies tout le temps me ferait sentir comme si je me mentais.",
+  "Thu2": "%Gwen marmonne pour elle-même.#$b#C’est juste... je comprends pas... pourquoi les gens sont si compliqués...?$s",
+  "Fri2": "Peut-être que je devrais essayer un cours pour devenir prof... Mais je sais pas si je suis douée avec les enfants.",
+  "Sat2": "J’ai du mal à m’intégrer... um...#$b#Je suppose qu’il y a des gens ici qui partagent mes centres d’intérêt mais je me sens pas à ma place.$s#$b#C’est plus facile d’être en ligne où tu t’inquiètes moins si quelqu’un...$s",
+  "Sun2": "Oh les bâtonnets de crabe. Je déteste à quel point les magasins deviennent bondés l’après-midi, mais je veux pas me lever tôt.",
+
+  // 4 COEURS //
+  "Mon4": "Thanaris de WoW est un personnage incroyable.#$b#Et son maquillage est tellement parfait que je meurs un peu à chaque fois qu’elle fronce un sourcil.",
+  "Tue4": "J’ai de la chance que mes parents m’aient laissé quelque chose...#$b#Mais j’arrive pas à savoir ce que je devrais faire maintenant.",
+  "Wed4": "Salut ! Um, j’ai commencé à faire des playlists sur une chaîne en ligne.#$b#Tu veux échanger de la musique ?",
+  "Thu4": "Je vais postuler pour un boulot aujourd’hui. Juste un shift par jour... Je peux faire ça... Un par semaine ?",
+  "Fri4": "Sourire à quelqu’un chaque jour, c’est comme ça que j’ai commencé à essayer d’être plus sociale. C’est un peu gênant quand même.",
+  "Sat4": "%Gwen fredonne et parfois chante un bout de paroles.#$b#Oh~ tu veux venir voir le spectacle !#$b#Ah ! Depuis combien de temps tu m’écoutes ?",
+  "Sun4": "Flesh Robot vient d’annoncer un nouvel album !#$b#J’ai un peu envie de faire une vidéo réaction...#$b#M-Mais comment faire pour que ce soit intéressant ?",
+
+  // 6 COEURS //
+  "Mon6": "Un personnage de livre disait que les grosses fêtes sont plus fun parce qu’on peut garder son intimité.#$b#Moi, j’aime surtout les foules aux concerts.",
+  "Tue6": "Il y a des trouvailles géniales dans les enchères en ligne.#$b#J’aimerais pouvoir remplir une maison entière d’objets uniques.",
+  "Wed6": "Quelque soit la viande que tu manges, assure-toi de bien la cuire, y a plein de bactéries dessus.",
+  "Thu6": "Si tu pouvais planter la peur dans un jardin, quelles plantes pousseraient ?",
+  "Fri6": "Les gens disent toujours que si tu galères à trouver un boulot, il faut retourner à l’école.#$b#Euh... je pourrais postuler pour... mm... quelque chose...",
+  "Sat6": "Je suis contente de vivre en ville, je regretterais tous les magasins et la vie nocturne si j’étais à Stardew Valley.",
+  "Sun6": "La vie peut être étrange, hein ?",
+
+  // 8 COEURS //
+  "Mon8": "La ville, c’est sympa. Les gens sont habitués aux bizarreries et tu peux être toi-même.",
+  "Tue8": "Regarder des vieux films d’horreur, c’est le meilleur.#$e#Les ratés des effets spéciaux sont hilarants.$h",
+  "Wed8": "Est-ce que les monstres te suivent jamais chez toi ?$u",
+  "Thu8": "Tu as lu “Les cinq étapes de Lucy vers le fief” ?#$b#C’est un guide pour devenir seigneur des enfers...#$b#Mais en vrai, c’est une satire drôle sur comment les humains créent leur enfer sur Terre.",
+  "Fri8": "J’ai trouvé sur internet un amas de carbonate de calcium qui ressemble à du poulet frit...#$b#Je veux trop l’acheter mais où le mettre ?",
+  "Sat8": "Y a pas vraiment de salon funéraire ici.#$e#Peut-être que je devrais en ouvrir un ?$h",
+  "Sun8": "La coupe mulet ne mourra jamais. Il faut juste accepter ça.#$b#J’ai vu une vidéo qui disait qu’au 16ème siècle, les femmes avaient déjà la coupe mulet pour avoir les boucles devant et les cheveux longs derrière.",
+
+  // 10 COEURS //
+  "Mon10": "Je crois que je t’aime tellement que ton nom est gravé dans mon âme.$l",
+  "Tue10": "Bonjour, mon amour.",
+  "Wed10": "Tu comprends pas à quel point je déteste les banques et les gouvernements. Quand tes parents meurent, tout le monde veut leur part.$s#$b#Tout le monde veut être mon ami dès que j’hérite, sinon, tout le monde me déteste.$a",
+  "Thu10": "Les films d’horreur surnaturels ne me font pas peur, c’est ceux basés sur des faits réels qui m’effraient.",
+  "Fri10": "Tu penses parfois à l’avenir ?$h#$b#J’espère vraiment qu’on sera enterrés ensemble.$l",
+  "Sat10": "J’ai vu une chaise araignée trop cool en ligne mais elle n’est pas à vendre.#$b#Je me demande si je pourrais en commander une...$h",
+  "Sun10": "C’est peut-être fou, mais si on a des enfants, j’aimerais leur dire qu’on les a trouvés dans un cimetière.#$b#Je rendrai l’histoire de plus en plus folle à chaque fois pour voir combien de temps ils mettent à comprendre.$h",
+
+  // DIALOGUES SAISONNIERS ET DIVERS //
+  "spring": "Hey @. Comment vont les esprits ?",
+  "spring_Sat": "%Gwen fredonne et chante parfois un bout.#$b#Tu as tant de noms et je suis fatiguée de tes jeux~",
+  "spring_Mon": "Les entretiens sont tellement stressants. Parfois, ça me fait peur de postuler...",
+  "spring_Tue": "Les fleurs fraîches sont belles aujourd’hui, non ? Le cycle de la vie et de la mort, c’est un thème poétique.",
+  "spring_Wed": "%Gwen n’a pas envie de parler et fait semblant de ne pas te voir.",
+  "spring_Thu": "J’ai postulé à un autre boulot aujourd’hui. Et toi, ta journée ?",
+  "summer": "%Gwen fredonne et chante parfois un bout.#$b#Vérifie ton congélo, vieux~",
+  "summer_Sat": "Il fait tellement chaud. Tu crois que je pourrais remplacer tous mes tissus par du mesh ?#$b#Peut-être que j’ai juste besoin d’un plus gros chapeau avec un voile noir.",
+  "summer_Mon": "Comment mon maquillage tient-il par cette chaleur ? C’est du pur talent.#$b#Haha, en fait c’est juste un bon primer.",
+  "summer_Tue": "%Gwen n’a pas envie de parler et fait semblant de ne pas te voir.",
+  "summer_Thu": "J’ai postulé à un autre boulot aujourd’hui. Et toi, ta journée ?",
+  "summer_Fri": "Comment vont tes petits amis à quatre pattes ?",
+  "fall": "Gwen fredonne et chante parfois un bout.#$b#L’automne coule rouge du sang qu’on a versé~",
+  "fall_Sat": "Comment va la ferme ? Fais attention à pas attraper un coup de soleil.",
+  "fall_Mon": "J’ai des places pour un concert, tu veux venir avec moi ?",
+  "fall_Tue": "Tu as trouvé quelque chose d’intéressant dans les mines ?",
+  "fall_Wed": "Je crois que je devrais me faire couper les cheveux.",
+  "fall_Thu": "J’ai postulé à un autre boulot aujourd’hui. Et toi, ta journée ?",
+  "fall_Fri": "%Gwen n’a pas envie de parler et fait semblant de ne pas te voir.",
+  "winter": "%Gwen fredonne et chante parfois un bout.#$b#Je me casse le dos pour rattraper ton retard~",
+  "winter_Mon": "Tu as trouvé de la bonne musique récemment ?",
+  "winter_Tue": "%Gwen n’a pas envie de parler et fait semblant de ne pas te voir.",
+  "winter_Wed": "Hey, tu trouves ça comment ?#$b#Gwen te montre quelque chose sur son téléphone.",
+  "winter_Thu": "J’ai postulé à un autre boulot aujourd’hui. Et toi, ta journée ?",
+  "rainy": "%Gwen fredonne et chante parfois un bout.#$b#Si je pouvais commencer à voir comment perdre tous les débris~",
+
+  // EVENT DIALOGUE //
+  "GwenMagicYes": "Q-quoi ?! Vraiment ?? C’est trop génial.$h",
+  "GwenMagicMaybe": "Haha ! C’est l’esprit !$h",
+  "GwenMagicNo": "B-bah, je suis pas d’accord.$u#$b#Je crois qu’on peut trouver de la magie partout si on regarde bien !"
+}
