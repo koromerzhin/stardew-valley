@@ -1,5 +1,4 @@
 {
-    // Translation provided by: <leave your name or nexus/discord username here>
     "errors": "StardewHack {{version}} detected the following errors:",
     "footer": "Check your console or error log for further instructions.",
     "fatal":  "Stardew Valley cannot launch until these errors are fixed.",

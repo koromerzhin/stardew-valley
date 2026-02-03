@@ -1,13 +1,9 @@
 {
-    // Tarot Prompt and Responses
     "TarotBuffDisplaySource": "Tarot divinatoire de Diala",
     "TarotDialaBusy": "Diala est occupée.",
     "TarotDialaAway": "Revenez lorsque Diala est présente.",
     "TarotAlreadyReadToday": "Diala vous a déjà tiré les cartes aujourd'hui. Revenez un autre jour.",
     "TarotPrompt": "Veux-tu que je te tire les cartes ?",
-
-    // Card Names
-
     "AceOfSwords.name": "L'As d'Épée",
     "Sun.name": "Le Soleil",
     "ThreeOfWands.name": "Le Trois de Bâtons",
@@ -22,9 +18,6 @@
     "Fool.name": "Le Mat",
     "Temperance.name": "Tempérance",
     "World.name": "Le Monde",
-
-    // Card Descriptions
-
     "AceOfSwords.desc": "La force se concentre dans une ligne droite et pure. Saisis-toi de ce pouvoir pour trouver la vérité. (Attaque +3)",
     "Sun.desc": "La lumière triomphante éclaire ton chemin. Tu es invincible. (Immunité aux débuffs)",
     "ThreeOfWands.desc": "Trois dimensions, trois lignes fortes. Ton travail acharné sera récompensé. (Extr. minière +3)",
@@ -39,31 +32,28 @@
     "Fool.desc": "Une nouvelle aventure commence. Fais le premier pas, le destin viendra à toi. (Chance +1)",
     "Temperance.desc": "Tout est équilibre. Garde ton calme dans l'harmonie pure et prépare la prochaine étape. (PV et énergie équilibrés)",
     "World.desc": "Tu es au centre des quatre éléments. Tu ressens un profond sentiment d'appartenance. Tu as réussi. (Compétences +1)",
-
-    // Elias Song Dialogue
-
     "SongIntro": "La chanson de ce soir s'appelle...",
     "poppy.name": "Coquelicot",
     "SettlingIn.name": "S'installer",
     "kindadumbautumn.name": "Ciel de pamplemousse",
-    "SongCredits": ", par Eric Barone.",
+    "skellady.SBVCP_EliasTheme.name": "Townsville",
+    "poppy.SongCredits": ", par Eric Barone.",
+    "SettlingIn.SongCredits": ", par Eric Barone.",
+    "kindadumbautumn.SongCredits": ", par Eric Barone.",
+    "skellady.SBVCP_EliasTheme.SongCredits": ", par Kevin MacLeod.",
     "SongOutro": "Merci à tous d'avoir écouté.",
-
-    // Ari's Market Special Dialogue
     "MarketDailySpecialAriNotAround": "La bonne affaire du jour est {0}. Revenez lorsqu'Ari est là pour en profiter.",
     "MarketDailySpecialAlreadyPurchasedToday": "Désolé, {0}. La bonne affaire du jour est épuisée. Reviens demain pour voir ce que j'aurai en stock !$9",
     "MarketDailySpecialOffer1": "Tu lorgnes sur l'affaire du jour, hein ? Il s'agit de {0} ! À toi pour seulement {1}$.$u",
-    "MarketDailySpecialOffer2": "La bonne affaire du jour est {0}. À ne pas manquer, pour {1}$ seulement !$u", // when you interact with the daily special
+    "MarketDailySpecialOffer2": "La bonne affaire du jour est {0}. À ne pas manquer, pour {1}$ seulement !$u",
     "MarketDailySpecialConfirmPurchase": "Voulez vous acheter {0} pour {1}po ?",
     "MarketDailySpecialRejectPurchase1": "Oh... très bien.$12",
-    "MarketDailySpecialRejectPurchase2": "Mince. Tu es un peu à sec en ce moment ?$12", // if you choose not to buy it
+    "MarketDailySpecialRejectPurchase2": "Mince. Tu es un peu à sec en ce moment ?$12",
     "MarketDailySpecialNotEnoughMoney1": "Désolé, {0}, mais je ne fais pas crédit. Reviens lorsque tu auras assez d'argent, d'accord ?$10",
-    "MarketDailySpecialNotEnoughMoney2": "Ta ta ta. Remets ça à sa place, {0}. Tu dois payer en une seule fois, j'en ai peur.$8", // try to buy it but don't have enough
+    "MarketDailySpecialNotEnoughMoney2": "Ta ta ta. Remets ça à sa place, {0}. Tu dois payer en une seule fois, j'en ai peur.$8",
     "MarketDailySpecialPurchased1": "Merci ! Reviens demain pour découvrir la nouvelle bonne affaire du jour.$h",
-    "MarketDailySpecialPurchased2": "Merci pour ton achat ! Tu ne trouveras pas ce genre d'offre chez Pierre !$h", // successfully bought it
-    "MarketDailySpecialQuantityIndicator": "x", // the 'x' in, for example, "Tea Sapling x 5", to indicate there are 5 tea saplings
-
-    // Phone Confession
+    "MarketDailySpecialPurchased2": "Merci pour ton achat ! Tu ne trouveras pas ce genre d'offre chez Pierre !$h",
+    "MarketDailySpecialQuantityIndicator": "x",
     "PhoneConfession.System.Today": "Aujourd'hui",
     "PhoneConfession.System.Yesterday": "Hier",
     "PhoneConfession.Message.1": "jvais chez Ari, besoin de qqch ?",
@@ -77,5 +67,11 @@
     "PhoneConfession.Message.9": "jcrois que jtl",
     "PhoneConfession.Message.10": "jtp",
     "PhoneConfession.Message.11": "JTM",
-    "PhoneConfession.Message.12": "JE TAIME"
+    "PhoneConfession.Message.12": "JE TAIME",
+    "RelationshipStatus.Locked": "(verrouillé)",
+    "FarmPurchase_AlreadyPurchased": "Vous avez déjà acheté Sunberry Farm.",
+    "FarmPurchase_Question": "Voulez-vous acheter Sunberry Farm pour {0}$ ?",
+    "FarmPurchase_Yes": "Oui",
+    "FarmPurchase_No": "Non",
+    "FarmPurchase_SeeEventAgain": "Voir l'événement à nouveau"
 }

@@ -1,12 +1,6 @@
 {
-
-    //Note for Translators - 1.14.38 added "DeepCave" and Configs for .description (used in GMCM)
-
-    //Farm String
     "IF2RFarmString": "Immersive Farm 2 Remasterisé_Un immense terrain avec une progression clôturée. Avec de l'herbe cultivable et des secrets à découvrir.",
     "DeepCave": "Grotte profonde",
-    
-    //Confgs
     "Config.Mist_Effects.name": "Effets de brume",
     "Config.Farm_Sandbox_Layout.name": "Disposition du bac à sable de la ferme",
     "Config.Farm_Light_Debris.name": "Débris de ferme légers",
@@ -26,7 +20,6 @@
     "Config.Remove_Objects_From_Greenhouse.name": "Supprimer les objets de la Serre",
     "Config.Disable_IF2R_Greenhouse.name": "Désactiver la Serre de IF2R",
     "Config.Disable_Farm_Cave.name": "Désactiver la Cave de la ferme de IF2R",
-    
     "Config.Mist_Effects.description": "Ajoute de la brume sur de nombreuses cartes les jours de pluie. Cela impacte les performances ; désactivez donc cette option si vous rencontrez des latences les jours de pluie.",
     "Config.Farm_Sandbox_Layout.description": "Transforme IF2R en une carte agricole plus standard, excluant les champs de culture prédéterminés, les hangars et les clôtures statiques. Une image de cette version est disponible dans la section IF2R. Le fichier de configuration se trouve dans le dossier [CP] IF2R. Les joueurs peuvent définir cette configuration sur « true » sur les sauvegardes SVE existantes utilisant IF2R.",
     "Config.Farm_Light_Debris.description": "Équilibre l'utilisation des ressources et améliore la gestion des terres agricoles. Pour que cette option soit effective, elle doit être activée avant la création du fichier de sauvegarde.",
@@ -46,9 +39,6 @@
     "Config.Remove_Objects_From_Greenhouse.description": "Supprime les plantes statiques, les boîtes, les fleurs et les barils de l'intérieur de la serre IF2R.",
     "Config.Disable_IF2R_Greenhouse.description": "Si défini sur « true », la serre IF2R est désactivée. Utile pour la compatibilité.",
     "Config.Disable_Farm_Cave.description": "Si défini sur « true », la caverne de la ferme IF2R est désactivée. Utile pour la compatibilité.",
-
-
-    //Events
     "Opening.01": "Vous êtes enfin là !",
     "Opening.02": "@! Je suis content de te revoir ! Ça fait deux mois. $4#$b# J'arrive pas à croire que c'est le jour de ton emménagement ! Tout le monde en ville est ravi que tu sois officiellement un résident de Stardew Valley.$0",
     "Opening.03": "J'ai fini de réparer le pont, de rétablir l'électricité au chalet, de restaurer la plupart des clôtures et d'effectuer les autres tâches que vous m'aviez confiées ! $0#$b#Allons à la ferme %farm pour que je vous montre. J'ai aussi une surprise !$1",
@@ -70,20 +60,17 @@
     "Opening.19": "Clint, le forgeron local, a fabriqué des outils pour vous aider à commencer à nettoyer les débris et les arbres.$0#$b#Il y a une hache, une pioche, une houe, une faux et un arrosoir dans votre chalet !$1",
     "Opening.20": "Ça va demander beaucoup de travail de transformer la ferme %farm en ce qu'elle était autrefois, @. Ton grand-père serait fier de toi. #$b#Demain, tu devrais te présenter aux villageois. Tout le monde dans la vallée sait que tu viens d'emménager.$1",
     "Opening.21": "Démétrius, mon mari, a hâte de te rencontrer ! Passe nous voir à la montagne dès que tu en as l'occasion !$1",
-    "Opening.22":  "Les autres agriculteurs sont ravis d'avoir un autre cultivateur dans la vallée.$1#$b#Vous devriez également vous arrêter dans leurs fermes lorsque vous en avez l'occasion.$0",
-    "Opening.23":  "Nous allons partir pour que vous puissiez vous installer.$0#$b#Si vous avez des questions ou des préoccupations, vous savez où nous trouver.$1",
-    "Opening.24":  "Si vous avez froid, vous pouvez utiliser la cheminée. Elle fonctionne parfaitement maintenant !$1",
-    "Opening.25":  "À demain ! Installez-vous !$1",
-    "Cave.01":"Salut @ ! J'ai une bonne nouvelle pour toi. Il y a quelques jours, j'ai fait une avancée dans mes recherches sur l'environnement local. $h#$b#Je t'épargne les détails techniques et viens droit au but... Tu sais, cette grotte vide là-bas, un peu plus au sud-est ? Eh bien, j'ai un moyen de la transformer en quelque chose d'utile... pour nous deux. #$b#J'aimerais aménager la grotte pour attirer des espèces locales. Comme ça, je pourrai les observer dans un environnement plus contrôlé. Et tu pourras récolter tous les produits qu'elles produisent. #$b#Je peux aménager la grotte pour attirer les champignons ou les chauves-souris. Les chauves-souris laissent parfois des fruits que tu pourras cueillir.",
+    "Opening.22": "Les autres agriculteurs sont ravis d'avoir un autre cultivateur dans la vallée.$1#$b#Vous devriez également vous arrêter dans leurs fermes lorsque vous en avez l'occasion.$0",
+    "Opening.23": "Nous allons partir pour que vous puissiez vous installer.$0#$b#Si vous avez des questions ou des préoccupations, vous savez où nous trouver.$1",
+    "Opening.24": "Si vous avez froid, vous pouvez utiliser la cheminée. Elle fonctionne parfaitement maintenant !$1",
+    "Opening.25": "À demain ! Installez-vous !$1",
+    "Cave.01": "Salut @ ! J'ai une bonne nouvelle pour toi. Il y a quelques jours, j'ai fait une avancée dans mes recherches sur l'environnement local. $h#$b#Je t'épargne les détails techniques et viens droit au but... Tu sais, cette grotte vide là-bas, un peu plus au sud-est ? Eh bien, j'ai un moyen de la transformer en quelque chose d'utile... pour nous deux. #$b#J'aimerais aménager la grotte pour attirer des espèces locales. Comme ça, je pourrai les observer dans un environnement plus contrôlé. Et tu pourras récolter tous les produits qu'elles produisent. #$b#Je peux aménager la grotte pour attirer les champignons ou les chauves-souris. Les chauves-souris laissent parfois des fruits que tu pourras cueillir.",
     "Cave.02": "Très bien ! Je vais tout installer tout de suite ! Ça ne devrait pas prendre beaucoup de temps. $h#$b#Merci de m'avoir laissé faire.",
-    "Cave.03":"J'ai hâte de voir ce qui va se passer avec cette grotte. Et vous ? #$e#J'espère que vous êtes satisfait du travail que j'ai fait.",
+    "Cave.03": "J'ai hâte de voir ce qui va se passer avec cette grotte. Et vous ? #$e#J'espère que vous êtes satisfait du travail que j'ai fait.",
     "MarnieEvent.01": "Salut @ ! Maintenant que tu possèdes des animaux de ferme, j'ai pensé te confier un petit secret.$0",
-    "MarnieEvent.02":"Ils ne sortiront pas des zones clôturées de votre ferme, vous êtes donc libre de les laisser ouvertes !$1",
-
-    //Robin Dialogue Additions. 
+    "MarnieEvent.02": "Ils ne sortiront pas des zones clôturées de votre ferme, vous êtes donc libre de les laisser ouvertes !$1",
     "Robin.01": "De rien, @!$1",
     "Robin.02": "Merci, @!$1",
     "Robin.03": "Désolé, c'était si cher, @...$2#$b# Les réparations du pont à elles seules ont coûté 45 000 g. Les dalles de pierre que j'ai achetées et le matériel que j'ai loué n'étaient pas donnés.$5",
     "Robin.04": "Euh... ouais, pas de problème.$2",
-
 }

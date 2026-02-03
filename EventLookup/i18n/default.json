@@ -1,33 +1,24 @@
 {
-
-    //do NOT replace/translate anything inside {{STUFF}} please
-
-	"location" : "Location",
-	"event_seen" : "Event seen",
-	"conditions" : "Conditions",
-    "events" : "Events",
-    "seen" : "seen",
-    "no" : "No",
-    "yes" : "Yes",
-
-
-    //buttons
+    "location": "Location",
+    "event_seen": "Event seen",
+    "conditions": "Conditions",
+    "events": "Events",
+    "seen": "seen",
+    "no": "No",
+    "yes": "Yes",
     "events_button": "Events",
     "forget_button": "Forget",
-
-    //Conditions
-    //also see https://stardewvalleywiki.com/Modding:Event_data#Context
-    "cond_error" : "Error, see log for details",
-    "cond_unknown" : "No further Information",
+    "cond_error": "Error, see log for details",
+    "cond_unknown": "No further Information",
     "cond_n": "Received that mail/quest flag",
     "cond_l": "Must not have received that mail/quest flag",
     "cond_a": "Enter the location from a certain entry",
     "cond_q": "Responded to a question with a specific answer",
     "cond_z": "Current season is not {{seasons}}",
     "spring": "spring",
-    "summer" :"summer",
+    "summer": "summer",
     "fall": "fall",
-    "winter":"winter",
+    "winter": "winter",
     "cond_u": "Current day of month is one of these",
     "cond_e": "Must have seen these events",
     "cond_k": "Must not have seen these events",
@@ -38,7 +29,7 @@
     "cond_o": "Must not be married to {{name}}",
     "cond_cO": "Must be married to {{name}}",
     "cond_cD": "Must be dating {{name}}",
-    "cond_y_1":  "Must be in year 1",
+    "cond_y_1": "Must be in year 1",
     "cond_y_2": "Must be in year {{year}} or later",
     "cond_w": "Weather must be {{weather}}",
     "sunny": "sunny",
@@ -51,53 +42,35 @@
     "cond_x": "Get Letter (not an actual condition)",
     "cond_p": "{{name}} needs to be in the location",
     "cond_r": "Random {{chance}}% chance to happen",
-    "cond_c" : "{{number}} free inventory slots",
+    "cond_c": "{{number}} free inventory slots",
     "cond_i_1": "{{item}} in inventory",
     "cond_i_2": "A {{category}} item in inventory",
     "cond_i_3": "Item from unknown category {{category}}",
-
-
-
-
-
-
-    //available events menu
-	"available_events" : "Available Heart Events:",
-    "inventory_slots" : " with {{freeSlots}} free inventory slots",
+    "available_events": "Available Heart Events:",
+    "inventory_slots": " with {{freeSlots}} free inventory slots",
     "with_items": "with {{items}}",
-    "item" : "item", //used for "{{category}} item", like Milk item
-    "category_item" : "category: {{id}} item", //used for "category -100 item" when category id doesnt exist. is probably never used...
-
-    "NPC_in_location" : " when {{name}} is there.",
+    "item": "item",
+    "category_item": "category: {{id}} item",
+    "NPC_in_location": " when {{name}} is there.",
     "NPCs_in_location": " when {{names}} are there.",
-
-
-
-	///Command line stuff///
-	"event_id_not_exist" : "An event with ID {{id}} does not exist",
-	"load_save_first" : "Load a save first.",
-	"npc_has_events" : "{{name}} has the following events",
-    "true" : "True", //seen: true/false, can also translate as yes/no
-    "false" : "False",
-	"event_info" : "hearts: {{hearts}}, ID: {{event_id}}, seen: {{true_false}}",
+    "event_id_not_exist": "An event with ID {{id}} does not exist",
+    "load_save_first": "Load a save first.",
+    "npc_has_events": "{{name}} has the following events",
+    "true": "True",
+    "false": "False",
+    "event_info": "hearts: {{hearts}}, ID: {{event_id}}, seen: {{true_false}}",
     "event_id_help": "Shows information about event with specified ID.\n\n Usage: event_id\nExample: event_id 1",
     "event_char_help": "Shows information about heart events of specified character. \n\nUsage: event_char <name> \n Example: event_char abigail",
     "event_char_not_exists": "No NPC named {{name}}.",
-
-    //config
     "show_non_hearts_description": "Whether you want to see all events or just the heart events on the social page. Makes it harder to avoid spoilers.\nNote: the available Events list will show all events regardless of this option.",
-    "show_non_hearts_name" : "show all events",
-    "hide_unseen_locations_description" : "Whether names of unseen location should be replaced by ??? to prevent spoilers.",
-    "hide_unseen_locations_name" : "Hide unseen locations",
-    "24h_description" : "Whether you want to 24h clock or AM/PM clock",
+    "show_non_hearts_name": "show all events",
+    "hide_unseen_locations_description": "Whether names of unseen location should be replaced by ??? to prevent spoilers.",
+    "hide_unseen_locations_name": "Hide unseen locations",
+    "24h_description": "Whether you want to 24h clock or AM/PM clock",
     "24h_name": "use 24h clock",
     "show_available_events": "show available events key",
-    "verbose" : "verbose logging",
-	"showCover" : "draw status cover behind event button",
-
-
-	//Map display names
-    //if you put "", it'll use the mapname (left side) instead of displayname (right side)
+    "verbose": "verbose logging",
+    "showCover": "draw status cover behind event button",
     "FarmHouse": "Farm House",
     "Farm": "Farm",
     "FarmCave": "Farm Cave",
@@ -330,39 +303,37 @@
     "MNFIslandRoom": "",
     "RSVRoom": "",
     "DeepWoods": "",
-
-	//Category names, check https://stardewvalleywiki.com/Modding:Object_data
     "category.-2": "Gem",
-	"category.-4": "Fish",
-	"category.-5": "Egg",
-	"category.-6": "Milk",
-	"category.-7": "Cooked",
-	"category.-8": "Crafted",
-	"category.-9": "BigCraftable",
-	"category.-12": "Mineral",
-	"category.-14": "AnimalMeat",
-	"category.-15": "Metal bar",
-	"category.-16": "Building Resource",
-	"category.-17": "SellableAtPierres",
-	"category.-18": "SellableAtPierresMarnies",
-	"category.-19": "Fertilizer",
-	"category.-20": "Junk",
-	"category.-21": "Bait",
-	"category.-22": "Tackle",
-	"category.-23": "SellableAtWillys",
-	"category.-24": "Decor",
-	"category.-25": "Cooking Ingredient",
-	"category.-26": "Artisan",
-	"category.-27": "Syrup",
-	"category.-28": "Monster Loot",
-	"category.-29": "Equipment",
-	"category.-74": "Seed",
-	"category.-75": "Vegetable",
-	"category.-79": "Fruit",
-	"category.-80": "Flower",
-	"category.-81": "Foraged",
-	"category.-95": "Hat",
-	"category.-96": "Ring",
-	"category.-98": "Weapon",
-	"category.-99": "Tool",
+    "category.-4": "Fish",
+    "category.-5": "Egg",
+    "category.-6": "Milk",
+    "category.-7": "Cooked",
+    "category.-8": "Crafted",
+    "category.-9": "BigCraftable",
+    "category.-12": "Mineral",
+    "category.-14": "AnimalMeat",
+    "category.-15": "Metal bar",
+    "category.-16": "Building Resource",
+    "category.-17": "SellableAtPierres",
+    "category.-18": "SellableAtPierresMarnies",
+    "category.-19": "Fertilizer",
+    "category.-20": "Junk",
+    "category.-21": "Bait",
+    "category.-22": "Tackle",
+    "category.-23": "SellableAtWillys",
+    "category.-24": "Decor",
+    "category.-25": "Cooking Ingredient",
+    "category.-26": "Artisan",
+    "category.-27": "Syrup",
+    "category.-28": "Monster Loot",
+    "category.-29": "Equipment",
+    "category.-74": "Seed",
+    "category.-75": "Vegetable",
+    "category.-79": "Fruit",
+    "category.-80": "Flower",
+    "category.-81": "Foraged",
+    "category.-95": "Hat",
+    "category.-96": "Ring",
+    "category.-98": "Weapon",
+    "category.-99": "Tool"
 }
