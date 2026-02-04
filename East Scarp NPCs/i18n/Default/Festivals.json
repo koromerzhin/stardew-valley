@@ -1,9 +1,4 @@
-{ //Festival DIalogue
-  //*************************************************************************
-  // F E S T I V A L   D I A L O G U E
-  //**********************************
-  // egg festival
-  //*************
+{
   "festivals.eloise.spring13": "Did you know a hen lays around 530 eggs in her lifetime!",
   "festivals.eloise.spring13.y2": "I helped paint the eggs this year! Look for the ones with little birds on them. They're mine.$1",
   "festivals.jacob.spring13": "Hello @. Eloise loves birds, but she's never been particularly interested in the egg hunt. I'm not really sure why.",
@@ -11,7 +6,7 @@
   "festivals.eloise.spring13.emyn": "Do you think fairies are like hummingbirds? They can flap their wings fifty times per second?! I wonder how many times a fairy flaps their wings?",
   "festivals.josephine.spring13": "What a whimsical celebration! I'll have to take a photo in that rabbit; Guvvie will be most amused.$1",
   "festivals.josephine.spring13.y2": "Such a charming small town tradition. It's a pity Guvvie couldn't join us... but he's a very busy man.$2",
-  "festivals.oliver.spring13.false": "Hey there! I'm totally just here for the food. And this punch! It's wicked-good. You should try some.#$e#What do you mean I shouldn't be drinking it? Why? What's wrong with it?$4#$b#Oh... Please don't tell Mom, okay?$2", //
+  "festivals.oliver.spring13.false": "Hey there! I'm totally just here for the food. And this punch! It's wicked-good. You should try some.#$e#What do you mean I shouldn't be drinking it? Why? What's wrong with it?$4#$b#Oh... Please don't tell Mom, okay?$2",
   "festivals.oliver.spring13.true": "Hey @. Lexi's missing out on the fun - so I've sneaked out some treats for them. Don't tell anyone, okay?#$b#Jacob just thinks I've got a big appetite!$1",
   "festivals.oliver.spring13.false.y2": "Hey there! I'm totally just here for the food. I've eaten far too many of those little curried eggs.",
   "festivals.oliver.spring13.true.y2": "Hey @... What's in my pockets? Oh, some sweet treats for Lexi. Don't tell anyone!",
@@ -38,8 +33,6 @@
   "festivals.spring13.michael": "Hey pal, you found us! We're avoiding the crowds. I'll be cheering on anyone who comes past here though!$1",
   "festivals.spring13.corwin": "Interestin' celebration this. Something about rabbits and chickens?$3",
   "festivals.spring13.dale": "Wouldn't be fair for us to participate: Valkyrie's already sniffed out half the eggs.$1",
-  // flower dance
-  //*************
   "festivals.aideen.spring24": "Folk dancing? How very rustic. This bears little semblance to the dances I attended in Grampleton. Now, those were sophisticated affairs.",
   "festivals.aideen.spring24.y2": "As rustic as this dance may be... well, I would be disinclined to refuse a potential suitor.$4",
   "festivals.beatrice.spring24": "This festival, it always gets me a little emotional, @.$2#$e#Raoul and I, we used to dance together. Ah, to be young again, and in love.$1",
@@ -69,15 +62,13 @@
   "festivals.spring24.kataryna.spouse": "Hey darling, ready to be swept off your feet?$1#$b#I'm sure we can figure out the steps together.$4",
   "festivals.spring24.corwin.CorwinFlirt": "Fancy a whirl 'round the dance floor, babe?$8#$b#Hey, it's you or I'm gonna ask ol' Roddy here to accompany me.$1",
   "festivals.spring24.corwin.CorwinNoFlirt": "Hey @, wanna help a man out here?$3#$b#I'm tryin' to convince Roddy here to ask Beatrice for a dance... even threatened to dance with 'er meself if he don't!$1",
-  "spring24.clint.postemily": "You know? I'm glad no one's going to ask me to dance. I'd probably make a fool of myself anyway.$2", //Clint
+  "spring24.clint.postemily": "You know? I'm glad no one's going to ask me to dance. I'd probably make a fool of myself anyway.$2",
   "festivals.spring24.ethan": "You found me! Don't tell Mom, okay? She'll tell me off for getting dirt on my suit.$2",
   "festivals.spring24.edith": "Michael and I used to go clubbing a lot, back in Zuzu. That was before Stella came along, of course.",
   "festivals.spring24.michael": "Believe it or not, pal, I used to be able to bust quite a few moves in my younger days.#$e#Now, though? All I can do is make Ethan cringe. Where is he, anyway?",
   "festivals.spring24.dale": "Hey @. Social gatherings like this are what bring communities together.#$e#Life's not about wealth, you know, it's about connections.",
   "festivals.spring24.valkyrie": "*Valkyrie doesn't love dancing, but she does love attention and snacks.*$4",
   "festivals.spring24.keanu":"Dude! I'm chill with not dancing - it's just totally rad to hang with the town.$1",
-  // luau
-  //*************
   "festivals.beatrice.summer11": "Mmm, this roast smells délicieuse!",
   "festivals.beatrice.summer11.2": "Willy has such tales of the sea.$1",
   "festivals.eloise.summer11": "Dancing's so silly! I hope we haven't scared all the birds away.",
@@ -124,8 +115,6 @@
   "festivals.summer11.dale": "It's a lovely day for a festival, ain't it @?#$b#Kinda odd how it don't ever rain on 'em, now that I think about it.$3",
   "festivals.summer11.valkyrie": "*Valkyrie's busy protecting Dale from the waves. She'd rather not be disturbed.*",
   "festivals.summer11.keanu": "Hey dude! This fest's all wrong. It should be about the waves, not impressing some old suit with soup.#$b#Wanna shred some surf with me later?$3",
-  // jellies
-  //*************
   "festivals.aideen.summer28": "I dare not get too close. They may look beautiful and mysterious, but they are also highly poisonous!$2",
   "festivals.eloise.summer28": "The jellyfish are so cool! Did you know that jellyfish don't have a brain? And they don't have a heart either!#$e#Also, they're not fish. They're actually Medusozoa.",
   "festivals.eloise.summer28.juliet": "Miss Juliet's hat is so silly! Jellyfish don't have eyes!",
@@ -160,8 +149,6 @@
   "festivals.summer28.keanu": "Mom totally dug the jellies. We'd cruise down to the wharf and watch 'em drift on by...#$b#This fest makes me miss her bad, @.$2",
   "festivals.summer28.kataryna": "Is that something out there in the water? Ugh, I wish it wasn't so dark!$a",
   "festivals.eyvinder.summer28": "Great little shindig, this one. Always good to see people appreciating nature.",
-  // fair
-  //*************
   "festivals.aideen.fall16.single": "Are you intending to get your fortune told, @?#$e#Oh! I've already had mine! Apparently my quest for a suitor shall be fulfilled before the year reaches its end!$4",
   "festivals.aideen.fall16.single.y2": "Are you intending to get your fortune told, @?#$e#Oh! I'm trying to persuade Miss Victoria, but she will not be convinced!",
   "festivals.aideen.fall16.farmer": "My darling! Have you spoken to the spiritualist?#$e#Me? Oh, no. Now that my quest for a suitor has been fulfilled, I have decided I prefer the mystique.$4",
@@ -210,8 +197,6 @@
   "festivals.summer28.stella.sve": "Hey @. It's always fun to check out what's happening in the valley.#$b#Imagine how much soup you could make from this pumpkin.$1",
   "festivals.summer28.edith.sve": "Hmm... this should make an impressive image for my internet diary, don't you agree, Stella?",
   "festivals.mrginger.fall16": "Hey @, wanna smuggle me one of Willy's fish? I'd try, but I reckon he's onto me.$1",
-  // Spirit's eve
-  //*************
   "festivals.eloise.fall27": "Oh, why can't we go in the maze! We'll look after each other. Puh-lease Dad.$3",
   "festivals.jacob.fall27": "I know, I look ridiculous. Eloise is extremely persuasive.$2",
   "festivals.marnie.fall27": "Dr Jacob won't believe me when I tell him he's looking very smart in that outfit.",
@@ -258,8 +243,6 @@
   "festivals.fall27.michael.sve.3": "Oh Eddy dear, I really do think we're lost!$2",
   "festivals.fall27.edith.sve.3": "Nonsense! I know precisely where we are... what I do not understand is where the hedge came from!$a",
   "festivals.fall27.ethan.sve.3": "Mom, dad! Check out this wicked pumpkin!$1#$e#Oh, hi @. It's cool, right?",
-  // ice festival
-  //*************
   "festivals.aideen.winter8": "Oh hello @. Yes, I confess, I snuck in to see the ice sculptures.$4",
   "festivals.aideen.winter8.rvh": "Ah, hello @. Mateo encouraged me to join them. And I must say, the setting is remarkably romantic.$4#$b#I suggested we stay upwind of the fish, of course.$1",
   "festivals.beatrice.winter8": "I do not enjoy catching fish. I think we'd all be 'appier if we just left them be.",
@@ -292,7 +275,7 @@
   "festivals.winter8.jade.spouse": "I don't know anything about fishing, but I'm sure you'll fish all the fish this year!$1",
   "festivals.winter8.jade.y2": "I can't wait to get back home under the covers...",
   "festivals.winter8.jade.spouse.y2": "I know you'll win this year, darling!$1#$b#And your prize will be...$4#$b#Getting firewood for the fireplace!$1#$b#That's what you get for making me come out in the cold~$1",
-  "winter8.clint.postemily": "Emily's not wrong - this poor snowman really needs help. Snow's harder to work with than metal.$1", //Clint
+  "winter8.clint.postemily": "Emily's not wrong - this poor snowman really needs help. Snow's harder to work with than metal.$1",
   "festivals.tristan.winter8": "Come, join us, Linus knows some pretty good yarns.",
   "festivals.tristan.winter8.y2": "Fur was warmer on a day like this!",
   "festivals.winter8.edith": "Brrr, chilly isn't it? Not my ideal festival, but can't miss the opportunity to mingle.",
@@ -307,8 +290,6 @@
   "festivals.winter8.ethan.sve": "A frozen lake! This is so neat! I wonder if there's more than just fish lurking under the ice?$2",
   "festivals.winter8.dale.sve": "Hope you're keeping warm, @. They really should serve soup or hot chocolate, something to warm us on the inside.$5",
   "festivals.winter8.keanu": "Pops loved fishing. He owned this competition, @! Sometimes he'd reek so bad, Mom'd make him sleep on the couch.",
-  // winter star
-  //*************
   "festivals.aideen.winter25": "Are you enjoying the festival, @? The secret gift giving tradition is so quaint, don't you think?#$b#I do hope I receive a well-considered gift this year.",
   "festivals.beatrice.winter25": "Today is a day for families, @. Those to which we were born and those we 'ave found ourselves.",
   "festivals.eloise.winter25.false": "Happy Winter Star! What do you think's in this one? It's REALLY big. And heavy!",
@@ -348,8 +329,6 @@
   "festivals.pepperpup.winter25": "(For a tiny dog, Pepper has a LOT of energy)",
   "festivals.winter25.keanu": "Happy Winter Star, dude! I'm totally soaking up these mellow backwater vibes.$3",
   "festivals.winter25.stella": "Hi @, Mom's been catching me up on all the local gossip - and you're featured prominently.$1",
-  // fireworks festival
-  //*******************
   "festivals.eloise.summer20": "There's going to be so many colors! The sky's going to look like a bird of paradise.$1",
   "festivals.jacob.summer20": "I do love these organized displays; they're beautiful, but fireworks make me nervous.#$b#I locked all the animals away in the barn tonight, just in case.$2",
   "festivals.rosa.summer20": "Howdy @, lovely evening isn't it? Have you tried the noodles? They're pretty good!$1",
@@ -357,7 +336,6 @@
   "festivals.oliver.summer20": "They have a massive fireworks extravanganza in Zuzu. It's insane!#$b#I'm sure this one'll be great too though.$1",
   "festivals.aideen.summer20.madeen": "Oh Teo, the excitement, the bright lights... I confess, I feel a litttle light-headed.$2#$b#Although perhaps that has nothing to do with the night... and everything to do with you.$4#$b#Oh, hello @! I didn't see you standing there.$7",
   "festivals.mateo.summer20.madeen": "I fall further in love every time a firecracker lights up her face...$4",
-  //RSV Gathering 
   "festivals.eloise.fall20": "Yuuma was gonna introduce me to Torts today - but apparently I've got to stay over here, on the girl's side.$2#$e#Well, I think it's a silly tradition!$3",
   "festivals.jacob.fall20": "Eloise has been trying to encourage me to socialize more... but there's rather a lot of people here - and I'm not sure where to start.$2",
   "festivals.rosa.fall20": "Girls vs boys eh? It's like being back in the school again.#$b#Oh, I think you know whose side I'm on, @. In every way.$1",
@@ -371,7 +349,6 @@
   "festivals.fall20.jasper.spouse": "Beloved! I am just taking a little time to enjoy the view - and the fresh mountain air.$1",
   "festivals.fall20.gunther": "Good day, Mr.@^Good day, Ms.@.#$b#Lovely little town, isn't it? Although I'm not sure I really understand the purpose of this festival.",
   "festivals.fall20.tristan": "It's good to see the old battles are still being fought... Of course, I think Jacob and I would both agree that our girls are definitely on the winning team.$1",
-  //RSV Embers
   "festivals.aideen.winter28": "Is this not the most peaceful of festivals, @?#$b#I do adore the music... although the mood is a little somber, do you not think?",
   "festivals.eloise.winter28": "Dad says this festival is all about setting goals for the new year, @.#$b#My goal is to make friends with this tortoise. He's cute!$1",
   "festivals.jacob.winter28": "Happy New Year, @. I expect Eloise is going to want us to adopt a tortoise next.$2",
@@ -384,7 +361,6 @@
   "festivals.winter28.jasper.spouse": "Hmm... what resolution should I make for the new year, my love?#$b#I know! I shall aspire to make you feel loved and appreciated for the full year... and always.$4",
   "festivals.winter28.tristan": "Hey @... I'm here to keep Shane out of trouble... or maybe encourage him to get into trouble... we'll have to wait and see.$1",
   "festivals.eyvinder.winter28":"New year, new you, they always used to say.#$b#Ha, I'm quite fond of the old me. Ain't likely to change for no-one.$1",
-  //Fashion Show
   "festivals.aideen.spring19": "Have you perused the stalls, @? Some of the fashions on display are rather daring, don't you agree?$1",
   "festivals.eloise.spring19": "We're gonna put on our own fashion show later!#$b#We're gonna put Vinny in the cutest dress EVER!$1",
   "festivals.jacob.spring19": "Hello @. Well, I'm not really one for fashion, I'm mostly here for community support.",
@@ -392,14 +368,10 @@
   "festivals.vivienne.spring19": "Oooh, @! I'm trying to talk Jacob into expanding his wardrobe... Wanna help?",
   "festivals.lexi.spring19": "Is very itchy. But makes me feel pretty, yes. What you think?$3",
   "festivals.oliver.spring19": "Hey @, festival a bit much for you too? Lexi was curious, so I did some shopping for them.#$b#I think Lexi looks lovely, right?",
-  //Scarpe Festivals
   "festival.spiritsevescarpinn.name": "Spirit's Eve at Scarpe Inn",
   "festival.spiritsevescarpinn": "Spirit's Eve at Scarp Inn has begun",
-  //Additional Festivals
   "festivals.desert.kataryna.1": "Ah hello. I'm rather intrigued by this shady looking fellow. I've been trying to talk to them, but they seem to be ignoring me...",
   "festivals.desert.kataryna.2": "Clint was looking a little lonely, so I stopped by to ask him a few questions.",
-  //PASSIVE FESTIVALS
-  //Spirit's Eve at Scarp Inn
   "ES_SpiritsEve_Invite_1": "Double, double toil and trouble;^Fire burn and caldron bubble.^A call to goblins, ghouls and ghosts;^ Scarpe Inn shall play your host.^Dress to impress, or to deceive.^When the hour strikes thirteen on Spirit's Eve.^^Hope to see you there! - Rosa ^PS: Due to the night's town festivities, you'll need to come via the mountain path. Watch out for monsters! (And Marlon!)",
   "ES_SpiritsEve_Invite.Title_1": "Invitation to an East Scarp Party",
   "spiritsevescarp.rosa.0": "Ain't Spirit's Eve grand? It's my favourite holiday, @!",
@@ -429,5 +401,5 @@
   "spiritsevescarp.rosa.1": "I hope everything looks spooky enough. I was up most of the night decorating.$1#$b#Won't be able to stay awake for tonight's festivities. Ah well.$2",
   "spiritsevescarp.rosa.2": "I hope everything looks spooky enough. I was up most of the night decorating.$1#$b#Might be a struggle to stay up for tonight's festivities... but I promised Jules.$4",
   "spiritsevescarp.kataryna.1": "Want to hear some spooky tales, @? Oh, I could tell you some that'd make your hair curl!$1",
-  "spiritsevescarp.jade.0": "Isn't this spider the most adorable critter you've ever seen?$1",
+  "spiritsevescarp.jade.0": "Isn't this spider the most adorable critter you've ever seen?$1"
 }

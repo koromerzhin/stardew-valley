@@ -3,19 +3,12 @@
     "minecart.UnderScarp": "UnderScarp",
     "minecart.DeepMount": "Deep Mountains",
     "minecart.ESClearingHouse": "Scarp Crossing",
-    //************************************
-    // R A I N   D I A L O G U E
-    //**********************************
     "rain.eloise": "I love the rain, don't you? Dad doesn't even mind if I stomp in puddles - as long as I wear my gumboots!",
     "rain.jacob": "Ellie gets so restless on rainy days, she hates being confined indoors. Between her and Pepper... well, let's just say I spend a lot of time mopping!",
     "rain.ethan": "$c 0.5#I don't want to do anything today.$2$k#$e#Ummm, why are you soaked?$3",
     "rain.edith": "Rainy days don't seem very cheerful, but if you're lucky, you may see a rainbow.",
     "rain.michael": "$c 0.5#Feel free to stay a while. The rain doesn't show any signs of stopping soon.$2$k#$e#Well, it must've take you some determination to get to us in this weather. So, what can we help you with?$3",
     "rain.stella": "The sound of rain really helps me to focus.$1#$e#Well, back to work.",
-    //*****************
-    //Summit Dialogue
-    //*****************
-    //be careful what is translated here, because these contain some of the code as well. 
     "summit.jasper.Dialogue3": "With you, my beloved, I have found true happiness.$4\"/pause 500/faceDirection Jasper 3/speak Jasper \"Without you, I would still be lost in the dark. Possibly literally.#$b#Thank you, @. Together, we can ascend to great heights. We can truly reach our peak.$3",
     "summit.aideen.Dialogue3": "I must say, the view from here is quite splendid, isn't it? Almost as splendid as the life we have made for ourselves.$4\"/faceDirection Aideen 3/speak Aideen \"Oh, @. Thank you for inviting me into your life. I love you.$4",
     "summit.juliet.Dialogue3": "Hey @, it's pretty wicked, isn't it? This life we've made together.$1#$b#Thanks for putting up with me.$4\"/pause 500/faceDirection Juliet 3/speak Juliet \"Now, we're up here, in the most romantic place in the whole darned valley...$4#$b#... So, are you gonna kiss me or not?$1",
@@ -24,14 +17,10 @@
     "summit.corwin.Dialogue3": "",
     "summit.jade.Dialogue3": "We've come so far together, haven't we @?$1\"/faceDirection Jade 3/speak Jade \"I'm really excited to see what happens next.$4",
     "summit.kataryna.Dialogue3": "@, I'm so glad we found each other. I know I'm not always the easiest person to be around...\"/faceDirection KatarynaLK 3/speak KatarynaLK \"Thanks for loving me anyway. Or maybe because of?#$b#I don't know. Just know that I love you too.$4",
-    //***********************************
-    // A S S O R T E D   S T R I N G S
-    //***********************************
     "strings.jas.ellise.000": "Hear that noisy bird? It's a jerjar bird! He's my friend.$4",
     "lexi.None-of-your-business": "None-of-your-business",
     "strings.oliver.lexi1": "Now... Rosa normally leaves some leftovers in here. Voila!#$b#Sweet Lexi'll love that.$1",
     "strings.oliver.lexi2": "Heh, it's your turn Lexi!$1#$b#(whispers) Lexi hasn't quite picked up the rules yet, but it's okay. They're so pleased when they win I haven't the heart to tell them.",
-    //Tori
     "strings.tori.toriphone": "%Tori's on the telephone. Better not interrupt her.",
     "strings.Tori_bookseller": "Oh... There's so much to choose from. I can't decide what titles to buy!",
     "strings.es.blacksmith": "You rifle through Clint's personal effects. There's a stack of blacksmith aprons, some gemsmith magazines, an old sword, and a vintage photograph of a young woman. Possibly his mother?",
@@ -39,11 +28,9 @@
     "strings.oliver.cguild1": "Wow! Where do the Guild get that kind of money?$2",
     "strings.oliver.cguild2": "Heh, I'm take on one of these quests, but if the monsters didn't kill me, Mom sure would!$1",
     "strings.oliver.cguild3": "Do you think these quests are for real? That's a lot of monsters!",
-    //Edits some lines of Clint's in vanilla events
-    "831125.19": "I... I... uh... this is awkward...", //Clint
-    "831125.25": "It's hard to remember my lines. I can't believe you talked me into this, Shane...$s", //Clint
-    "2123243.212": "Um... sorry. I'll just get my coat. Just... pretend I'm not here. Okay.$7", //Clint
-    //Schedule Strings 
+    "831125.19": "I... I... uh... this is awkward...",
+    "831125.25": "It's hard to remember my lines. I can't believe you talked me into this, Shane...$s",
+    "2123243.212": "Um... sorry. I'll just get my coat. Just... pretend I'm not here. Okay.$7",
     "Dialogue.Eloise.EastScarpe_55_89.1": "Did you know that if a starfish loses its arm it grows back?",
     "Dialogue.Eloise.EastScarpe_55_89.2": "Did you know that some starfish can release venom so you've got to be careful not to touch them!",
     "Dialogue.Eloise.EastScarpe_55_89.3": "Did you know that starfish eat by pushing their stomach out their mouth and over the prey!",
@@ -53,14 +40,12 @@
     "Dialogue.Jacob.EastScarpe_54_85.1": "One day, Ellie brought home a hermit crab living in a bottle top - she wanted to give it a better home.#$b#She's got quite the collection of beach detritus!",
     "Dialogue.Jacob.EastScarpe_54_85.2": "One day, Ellie brought home a bird skull.#$b#She's got quite the collection of beach detritus!",
     "Dialogue.Jacob.EastScarpe_54_85.3": "One day, Ellie brought home a beautiful rainbow shell.#$b#She's got quite the collection of beach detritus!",
-    //Schedule Dialogue Shane
     "ScheduleDialogue.Shane.TristanHouse_ST1": "I can't believe Tristan actually learned to cook. This pizza's actually halfway decent: spicy AND cheesy. Just the way I like it.$1",
     "ScheduleDialogue.Shane.TristanHouse_ST2": "Hmmm, these pepper poppers taste like the ones Marnie makes. Coincidence? Not likely! Delicious? Definitely!#1",
     "ScheduleDialogue.Shane.TristanHouse_ST3": "Pepper Popper Pizza?!... this is gonna haunt my dreams, you know.$2",
     "ScheduleDialogue.Shane.TristanHouse_ST4": "Welp, if this is what it takes to get to watch the game...$1",
     "ScheduleDialogue.Shane.TristanHouse_ST5": "Yeh, I figured I'd let him win. Chess isn't really my game, you know.",
     "ScheduleDialogue.Shane.TristanHouse_ST6": "No, don't talk. I'm gonna wipe that smug, condescending smile off his face.$2",
-    //Schedule Dialogue Tristan
     "ScheduleDialogue.Tristan.TristanHouse_ST1": "Hey pizza's easy. A spread of chili sauce, a large handful of cheese. Yeah, Marnie made the bases.$1 ",
     "ScheduleDialogue.Tristan.TristanHouse_ST2": "What can I say? Shane sure does love things spicy. I can barely feel my tongue!$2",
     "ScheduleDialogue.Tristan.TristanHouse_ST3": "Oh Shane's easy to cook for: he likes things hot, and cheesy. I guess that's why he likes me.$6",
@@ -68,7 +53,6 @@
     "ScheduleDialogue.Tristan.TristanHouse_ST5": "Hah, my knight jumps your queen, if you know what I mean.$6",
     "ScheduleDialogue.Tristan.TristanHouse_ST6": "Aww, doesn't Shane get the cutest furrow in his brow when he's concentrating?$3",
     "Festival.Tristan.FlowerDance.RH": "I asked Shane if we should dance. But apparently he's got to dance with Emily. Tradition or some-such nonsense.#$b#Ah well, his loss. I'd have looked rather fetching in the dress, don't you think?$1",
-    // Schedule Dialogue Hart Family
     "Strings.EdithHart.Tue.000": "*puff puff*#$b#Hello sweetie, I'm refining my technique.",
     "Strings.EdithHart.Wed.000": "Wednesdays make the perfect date night. Cheers to us, Michael.",
     "Strings.EdithHart.winter_15.000": "Oh dear! Look at all knick-knacks we have here! My heart is a little bit too excited! $4",
@@ -95,9 +79,6 @@
     "Stella.Sat.000a": "Hmmm, what should we have for dinner tonight?",
     "Stella.Sat.000b": "Maybe I should treat myself... I should definitely pick something up for Ethan.",
     "Stella.Sat.000c": "Rice... Sugar... what else?... drat, I should have written this down.$2",
-    //**************************************
-    // E N G A G E M E N T   D I A L O G U E
-    //**************************************
     "engagementdialogue.tristan.0": "Living on the farm, eating cheese and fish each day, one of my favorite humans beside me...#$b#Yep, I'm excited to be your husband!$4",
     "engagementdialogue.tristan.1": "Oh, @. I'm so glad I found you. Living on your farm - with you! - it's going to be epic.$1",
     "engagement.aideen0": "Oh! I am all a-fluster. We are to be married!$4",
@@ -116,12 +97,6 @@
     "lumaroommate.engaged": "You wish for us to live with you? Let us think about it...#$b#...$4#$b#Okay, we've thought about it. And the answer is 'YES'!$1",
     "roommateproposal.lumajunimo0": "We think you will enjoy living with us. Life will be much sweeter.$4",
     "roommateproposal.lumajunimo1": "The slimes are excited by your proposition. There will be space for them? We hope.$3",
-    //
-    //
-    //
-    // C O N V E R S A T I O N   T O P I C S
-    //Note: Some conversation topics are now included in the regular Dialogue section.
-    //Discussing Lily-Anne
     "LilyAnneDiscuss_George": "Lily-Anne Cheridan... now there's a name I haven't heard in years! Do I remember her?#$b#Course I do. Ain't nothing wrong with my memory!$a#$b#She was an odd one, always scribbling away in a notebook or what-not.#$b#Many of the lads had their eye on her. Not me, of course, even then, the only one for me was my Evelyn.$1#$b#Not sure what happened. Figure she must've left when the old man died. Folks were always coming and going.",
     "LilyAnneDiscuss_Evelyn": "Lily-Anne? I always felt sorry for her. She seemed lost and out of place here. She hardly spoke to anyone.$2#$b#If I remember, she was pretty close to one of the muckers: a tall, broad fellow with pale hair. There was something odd about him; he was foreign.$1#$b#Anyhow, after Mr. Cheridan died, we all just assumed she returned to the city. Was no life for a lass like her here.",
     "LilyAnneDiscuss_Eyvinder1": "Lily-Anne? I tried to keep an eye on her... but it was hard, me being in the mines most days, and her old grandfather being what he was.$a#$b#No-one saw her leave, but there were other ways out than that bridge. I hope she took one of them.$2",
@@ -131,17 +106,14 @@
     "LilyAnneDiscuss_Beatrice.true": "I know naught about this Lily-Anne!#$b#But my Raoul, he always said that this coastline was a smugglers' haven, with its many coves an' natural caves.#$b#He always was fond of tales: of pirates and smugglers and ne'er-do-wells. Oh, I do miss him, rest his soul.$2",
     "LilyAnneDiscuss_Jacob": "Doing a bit of research on the history around here? I grew up in Chestervale, but I can write to my mother, if you like?#$b#She used to live around here; she'll probably know more.$1",
     "LilyAnneDiscuss_Rosa": "Howdy @. I mentioned Lily-Anne to Dr. Jacob. He suggested I write a letter to his mother. So I will.$1",
-    //Old Gruff Conversation Topics
     "OldGruffTrouble.Jacob": "The animals have been very unsettled; there's a wild billy goat hanging around.$2",
     "OldGruffTrouble.Eloise": "I heard something outside last night in the dark.#$b#It was a giant goat with red eyes!$s",
     "OldGruffTrouble.Rosa": "Something ripped the bed sheets off the washing line this morning, @.$3#$b#It left only the pegs and scraps of cloth behind.$2",
     "OldGruffTrouble.Aideen": "Oh, @, you have caught me most distraught.$s#$b#A foul beast has crushed and eaten my flower garden!$a",
     "OldGruffTrouble.Sheba": "Is nasty-big beast stomp around in dark. Very scary! Worried eat me! Not safe!$s",
-    //Miscellanious Conversation Topics
-    "EmilyClintNo.emily": "Clint's barely able to look at me anymore... I guess we're no longer friends. I wonder if we ever really were?$2", //Emily
-    "EmilyClintNo.clint": "Ugh... I did it, @. I asked Emily out.#$b#She said no. And now things between us are weird. So that's a win...$2", //Clint
-    "ClintMomIssues": "Thanks for coming back, @. It means a lot to have a friend in this town.", //Clint
-    //Talent Show CTs
+    "EmilyClintNo.emily": "Clint's barely able to look at me anymore... I guess we're no longer friends. I wonder if we ever really were?$2",
+    "EmilyClintNo.clint": "Ugh... I did it, @. I asked Emily out.#$b#She said no. And now things between us are weird. So that's a win...$2",
+    "ClintMomIssues": "Thanks for coming back, @. It means a lot to have a friend in this town.",
     "abigail_Juliet_TalentShow": "Hidden talents? Well, I could bring along my flute... Or maybe have a word with Sam and Seb.#$b#Yeah, I'm in! This sounds like fun.$1",
     "abigail_Juliet_TalentShow2": "Yeh, Juliet's pretty cool.",
     "alex_Juliet_TalentShow": "Well, I don't know about 'hidden', but I suppose I could display my awesome ball handling skills.#$b#Why are you laughing?$2",
@@ -215,7 +187,6 @@
     "kataryna_Juliet_TalentShow": "A local talent show? I cannot imagine anything more cringe-worthy.",
     "lucikiel_Juliet_TalentShow": "My hidden talents could flatten the town, and leave the villagers cowering like the frightened animals they once were.#$b#I believe you'd prefer I merely spectate.",
     "lucikiel_Juliet_TalentShow2": "They all believe the hat into rabbit was an illusion, clever trickery.#$b#How naive, how innocent, they are.",
-    //Other characters talking about Jasper
     "Jas_JasperRelated_Jasper_Teach": "I'm so glad Professor Jasper's going to be teaching us! I've got so many questions for him.$1",
     "Jas_JasperRelated_ArchaeologyHouse_Wed": "#$c 0.8#Hello farmer! Professor Jasper's teaching us about gemstones! There's one called a fairy stone. It sounds really pretty!#$e#Did you know there's a type of stone made of lava? It's called obsidian, and it's really pretty!",
     "Jas_JasperRelated_summer_Wed_inlaw_Jasper": "I hope Professor Jasper still comes to see us now he's living with you. I've been collecting lots of stones to show him!",
@@ -234,11 +205,9 @@
     "Eloise_JasperRelated_ArchaeologyHouse_Wed": "#$c 0.7#Professor Jasper's knows heaps of stuff! I've read his books! Did you know he lived with the goblins? They sound cool, but also quite scary. I'm not sure I'd ever wanna meet one.#$e#Hello farmer @! Did you know that...#$b#%Eloise shares her _extensive_ new knowledge on gemstones with you.",
     "Eloise_JasperRelated_JasperEngaged": "You're marrying our Professor! Did you know he was once engaged to a goblin?#$b#Maybe you should ask him about that!$1",
     "Maru_JasperRelated_Jasper_Bionic": "You know that weedy professor guy? Jasper?#$b#I'm working on a new leg for him. Don't tell him, okay? I want it to be a surprise.$1",
-    //Tristan Conversation Topics
     "Dialogue.Marnie.Tristan_Discuss": "Jas's father? His name was Tristan. Mona and he were inseperable.#$b#When we lost him in the caves, it was like she lost a part of herself as well.$s#$b#She held herself together, was strong for Jas...but even that wasn't enough.$s#$b#Tristan was a bit wild, and far too reckless, but he had a good heart. We all miss him.$s#$b#I wish Jas had got to meet her father.",
     "Dialogue.Marnie.TristanReturns": "Oh @! Thank you for helping bring Tristan back. Jas has been telling us for years that the cat was more than a cat.#$b#We thought she was being creative, but... well, he's here now.#$b#Shane's none too happy about it.$2#$b#I hope the two of them can come to some sort of truce.$2",
     "Dialogue.Marnie.Winter_Fri10": "I'm glad Shane and Tristan found each other. He seems so much happier nowadays.#$b#Sometimes, when they were in college, I wondered, you know?$3",
-    //Jas
     "Dialogue.Jas.Tristan_Discuss": "I'm so glad you believe us, farmer @! Shane says it's all nonsense, and he loves me like I'm his own kid...And I love him too!#$b#Even if he's not always been much of a dad. But it's still not fair! I'm glad you're going to help us break the curse.$2",
     "Dialogue.Jas.TristanReturns": "Thanks for helping us, farmer @.",
     "Dialogue.Jas.EastScarpe_53_89": "Look at all the starfish!",
@@ -254,9 +223,7 @@
     "Dialogue.Jas.5295016.Sun10_inlaw_TristanLK": "I'm so glad you and Dad got married! We're like a big family now.$1",
     "Dialogue.Jas.ScarfAroundLampPost.false": "Dad's sad that Miss Aideen didn't like his gift... I hope you liked your hat, ${Mr.^Ms.^farmer}$ @.#$b#You should wear it ALL winter! That'd make Dad REALLY happy.$1",
     "Dialogue.Jas.ScarfAroundLampPost.true.": "Dad's sad that Miss Aideen didn't like his gift... I hope you liked your hat, farmer @.#$b#You should wear it ALL winter! That'd make Dad REALLY happy.$1",
-    //Tristan
     "Dialogue.Tristan.Tristan_Discuss": "Would you have believed us if we'd told you sooner?#$b#Well, maybe you would have, you're very perceptive. For a human.$4",
-    //Shane
     "Dialogue.Shane.Tristan_Discuss": "You mean Tristan? Don't talk to me about that... that... (Shane clenches his fists)$a#$b#He abandoned my pregnant sister, alright? Yeah, I know they said he must've died in the caves...$2#$b#...but if you ask me, he jumped ship and ran off to Zuzu to make a new life for himself.$a",
     "Dialogue.Shane.TristanReturns": "So... Tristan's back.$2#$b#I know I haven't always been the best guardian to Jas, but I was just starting to feel like an actual dad...#$b#And now her real dad walks back into her life, with some crazy BS story about being turned into a cat.#$b#Funny thing is, none of us have seen Mr. Ginger recently, and Tristan knows stuff, stuff about me, that he shouldn't...$2#$b#But it makes no sense. He must be lying. He must!$a",
     "Dialogue.Shane.ShaneTrissRH2": "I hope Tristan's okay. Concussion's no laughing matter. Happened to our quarterback; he never played again.$2",
@@ -278,8 +245,6 @@
     "Dialogue.Aideen.TristanReturns": "A gentleman has contacted me in regards to my available rooms. He wishes to rent both of them.#$b#I must confess, I was at first reluctant, but he proved rather charming - and Baron Munchington seems unusually fond of him!$1",
     "Dialogue.Emily.TristanReturns": "Amazing, isn't it? About Mr Ginger and Tristan.#$b#I always knew there was something special about him, that he was her guardian angel!$1",
     "Dialogue.Eloise.TristanReturns": "Jas's real dad seems pretty cool. Does this mean she has two dads now?$3#$b#When I asked Tristan, he laughed, but Shane scowled at me.$2#$b#I don't think they want to share.$3",
-    //*******************************
-    // ANIMAL INSPECTION DIALOGUE
     "Munchboi.01": "Baron Munchington does not look impressed.",
     "Munchboi.02": "Munchington leans into your hand and emits out a rumbling purr.$1",
     "Munchboi.03": "Munchington sniffs your fingers. He seems to like the way you smell.$1",
@@ -290,14 +255,11 @@
     "VoidChick.03": "The chick seems interested in your pockets. Do you have any crumbs?",
     "VoidChick.04": "The chick eyes you speculatively. What could it be thinking?",
     "VoidChick.05": "The chick seems to be appraising your worth.",
-    //***************************
-    //NON ES NPCS reject the ring
     "reject_534.vanilla": "%You feel this isn't the right person, and slip the ring back in your pocket.",
     "reject_534.nonES": "%You feel maybe you're looking through the wrong group of people, and slip the ring back in your pocket.",
     "reject_534.animals": "%Why would you offer the ring to an animal? You have second thoughts and pocket it.",
     "reject_534.ESexp": "%You get the sense that you're looking in the right direction - but this isn't the right person to give this to. You pocket the ring.",
     "reject_534.juliet": "Oh no, don't go giving that to me! A woman may have died wearing that thing.$2#$b#And no matter how pretty it is, I ain't wearing a dead woman's ring. That's bad juju.",
-    //Gender Neutral Dialogue Edits
     "genderneutral.Aideen_103": "Why, {{GenderNeutralTitle}} @! Are you wishing to court me?$7#$b#Well, you do exude a quaint rural charm.$1#$1#$b#And I have certainly grown fond of you. But love? Well, perhaps our tale is a slow burn, rather than a quick spark, yes?$7",
     "genderneutral.Ai1_2": "Oh, aren't you {{GenderNeutralTitle}} Cynical.#$b#You're right, of course. Pelican Town is hardly Paradise Bay.#$b#Yet the peace might be an attraction in itself, don't you think?",
     "genderneutral.rejectNPCA.rosa": "Too soon, sunshine, I'd rather we got to know each other first.$1",
@@ -306,7 +268,6 @@
     "genderneutral.winter_Sun2.eyvind": "You got some woollen socks, cotter?#$b#Ain't nothing like goat wool to keep the feet warm.$1",
     "genderneutral.summer_Fri8.eyvind": "You know @, I reckon I knew your grandfather.$1#$b#Solid fellow, reliable. Not afraid to get his hands dirty.#$e#The world needs more people like him... like you... people who get stuff done, instead of whistling into the wind.",
     "genderneutral.winter_Fri8.eyvind": "Ah, it's good to see you, @.#$e#Lonely? Nah, not me... although I gotta admit - it's good to have someone to talk to.",
-    //Secret Notes
     "secretnotes.753": "(A page torn from a diary):^Dear Triss,^I know you'll probably never read this, but I needed to write it down anyway... I'm sorry I left you. I panicked and ran. It was probably the most cowardly thing I've ever done. I tried to go back... but the path was blocked.^I love you, and I miss you. And I want you to know: You're gonna be a father. Yeh, that's right - you managed to leave me with one parting gift. A girl. She's due early summer.^I wish you could be here to meet her. I'm so scared to be doing this alone...^Love, your Mo.",
     "secretnotes.754": "(A page from M. Jasper's book):^Little is known about the beings commonly referred to as \"fairies\", although various sources - folklore and old songs - consider them to be beings of pure magic.^What my research does show, is the stone known as the \"fairy stone\" holds a higher concentration of energy than other gemstones of its mass.^Thus, I hypothesize that there may be some truth to the rumor of its origins.",
 }

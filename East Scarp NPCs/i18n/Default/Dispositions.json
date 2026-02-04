@@ -1,7 +1,4 @@
-{ //  D I S P O S I T I O N S
-    //************
-    //Character Names
-    //***************
+{
     "Name.Oliver": "Oliver",
     "Name.Josephine": "Josephine",
     "Name.Kataryna": "Kataryna",
@@ -43,9 +40,6 @@
     "Name.Valkyrie": "Valkyrie",
     "Name.DaleWaede":"Dale",
     "Name.KeanuAvis":"Keanu",
-    /***********************
-    Character Relationships
-    ***********************/
     "Relationship.Tristan.Jas": "daughter",
     "Relationship.Jacob.Vivienne": "mom",
     "Relationship.Vivienne.Jacob": "son",
@@ -69,5 +63,5 @@
     "Ethan-Relationships.Edith": "'mom'",
     "Ethan-Relationships.Stella": "'sis'",
     "Relationship.friend.jasper": "colleague Jasper",
-    "Relationship.friend.kataryna": "associate Kataryna ",
+    "Relationship.friend.kataryna": "associate Kataryna "
 }

@@ -1,7 +1,4 @@
 {
-    //**********
-    // M A I L
-    //**********
     "ES_IntroMail": "Hi farmer!^My name's Eloise, and my father and I live in a neighborhood called East Scarp. There's a beach, and a pond, and loads of berries!^My dad's a vet, and you're a farmer, so I think you two will be friends. I hope we can be friends too.^You should come visit us sometimes. But not on a school day... because then I'm in class with Jas and Vinny!^Hope to see you soon!^Eloise.",
     "ES_IntroMail.Title": "A letter from Eloise",
     "strings.lexi.CS101": "Oh! Please not touch that. Was gift from Mother!$2", //Lexi

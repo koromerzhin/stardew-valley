@@ -1,7 +1,4 @@
-{ //D I A L O G U E
-  //**********
-  //AIDEEN 
-  //**********
+{
   "Aideen_Introduction": "Good day. I don't believe we have been introduced.#$b#You are the new farmer? Well, you most certainly look the part!#$b#I am Aideen, and it is a pleasure to make your acquaintance.$1",
   "Aideen_ESIntroduction": "Good day. You are the new farmer? Well, you most certainly look the part! I am Aideen, and it is a pleasure to make your acquaintance.$1",
   "Aideen_Resort_Entering": "What an absolutely splendid place!$1",
@@ -13,36 +10,35 @@
   "Aideen_Resort": "It is nice to take a break away from the valley every once in a while.",
   "Aideen_GreenRain": "I stepped out this morning, @, to appreciate the rain... and is it not the most frightfully wonderful phenomenon? I have never seen the valley so verdant!",
   "Aideen_GreenRain_2": "My flowers appreciate this weather, @, but I am afeared I shall find my garden overrun with weeds.$2",
-  //daily
   "Aideen_Mon": "It is so peaceful here in East Scarp, away from those rowdy youths.#$b#Here there is naught but birdsong and the ocean.",
   "Aideen_Tue": "Oh hello! Marvelous weather, don't you think?#$b#A fabulous day for reading in the garden, sheltered by the wonderful scent of rose and lavender.",
   "Aideen_Wed": "Are you growing flowers on that farm of yours? They shall certainly brighten things up!#$b#I am especially fond of the blue jazz. They add a unique touch to my bouquets.$1",
   "Aideen_Thu": "Ah, hello @. You're looking very... rural today.#$b#What is that fragrance you are wearing? Eau de terra? It's... unique.",
-  "Aideen_Fri": "The saloon? The stench of beer, a press of crowded bodies... you'd never catch me in there!$3#$b#No, my idea of a pleasant night is gazing at the stars. Or watching the sun set over the ocean.$1", //Edited expressions, Chirps.
+  "Aideen_Fri": "The saloon? The stench of beer, a press of crowded bodies... you'd never catch me in there!$3#$b#No, my idea of a pleasant night is gazing at the stars. Or watching the sun set over the ocean.$1",
   "Aideen_Sat": "My neighbors? Dr. Jacob is polite but a little reserved, and Eloise... she's so full of questions.",
-  "Aideen_Sun": "That appalling fish hawker tried to sell me some of his wares when I went to town the other day!$3#$b#I couldn't bear that pungent odor for even a moment and fled in utter horror.$2", //Edited by Chirps.
+  "Aideen_Sun": "That appalling fish hawker tried to sell me some of his wares when I went to town the other day!$3#$b#I couldn't bear that pungent odor for even a moment and fled in utter horror.$2",
   "Aideen_danceRejection": "Dance? With you? Oh, I do not think so.",
   "Aideen_divorced": "Still desperate for my attention? We are over. Begone!$a",
   "Aideen_dumped_Girls": "I have no desire to associate with you and sully my reputation.$a",
   "Aideen_breakUp": "It's over? I am hurt, yes. But I expect I shall recover.$s",
   "Aideen_Mon2": "I hope you do not spend too much time fishing, @.#$b#It is such a barbaric sport, and the aroma is absolutely frightful.$s",
-  "Aideen_Tue2": "My apologies if I seem short of temper, @.#$b#Baron Munchington procured a mouse last night, and it threw the whole household into utmost chaos!$3#$b#I barely slept a wink.$2", // Edited by Chirps.
-  "Aideen_Fri2": "It's so peaceful here at night, @. Naught but crickets and the gentle sussuration of the ocean.$1#$b#I do not miss the hideous racket of traffic noise and sirens one bit.$2", //Edited by Chirps for more emotion.
+  "Aideen_Tue2": "My apologies if I seem short of temper, @.#$b#Baron Munchington procured a mouse last night, and it threw the whole household into utmost chaos!$3#$b#I barely slept a wink.$2",
+  "Aideen_Fri2": "It's so peaceful here at night, @. Naught but crickets and the gentle sussuration of the ocean.$1#$b#I do not miss the hideous racket of traffic noise and sirens one bit.$2",
   "Aideen_Sun2": "Oh goodness, hello @. You quite startled me! I was quite lost in my thoughts.",
   "Aideen_Wed2": "Baron Munchington has proven a fine judge of character, @. Although I worry, sometimes, that his opinion is all too frequently swayed by his appetite.",
   "Aideen_Tue4": "Are you growing flowers on your farm @? I would so love a local supplier.",
   "Aideen_spring_Sat6": "The spring flowers are such a delight! Their cheerful colors never fail to make me smile.$1",
   "Aideen_Mon8": "I had a suitor once, you know.#$b#In retrospect, we were not well matched, but alas, I was young, and refused to see the truth of it.#$b#I imagined that he might change his ways for me! A truly preposterous fancy.$2",
-  "Aideen_Thu10": "Very well, I admit it. I am no longer repelled by your unique fragrance.#$b#Indeed, I find myself rather comforted by your presence. Isn't that most peculiar?$1", //Edited by Chirps.
+  "Aideen_Thu10": "Very well, I admit it. I am no longer repelled by your unique fragrance.#$b#Indeed, I find myself rather comforted by your presence. Isn't that most peculiar?$1",
   "Aideen_Fri6": "East Scarpe? I believe it was named such for the escarpment, and the property developer thought the 'e' would add more prestige!#$b#Ridiculous, don't you think? East Shoe!$1",
   "Aideen_summer_1": "I hope you are prepared for summer, @. Why, some mornings, it is almost like the tropics!",
   "Aideen_summer_Mon": "You certainly appear to have been working hard today. Might I suggest a dip in the ocean?",
-  "Aideen_summer_Tue": "Have you seen any sweet peas? They are such charming flowers, and make a wonderful gift to a cherished friend.$1", //Edited by Chirps
+  "Aideen_summer_Tue": "Have you seen any sweet peas? They are such charming flowers, and make a wonderful gift to a cherished friend.$1",
   "Aideen_summer_Wed": "Fish for Baron Munchington? Oh no! I would never dream of feeding him carrion; he dines upon the finest kibble.",
   "Aideen_summer_Thu": "Frightfully warm weather, isn't it?$3",
   "Aideen_summer_Fri": "This heat has been most unkind to my poor flowers. Look at how their petals wilt!$2",
   "Aideen_summer_Fri4": "Poor Munchington is such a fluffy boy; he does not cope well with this summer heat.#$b#He has a cooling pad, of course, but prefers the tiles of my workroom floor.#$b#Why, I have nearly tripped over him so many times!",
-  "Aideen_summer_Sat": "Perhaps I shall wander to the beach today, and engage in a little beach-combing.#$b#You never know what treasures you may find.$1", //Edited by Chirps for more expressive dialogue
+  "Aideen_summer_Sat": "Perhaps I shall wander to the beach today, and engage in a little beach-combing.#$b#You never know what treasures you may find.$1",
   "Aideen_summer_Sat4": "This sun! Oh, it plays such havoc with my complexion; I fear I shall turn as red as a lobster.$3",
   "Aideen_summer_Sun": "Sunflowers are such cheerful flowers, do you not agree, @?$1",
   "Aideen_summer_Sun4": "Do keep yourself hydrated, @. For with all your running around... I fear you shall suffer heatstroke.$2",
@@ -51,67 +47,63 @@
   "Aideen_summer_Sat6": "This heat is just ghastly! And those accursed flies...$a#$b#I do so look forward to autumn.",
   "Aideen_summer_Thu10": "Oh, suddenly I have come over all light-headed. It must be the heat, for I cannot imagine what else might affect me thus.",
   "Aideen_summer_Fri10": "Oh @. How it gladdens my heart that we have become friends.$1",
-  "Aideen_fall_1": "There is poetry in the leaves as they whisper their secrets in the wind.#$b#What mysteries do I speak of? Why, the beauty of autumn, of course.$1", //Added by Chirps.
-  "Aideen_fall_Mon": "Have you conversed with Rosa?$1#$b#For all that she lacks in aesthetic taste, she makes up for it in affability and ambrosian delights.$1", // Edited by Chirps.
+  "Aideen_fall_1": "There is poetry in the leaves as they whisper their secrets in the wind.#$b#What mysteries do I speak of? Why, the beauty of autumn, of course.$1",
+  "Aideen_fall_Mon": "Have you conversed with Rosa?$1#$b#For all that she lacks in aesthetic taste, she makes up for it in affability and ambrosian delights.$1",
   "Aideen_fall_Tue": "Dr. Jacob has done an admirable job, raising his daughter all alone. His patience must be commended.",
-  "Aideen_fall_Wed": "I apologize if I seem short tempered. My latest delivery arrived... and the poor roses were crushed!$2#$b#I may be able to salvage them... but oh, I do wish they would handle my precious cargo with more care!$3", //Edited by cChirps
+  "Aideen_fall_Wed": "I apologize if I seem short tempered. My latest delivery arrived... and the poor roses were crushed!$2#$b#I may be able to salvage them... but oh, I do wish they would handle my precious cargo with more care!$3",
   "Aideen_fall_Wed4": "Today I am most displeased, @. Oh, no, not at you! My latest delivery contained lilies. Can you believe it?#$b#Those dastardly flowers, for all that they are beautiful...I shall not permit them anywhere near my beloved Munchington.$5",
   "Aideen_fall_Thu": "Every Thursday, Dr. Jacob stops by to purchase flowers for his belated wife.#$b#It is so sweet, yet so sad.$2",
-  "Aideen_fall_Sat": "I do so love fall, don't you, @? The temperature is perfect, and the color? Beautiful!$1", //Edited by Chirps.
+  "Aideen_fall_Sat": "I do so love fall, don't you, @? The temperature is perfect, and the color? Beautiful!$1",
   "Aideen_fall_Wed2": "How lovely to see you again, @. I trust that you are enjoying this temperate day?$1",
   "Aideen_fall_Sun6": "Do you enjoy ghost stories, @?#$b#There are rumors, you know, that East Scarp is haunted. By whom, you ask?$3#$b#Oh! The ghosts of the miners who died here, of course. Lost forever, beneath the unforgiving earth.#$b#Sometimes, when the shadows are long, and the wind rattles in the trees... why, it is all but impossible to not believe it.",
-  "Aideen_fall_Mon8": "Do you think, perhaps, that Ms. Marnie and Dr. Jacob might make a fine match?#$b#Oh, don't mind me; I've been reading too much and filled my head with fanciful daydreams.$7", // Edited by Chirps.
+  "Aideen_fall_Mon8": "Do you think, perhaps, that Ms. Marnie and Dr. Jacob might make a fine match?#$b#Oh, don't mind me; I've been reading too much and filled my head with fanciful daydreams.$7",
   "Aideen_fall_Thu6": "Dr. Jacob visits his wife once a week, for all that she is departed.#$b#Is that love, do you think, @? Never quite being able to let go?$2",
   "Aideen_fall_Thu8": "Have you ever been in love, @? Felt the quickening of your pulse, and a lightness when someone is near?#$b#It is endorsed so frequently in literature, but I fear the reality will prove quite a disappointment.$s",
-  "Aideen_fall_Fri10": "I might have spoken in haste before, @.$2#$b#In regards to love, I mean. For my heart is flittering with the songbirds of summer.$7", //Added by Chirps.
+  "Aideen_fall_Fri10": "I might have spoken in haste before, @.$2#$b#In regards to love, I mean. For my heart is flittering with the songbirds of summer.$7",
   "Aideen_winter_1": "Winter's blanket has fallen across the land, and the flowers have slipped into hibernation. I shall miss them.$2",
   "Aideen_winter_Mon": "Winter is such a dreary time. So monochromatic.#$b#I do miss my floral friends.$2#$b#Friends? Oh, it is merely a fanciful term of phrase, @.#$e#Did you imagine I would consider flowers my friends?$u",
-  "Aideen_winter_Tue": "There is something magical about the sunrise in winter, don't you agree, @?#$e#I awoke early, to gather crocuses for a very special bouquet.#$b#And now my toes are quite chilled through.$2", //Edited for expressiveness by Chirps
+  "Aideen_winter_Tue": "There is something magical about the sunrise in winter, don't you agree, @?#$e#I awoke early, to gather crocuses for a very special bouquet.#$b#And now my toes are quite chilled through.$2",
   "Aideen_winter_Wed": "Miss Eloise's chatterbox nature is most exhausting, although I suppose her curiosity is to be admired.",
   "Aideen_winter_Thu": "Poor Munchington. He is really not a fan of this snow.#$b#Me? Oh, it is pretty enough, I suppose, when one is tucked up beside the fire.",
-  "Aideen_winter_Fri": "This entire week has been a blustery affair. Take care as to not fall prey to the bite of winter.#$e#As for myself, I must take my leave.#$b#I hear a certain melancholic mewling seeking the comfort of my arms.$7", //Added by Chirps
+  "Aideen_winter_Fri": "This entire week has been a blustery affair. Take care as to not fall prey to the bite of winter.#$e#As for myself, I must take my leave.#$b#I hear a certain melancholic mewling seeking the comfort of my arms.$7",
   "Aideen_winter_Sat4": "I do hope that you have not been entertaining the notion of entering those vile caves!$2#$b#So dank, so dreary... and positively overflowing with all manner of terrible fiends!",
   "Aideen_winter_Sun8": "Today? Oh, I intend to curl up with a cat in my lap and a book in my hands.#$b#Can you think of a better way to spend a dreary winter's day, @?",
-  "Aideen_winter_Wed2": "Have you visited Grampleton at all, @? There is this most splendid clothing emporium there!#$b#I could waste the entire winter perusing their shelves.$1", //Edited by Chirps to fix a typo and add more text.
-  "Aideen_winter_Thu10": "Oh @! This cold bites right down to my bones.#$b#Would you mind terribly if I huddled with you for warmth?$4", //Changed by Chirps for a little more affection with the portrait and the pause in speech.
-  "Aideen_winter_Fri10": "Oh, @. Your presence is like a bonfire amidst this most desolate chill. I'm afeared I may freeze solid without your good company.$h", // Added by Chirps
+  "Aideen_winter_Wed2": "Have you visited Grampleton at all, @? There is this most splendid clothing emporium there!#$b#I could waste the entire winter perusing their shelves.$1",
+  "Aideen_winter_Thu10": "Oh @! This cold bites right down to my bones.#$b#Would you mind terribly if I huddled with you for warmth?$4",
+  "Aideen_winter_Fri10": "Oh, @. Your presence is like a bonfire amidst this most desolate chill. I'm afeared I may freeze solid without your good company.$h",
   "Aideen_spring_12": "I shall be assisting Mrs. Mullner with the flower arrangements for tomorrow.#$b#The Egg Hunt? Oh gracious no! I would never participate in that. It is for the children!",
   "Aideen_spring_12_2": "I shall be assisting Mrs. Mullner with the flower arrangements for tomorrow.#$b#The Egg Hunt? Oh gracious no! I would never participate in that. It is for the children!",
   "Aideen_spring_23": "Hello @! I cannot possibly stop to chat, for I am most horrendously busy preparing arrangements for the dance tomorrow!#$b#I do hope you shall attend. Though it may be a challenge finding a dance partner. Everyone here is very well matched.",
-  "Aideen_spring_23_2": "Hello @! I cannot chat. I am utterly and positively inundated with preparing arrangements for the dance tomorrow.$5#$b#I do hope you shall attend. There are many here eager to dance with you.$1#$e#Me? Oh gracious! Whatever gave you that idea? Begone with you and your impertinence!", //Edited by Chirps.
-  "Aideen_winter_7": "The Ice Festival? Oh no, you will not be seeing me there!#$b#The sculptures may be beautiful... but the smell? Gracious no!$3", //Edited by Chirps, missing capitalization of the festival.
-  "Aideen_winter_7_2": "Are you trying to persuade me to attend that barbaric festival tomorrow?$3#$b#No, I shall be warm and cosy with Baron Munchington.$1", //Edited by Chirps
+  "Aideen_spring_23_2": "Hello @! I cannot chat. I am utterly and positively inundated with preparing arrangements for the dance tomorrow.$5#$b#I do hope you shall attend. There are many here eager to dance with you.$1#$e#Me? Oh gracious! Whatever gave you that idea? Begone with you and your impertinence!",
+  "Aideen_winter_7": "The Ice Festival? Oh no, you will not be seeing me there!#$b#The sculptures may be beautiful... but the smell? Gracious no!$3",
+  "Aideen_winter_7_2": "Are you trying to persuade me to attend that barbaric festival tomorrow?$3#$b#No, I shall be warm and cosy with Baron Munchington.$1",
   "Aideen_fall_26": "It is Spirit's Eve tomorrow? I find myself with little interest in mocking the supernatural.$3#$b#No, I shall be home, with the Baron and my flowers, and I shall be all the happier for it, too.$1",
-  "Aideen_summer_10": "The Luau? It is so chaotic! Not like the dinner parties I attended in Grampleton.#$b#Now, those were civilized affairs. None of this potluck nonsense.", // Edited by Chirps, missing capitalization of festival
-  "Aideen_summer_27": "Tomorrow the townsfolk gather on the dock to witness the annual migration of the jellies.#$b#I have not yet decided if I shall attend.$5", //Edited by Chirps.
+  "Aideen_summer_10": "The Luau? It is so chaotic! Not like the dinner parties I attended in Grampleton.#$b#Now, those were civilized affairs. None of this potluck nonsense.",
+  "Aideen_summer_27": "Tomorrow the townsfolk gather on the dock to witness the annual migration of the jellies.#$b#I have not yet decided if I shall attend.$5",
   "Aideen_winter_24": "Have you received your invitation for the Winter Star event? It is hardly a grand event, but it is not without its charm.$1",
   "Dialogue.Aideen.ScarfAroundLampPost": "Oh darn it ... It appears my carelessness with Mr. Tristan's gift has caused him some distress; He seems unwilling to accept that it was negligence, not maliciousness.$2#$b#It was not I that tied it on the lamp post, goodness no! My intention was to keep it secured and safe. Forever.$6",
-  //Event responses:
   "Aideen_Ai2_1": "Oh my, the glass is certainly half full for you, isn't it? Still, a little optimism will certainly be advantageous for %farm, I do not doubt.",
   "Aideen_Ai2_2": "Oh, aren't you Mr. Cynical.^Oh, aren't you Ms. Cynical.#$b#You're right, of course. Pelican Town is hardly Paradise Bay.#$b#Yet the peace might be an attraction in itself, don't you think?",
   "Aideen_Ai2_3": "Picky?$a#$b#It is no shame, nor crime, to be discerning.#$b#Indeed, it would be most disadvantageous to invite an unruly guest into my house.#$b#On that note, perhaps it is time you should leave, for surely that farm must require your attention.",
   "Aideen_Ai2_4": "Oh! The gall of you! To listen in on a lady's private conversation.#$b#Perhaps you should take your nose and poke it into someone else's business!$a",
-  //Unique Courtship Dialogue
   "Aideen_rejectNPCA": "Why ever would I consider marrying you?$a",
   "Aideen_rejectNPCB": "Are you teasing me? I have no desire to bind myself to you.$a",
-  "Aideen_refusal_no_heartsA": "Oh! You really are most presumptuous! Begone with you.$a", //they don't know you
+  "Aideen_refusal_no_heartsA": "Oh! You really are most presumptuous! Begone with you.$a",
   "Aideen_refusal_no_heartsB": "No. Now leave me be.$u",
-  "Aideen_engageA": "I do not think your betrothed would be well pleased.$a", //if you're already engaged, I guess?
+  "Aideen_engageA": "I do not think your betrothed would be well pleased.$a",
   "Aideen_engageB": "Have you no common sense?$u",
-  "Aideen_marriedA": "I do not think your spouse would be well-pleased to hear of your infidelities.$a", //if you're already married, I guess?
-  "Aideen_give_flowersA": "Oh! These are so beautiful. Of course I shall accept!$4", //accepting
+  "Aideen_marriedA": "I do not think your spouse would be well-pleased to hear of your infidelities.$a",
+  "Aideen_give_flowersA": "Oh! These are so beautiful. Of course I shall accept!$4",
   "Aideen_give_flowersB": "You wish to court me? I suppose I shall permit it.$7",
-  "Aideen_give_pendant": "You are serious? Why yes, @. I would be honored to be your wife.$4", //accepting
+  "Aideen_give_pendant": "You are serious? Why yes, @. I would be honored to be your wife.$4",
   "Aideen_reject_four_heartA": "Oh... you are sweet and these are truly divine. But I'm afeared I must decline.$6",
   "Aideen_reject_four_heartB": "Did you make these for me, @? I am afeared your attention has been misguided.#$b#Please, take them elsewhere.$6",
   "Aideen_refusal_knownA": "I'm afeared you are not what I seek in a suitor, @. I am truly sorry.$6",
   "Aideen_refusal_knownB": "Please, let us not rush things. We must prove well suited before I can commit.$6",
-  //question responses
   "Aideen_102": "Next door? Dr Jacob? Hmm... well, he is certainly kind and we have, on occasion, engaged in a rousing discussions of literature and the arts.$1#$b#Also, Baron Munchington is certainly fond of him. But I fear he would regard me as a mere shadow of his wife... and Eloise is sweet, but perhaps a little TOO much.$2",
   "Aideen_103": "Why, Mr. @!$4^Why Ms. @!$4#$b#Are you wishing to court me?$7#$b#Well, you do exude a quaint rural charm.$1^I have never been courted by a lady before! This is most illuminating.$1#$b#And I have certainly grown fond of you. But love? Well, perhaps our tale is a slow burn, rather than a quick spark, yes?$7",
   "Aideen_104": "Baron Munchington is certainly fine company, although he is not noted for his conversation.#$b#And I guess that I hoped I one day might have both.",
   "Aideen_105": "Such a nihilistic perspective, @. I am not sure I appreciate your cynicism. Please, take it elsewhere.",
-  //Unique Gift Tastes
   "Aideen_GiftReaction_Ancient_Flower": "Oh! This is a most stunning flower. Wherever did you find it?$4",
   "Aideen_AcceptGift_category_flowers": "Thank you! This will look splendid in a bouquet!$1",
   "Aideen_AcceptGift_(O)597": "I love this! It adds a most unique touch to any bouquet.$4",
@@ -119,7 +111,6 @@
   "Aideen_AcceptGift_(O)167": "This beverage is most distasteful! Indeed, it looks as though it were fished from a riverbed.$a",
   "Aideen_AcceptGift_(O)StardropTea": "Oh! A most splendiferous tea. I do not think I have ever tasted the like.$1",
   "Aideen_reject_534": "Oh no, this is beautiful, but you shouldn't give it to me. It's an antique! And look, an inscription.#$b#You need to find the rightful owner. I'm sure they'll be missing it!$1",
-  //Conversation Topics
   "Aideen_MateoAideenScene1": "Oh... I cannot believe it, but I am still thinking about my encounter earlier...$2#$b#Uncouth indeed, but their speech was surprisingly eloquent.#$b#Oh, if only they would look where they were going!$a",
   "Aideen_Garden": "Everything is coming together nicely, darling. The garden should be ready in a few days.$1",
   "Aideen_Garden.platonic": "Everything is coming together nicely, @. The garden should be ready in a few days.$1",
@@ -128,11 +119,9 @@
   "Aideen_WinterStar_GiveGift_After": "This? Oh, it's just a little something. I do hope you will enjoy it.$7",
   "Aideen_WinterStar_ReceiveGift": "Thank you for the gift, @. I appreciate it.$1",
   "dialogue.aideen.mateopain": "Have you heard? Something terrible happened to that scruffy rabscallion, Mateo!$2#$b#I should send them flowers, don't you think? Or is that too presumptuous?$3",
-  //Dating Aideen
   "Aideen_spring_23_2.dating": "Hello @! I cannot chat. I am most horrendously busy preparing arrangements for the dance tomorrow.#$b#I do hope you shall attend, for I am somewhat eager to dance with you.",
   "Aideen_winter_Thu10.dating": "Oh @! This cold bites right to my bones. Would you mind terribly if I huddled with you for warmth?",
   "Aideen_Thu10.dating": "Very well, I admit it. I am no longer repelled by your unique fragrance.#$b#Indeed, I find myself rather drawn to it. Isn't that most peculiar?",
-  //Aideen Marriage Dialogue
   "Aideen_Marriage_Rainy_Day_0": "Oh, this rainy weather is so dreary, don't you agree?$2",
   "Aideen_Marriage_Rainy_Day_1": "Sometimes I daydream about going on an adventure. There are exotic flowers on the Fern Islands, you know.",
   "Aideen_Marriage_Rainy_Day_2": "Good morning! It was so dull outside, I decided to make you a treat.[223 234 211 651 731]#$e#Something sweet for my sweetheart, yes?$h",
@@ -153,7 +142,6 @@
   "Aideen_Marriage_Indoor_Day_2": "Did you have nightmares, my dear? You were tossing and turning all night.$2#$b#I was quite wrought with concern!$2",
   "Aideen_Marriage_Indoor_Day_3": "Could our cottage be haunted, my dear? I do feel a presence here, watching over us.$2#$b#Oh, do not be alarmed! I am certain it is benign. Perhaps a relative?$1",
   "Aideen_Marriage_Indoor_Day_4": "Would you care to stay in and keep me company, my dear?$2#$b#No? Well I love you regardless. Keep safe.$4",
-  //"Indoor_Day_Aideen":"",
   "Aideen_Marriage_Indoor_Night_Aideen": "How was your day, my darling? Fulfilling, I hope?#$b#Me? Oh, I have been arranging bouquets for a wedding.#$b#It has made me feel rather... romantically inclined!$4",
   "Aideen_Marriage_Indoor_Night_0": "Ah, @. You're home at last! I had grown quite weary of waiting up for you.$4",
   "Aideen_Marriage_Indoor_Night_1": "Please, my darling, do NOT look behind the farmhouse. Baron Munchington and a bird had a... misunderstanding, and the result is.. well, quite unsightly to say the least",
@@ -186,25 +174,14 @@
   "Aideen_Marriage_winter_2": "Chilly, isn't it? Perhaps later, we could snuggle together for warmth?$4",
   "Aideen_Marriage_Good_1": "My dear! It is simply glorious to see you again. Isn't it peculiar, how I yearn for your presence?$1#$b#I do love you, you know.$4",
   "Aideen_Marriage_Good_2": "Good morning, my dear, you look radiant today. Perhaps you could accompany me on a little rendezvous tonight?",
-  //"Good_3":"",
-  //"Good_4":"",
-  //"Good_5":"",
-  //"Good_6":"",
-  //"Good_7":"",
   "Aideen_Marriage_Neutral_0": "You are heading out again, my dear? Oh, do not fret about me. Baron Munchington will keep me company.#$b#I shall miss you though.$2",
   "Aideen_Marriage_Neutral_1": "What have I been up to today? Oh, nothing of import.$3#$b#How was your day?",
   "Aideen_Marriage_Neutral_6": "Oh, apologies my dear. I was quite lost in my thoughts.",
-  //"Aideen_Marriage_Neutral_7":"",
-  //"Neutral_8":"",
   "Aideen_Marriage_Bad_5": "Oh, you have deemed me worthy of conversation today. Do you suspect me to be filled with gratitude?$5",
   "Aideen_Marriage_Bad_6": "Farmhouse life is most tedious and I find myself slipping into melancholy.#$b#Oh, don't trouble yourself. I am sure you have more pressing affairs to attend to than your wife.$5",
   "Aideen_Marriage_Bad_7": "...",
   "Aideen_Marriage_Bad_8": "%Aideen is ignoring you.",
   "Aideen_Marriage_Bad_9": "%Aideen turns her back to you.",
-  //********
-  //Beatrice
-  //********
-  //BEATRICE Daily DIalogue - HUGE thanks to Dodo for writing this!
   "Beatrice_Introduction": "Bonjour @. My name is Beatrice and I am the East Scarp Light'ouse Keeper. Enchantée!",
   "Beatrice_ESIntroduction": "Bonjour @. My name is Beatrice and I am the East Scarp Light'ouse Keeper. Enchantée!",
   "Beatrice_Resort_Entering": "What a lovely place!",
@@ -276,7 +253,6 @@
   "Beatrice_winter_7": "I 'ave never been very good with a fishing rod, but maybe I could ask Willy to teach me his ways?$1",
   "Beatrice_winter_24": "Hello, @! Are you wishing for something special for tomorrow?",
   "Beatrice_AcceptGift_(O)StardropTea": "Oh, merci, this is certainly a rare brew. The fragrance, it is divine.",
-  //Beatrice Strings
   "Beatrice.strings.read.001": "Have you ever read the tale of the Ancient Mariner? It is one of my favourites.$1",
   "Beatrice.strings.read.002": "Penny invites me to read to the little ones sometimes. I like to tell them all the old myths and legends of the sea.$1",
   "Beatrice.strings.light.001": "It's a dark night tonight. I must make sure the light shines brightly.",
@@ -287,8 +263,6 @@
   "Beatrice.strings.saloon.001": "Ah, it's good to take a load off and relax.$1",
   "Beatrice.strings.checkup": "A good Keeper is a healthy Keeper.",
   "Beatrice.strings.sleep": "%Beatrice works all night. Better leave her to sleep.",
-  //**********************
-  //ELOISE Daily Dialogue
   "Eloise_Resort_Entering": "Oh wow! This place is wicked!",
   "Eloise_Resort_Leaving": "Bye bye parrots! See you again soon.$1",
   "Eloise_Resort_Shore": "Look at all these pretty shells! Want to help me make a necklace, farmer @?",
@@ -348,13 +322,11 @@
   "Eloise_GOABB": "Jas told me a real scary story about guns and a giant blue bunny. It was all about war, like the war in Gotoro.$3#$b#How does Jas know so much about war? I dunno... but I think she's got a new friend and she won't share him with me.$2",
   "Eloise_LucikielArrives": "Did you see the monster-man? Jas said he's real scary and made her feel like throwing up.$2#$b#I wish I could've seen him... I wouldn't have been scared!",
   "Dialogue.Eloise.ScarfAroundLampPost": "Maybe all the lamp posts in town should wear scarves! That'd make people smile!$1",
-  //Answers to Event Questions
   "Eloise_Eloise_Duck_Y": "Um... corn, lettuce, peas, oats, even seeds!",
   "Eloise_Eloise_Duck_W": "Of course he does! He loves it. Like I love pink cake!$1#$b#But if I eat it all the time, I'll get fat and sick. And so will he.$2#$b#Corn, lettuce, peas, they're much better for him!",
   "Eloise_Eloise_Duck_G": "Sure! Grapes are okay.#$b#Corn, lettuce, peas, they're good too!",
   "Eloise_Eloise_Duck_N": "I'm not bossy! You're mean.$2",
   "Eloise_Is_Sora_Dead": "Sora's still not written. Maybe he doesn't like me anymore...$2#$b#Or maybe... No, thinking about that makes my stomach all squicky. Like it's full of birds but not in a good way.$2",
-  //courtship responses
   "Eloise_rejectNPCA": "Are these for my mom? She really loved pretty flowers.$3",
   "Eloise_rejectNPCB": "The only flower I like is daffodil! Feathers are better.$1",
   "Eloise_refusal_no_heartsA": "Have you been looking for shells on the beach too? That one looks really special.",
@@ -370,7 +342,6 @@
   "Eloise_Parents_personal": "Oh... I'm sorry... Dad always says my tongue's too fast for my brain. I'll try and get better and think first next time. Promise!$3",
   "Eloise_Parents_rude": "Sorry...$2",
   "Eloise_winter_TueBack": "Winter's not a good time for birds, farmer @. It's hard to find food!#$b#Sometimes I sprinkle seed on the lawn. The cardinals love it!",
-  //Dialogue
   "Eloise_spring_Fri10": "Did you know baby birds - fledglings - can't fly when they first leave the nest?#$b#If you see any, and there's no predators around, they'll be okay. Don't touch them!$3",
   "Eloise_Sat10": "I've been reading my letters from Sora again. I hope he's okay. His life sounds pretty scary.#$b#I'm glad Dad and Mom and me back here before everything went horrible. I wish we'd brought Sora and his family too though.$2",
   "Eloise_Sun10": "$c 0.5#Do you want to come beach-combing with us today? Dad lets me bring home shells to draw. I'm making a scrapbook of them!$1$k#We're going beach-combing! I'm looking for sea urchins. Did you know they sometimes put shells on their heads like little hats?!$1",
@@ -390,12 +361,11 @@
   "Eloise_fall_Sun10": "Do you think Dad and his brother will ever be friends again?#$b#I have to really, really ask lots of questions before Dad'll even talk about him.$2",
   "Eloise_winter_Mon10": "Are you friends with my Uncle? I think he needs more friends.$3#$b#But when I talk to him, he says things that make me feel sad. I don't think he likes me.$2",
   "Eloise_winter_Tue10": "Have you got any brothers or sisters, farmer @?#$b#Sometimes I wish I had a big brother like Vinnie does. Sam's so cool. He's a musician! Did you know that?$1",
-  "Eloise_winter_Wed10": "Jas was talking about what she wanted to be when she grows up yesterday.#$b#I've been thinking... I want to be a world famous ornithologist, like Professor Bethany Pickering.$3", //a very obscure reference that I will be absolutely stoked if anyone recognises it.
+  "Eloise_winter_Wed10": "Jas was talking about what she wanted to be when she grows up yesterday.#$b#I've been thinking... I want to be a world famous ornithologist, like Professor Bethany Pickering.$3",
   "Eloise_winter_Thu10": "It's my Uncle's birthday soon. I wanted to give him a gift. Dad said I could draw him a picture.#$b#But what if he doesn't like it?$2",
   "Eloise_winter_Fri10": "Dad got called out to an emergency in the middle of the night. Don't worry, Miss Rosa came to keep me company.#$b#I like her. She's been to so many places! Maybe one day I'll travel the world too.$1",
   "Eloise_winter_Sat10": "Nana gives the best Winter Star gift! This year I got a shimmery-shiny notebook!$!#$b#It's got a padlock on it too, so no-one can read my secrets.",
   "Eloise_winter_Sun10": "Sometimes we find rubbish on the beach. We always pick it up and throw it out.#$b#Cos if we don't, animals could eat it and get sick. That makes me sad.$2#$b#You don't litter, do you farmer @?$3",
-  //Unique Gift Responses
   "Eloise_GiftReaction_Duck_Feather": "Oooh! I'm going to add this to my collection. Thank you @!",
   "Eloise_GiftReaction_Feather.1": "Oooh! I'm going to add this to my collection. Thank you @!$1",
   "Eloise_GiftReaction_Feather.2": "Thank you! This so pretty. I love it!$1",
@@ -414,14 +384,12 @@
   "Eloise_AcceptGift_(O)Ivy_OrnithologistsGuild_Nest": "Oh cool! I wonder what bird made it?$1#$b#It was empty when you found it, right?$2",
   "Eloise_GiftReaction_Kiwi": "Oooh, this fruit is really fuzzy! It's named 'kiwi' after a really weird bird!$3",
   "Eloise_reject_EastScarp_Vintage_Ruby_Ring": "Oooh this is pretty! But it's far too big for me. Looks precious too.#$b#My Nana wears lots of shiny rings, maybe she'd like it!$1",
-  //Conversation Topics
   "Eloise_AbyssRoosterGrow": "Prince Shadow's much happier now he's with his mom!$1#$b#I had a talk to Ms. Kat about how to look after him and stuff. And guess what?#$b#She studied zoology at university - so she knows already. I'm still gonna check up on him every day though!$1",
   "Eloise_PepperPupHome": "Have you come to see Pepper? She's a little bit shy today.$2#$b#Oh! Maybe you can come back tomorrow!$1",
   "Eloise_Aideen_Garden": "Ms. Aideen's garden sounds really cool! I wonder if she'll let me add a birdfeeder?$3",
   "Eloise_EloiseSora_Positive": "That's what Miss Penny says too... And Vinny's Mom.$2",
   "Eloise_EloiseSora_Real": "Thanks for talking to me about it, farmer @.",
   "Eloise_EloiseSora_Negative": "That's a mean thing to say.$2",
-  //Eloise playing Mute
   "Eloise.Mute.Mon8": "... I'm quiet as a mouse, farmer @.",
   "Eloise.Mute.Tue8": "... Vincent keeps telling me jokes. I think he's trying to cheer me up.#$b#It's really hard not to laugh.",
   "Eloise.Mute.Wed8": "... I've started writing down stuff instead of saying it out loud.#$b#And now I need a new notebook!$1",
@@ -429,7 +397,6 @@
   "Eloise.Mute.Fri8": "... I don't think it's working... Leo doesn't seem to want to talk to me anymore.$2",
   "Eloise.Mute.Sat8": "... I knew the right answer in class yesterday, but I didn't say anything.#$b#Miss Penny looked all frowny.$2",
   "Eloise.Mute.Sun8": "...",
-  //Eloise strings
   "eloise.strings.tuesday.000": "You're so funny, Jas! It's a blue jay: Cyanocitta cristata.A type of corvid, so he's cousin to the crows.$1",
   "eloise.strings.tuesday.001": "Vinny and I wanted to go outside and look for bugs, but his mom said not until after lunch...$2",
   "eloise.strings.tuesday.002": "There's something in here. Maybe a bird nest? No, wait, it's got too many legs! That's the biggest spider I've ever seen!$3",
@@ -442,10 +409,8 @@
   "eloise.strings.schoolday.001": "Yes Dad, I promise I won't ask Miss Penny too many questions today! Even though she likes questions!",
   "eloise.strings.winter_17.000": "That pig is so funny! It seems to think it's a person.$1",
   "eloise.strings.winter_17.100": "That's a rose-headed parrot, farmer @.They can live a really long time and are super-smart.$1#$b#They need lots of attention and can learn to talk!$1#$b#I asked if I could buy her, but she's not for sale.$2",
-  //Alternative DIalogue
   "Eloise.Town.Randy": "Hello farmer @! I'm helping Randy with his reading.#$b#(whispers) But I'm not sure he really understands how books work.$1",
   "Randy.Town.Eloise": "Hi! Ellie is new friend! She very smart!#$b#But sometimes treat Randy like me stupid.$s#$b#And that make Randy sad. Cos Randy not stupid, no?$2",
-  //Randomized facts
   "Eloise.Rockpools.a": "Did you know that if a starfish loses its arm it grows back?",
   "Eloise.Rockpools.b": "Did you know that some starfish can release venom so you've got to be careful not to touch them!",
   "Eloise.Rockpools.c": "Did you know that starfish eat by pushing their stomach out their mouth and over the prey!",
@@ -462,14 +427,12 @@
   "Eloise.Fall_26.Leo": "I hope Leo likes my costume for Spirit's Eve tomorrow.$3#$b#You'll be there too, right? Dad always looks forward to seeing you.$1",
   "Eloise.Summer_12.Leo": "Leo says the crested flamingos are a bit like the gembirds on his island.#$b#They sound really magical, I wish I could see them.$3",
   "Eloise.Fall_Thu10.Vivienne": "Nana and me have been writing together! I'm helping her write a new Lunarkin adventure.#$b#It's gonna have a bird in it. Nana says I can choose what sort... but I dunno what type to choose...#$e#What's your favorite bird, farmer @?",
-  "Penny.EloiseQuiet": "Eloise usually has all the answers... but she's been very quiet recently. I hope nothing's wrong at home.$2", //PEnny about Eloise
+  "Penny.EloiseQuiet": "Eloise usually has all the answers... but she's been very quiet recently. I hope nothing's wrong at home.$2",
   "Jas.ELoiseQuiet": "Do you think Ellie's mad at me, @?",
   "Vincent.EloiseQuiet": "Do you think Ellie's mad at me, @?The girls don't want to play with me anymore.$2#$b#And something's made Eloise sad. I told jokes to cheer her up, but it didn't work.$2",
   "Vincent.PuppyTalk": "Eloise asked if I wanted to go see some dogs with her. Mom said 'No' though.$2#$b#I think she was scared I'd bring one home.$1",
   "Jas.PuppyTalk": "Eloise invited me to adopt a dog in Chesterville. I wanted to go... but the roads really windy, it makes me sick.$2#$b#So I said 'no'. I hope she's not mad at me.$3",
   "Marnie.EloiseQuiet": "Jas and Ellie were best friends... but now Ellie's barely talking.#$b#Do you know what's wrong, @? Did they have some sort of fight?$2",
-  //************************
-  //EYVIND Daily Dialogue
   "Eyvinder_IntroEyvindr": "Just so you know, this is my mountain. Leave the goats and me alone, and we'll get along just fine.$5",
   "Eyvinder_Resort_Entering": "So this is beach. Hah, well, it's hot. I'll give it that.",
   "Eyvinder_Resort_Leaving": "Yeh, okay, it wasn't horrible. Maybe I'll even come back one day.",
@@ -569,14 +532,12 @@
   "Eyvinder_summer_27_2": "It's almost the end of summer. I suppose you'll be headed to the beach, to watch those stingers float by.#$b#Me? I'll be keeping my goats out of mischief.",
   "Eyvinder_winter_24_2": "Ah yes, Winter Star. It's a quaint human tradition. Lewis still running the secret gift exchange?#$b#Used to participate myself, but no-one appreciated coal properly.$2",
   "Eyvinder_election": "Humans and their politics... Lewis barely listened to nature, and this new city punk doesn't seem any better.$a",
-  // Unique Gift Responses
   "Eyvinder_Reject_EastScarp_Vintage_Ruby_Ring": "Where did you find this? It belonged to... No, I don't want to remember her.$2#$b#Have it back. Find someone worthy of it.$a",
   "Eyvinder_AcceptGift_category_vegetable": "Ah, thank you! The goats will appreciate these.$1",
   "Eyvinder_AcceptGift_category_fruit": "This is fresh? I'm sure the goats will enjoy these.$1",
   "Eyvinder_AcceptGift_category_flower": "What do you take me for? Someone who appreciates the beauty of nature? Hah, yeah, you'd be right. It's lovely.$1",
   "Eyvinder_AcceptGift_(O)459": "A drop of my favorite brew... Yeh, guess I've a sweet tooth after all.$1",
   "Eyvinder_AcceptGift_(O)StardropTea": "Ah, this is a most fine brew indeed! I've never tasted it's like. Thank you.",
-  //Dialogue
   "IntroEyvindr": "Just so you know, this mountain belongs to me and the goats.$5#$b#But since Old Gruff's okay with you... well, I reckon we should get along just fine.$1",
   "fall_Thu2": "Old Gruff seems to have acquired a taste for apples.%revealtasteEyvinder613#$b#Wouldn't say 'no' if you dropped by with a couple, now and then.",
   "dialogue.eyvind.summer_1_2": "Summer's a good time for flowers, don't you think? Let's see how green your fingers are.",
@@ -584,8 +545,6 @@
   "dialogue.eyvind.spring_1_2": "You want to give the bees a hand? You should plant some of these.",
   "dialogue.eyvind.winter_2_2": "I hear a farmer's life gets pretty dull over winter. Perhaps these might brighten you up a bit",
   "dialogue.eyvind.seeds": "Hmm, don't really know how these'll grow up here. but I 'spose you'd best have some of these... Fairs fair, indeed?",
-  //********************
-  //JACOB Daily Dialogue
   "Jacob_Introduction": "Um, Hi. The name's Jacob. I'm Stardew Valley's mobile vet. Pleased to meet you.",
   "Jacob_ESIntroduction": "Um, Hi. The name's Jacob. I'm Stardew Valley's mobile vet. Pleased to meet you.",
   "Jacob_Resort_Entering": "Oh, it's good to be back on solid land. Sea travel always makes me a little queasy.",
@@ -673,7 +632,6 @@
   "Jacob_summer_Wed6": "Del had the green thumb. Me not so much. That's why I love cacti so much.$1",
   "Jacob_winter_24": "I hope to see you at the festival tomorrow, @. Ellie's so excited; It's all she wants to talk about.$4#$b#And boy can she talk!$1",
   "Jacob_winter_24_2": "Don't tell Ellie, but Winter Star's hard for me... Del loved it so much.$2#$b#She seemed to always be able to pick the perfect gift for anyone.$4",
-  //courtship dialogue
   "Jacob_rejectNPCA": "Oh, those are lovely... but I'm afraid it's too soon to give my heart to another.$2",
   "Jacob_rejectNPCB": "That's very kind. But I'm not romantically interested in you.$2",
   "Jacob_refusal_no_heartsA": "Oh? Um... No thanks... I couldn't leave my farm... or Ellie.$2",
@@ -682,7 +640,6 @@
   "Jacob_engageB": "I thought you were already engaged? Well, I'm flattered, but not interested.$5",
   "Jacob_marriedA": "Aren't you married? This isn't appropriate.$2",
   "Jacob_marriedB": "Um... sorry but please leave me alone. You're making a mockery of something that was sacred to me.$2",
-  //Conversation Topics
   "Jacob_Is_Sora_Dead": "I really hope we hear from Sora soon. Ellie's really taking it to heart.$2#$b#And the mail's so unreliable. It could mean nothing... or it could mean everything.$2",
   "Jacob_Jacob_DinnerDate": "Oh yes, you are definitely invited to join us for dinner.#$b#Eloise is very enthusiastic about it; she's planned out a menu and everything.$1#$e#Insisted on writing the invite too, you probably noticed. I've never known anyone to love an exclamation mark so much.#$b#Did I read it first? No. Should I have?$2",
   "Jacob_Jacob_Date": "You do??!$4",
@@ -695,18 +652,14 @@
   "Jacob_PepperPupHome": "The poor wee pup's quite tuckered out. It's been a big day for her.#$b#Don't worry, I'm sure she'll be out and about and looking to make friends tomorrow!$1",
   "Jacob_Aideen_Garden": "Aideen told me about her town garden project.#$b#I'm excited to lend a hand. I may not have green fingers, but I can certainly use a shovel.$1",
   "Jacob_ShearwaterBridgeRenovationStart": "Victor dropped off some information about the renovation. Might have to leave a little earlier to get to school.$2#$b#It's quite an impressive project though, you must be so proud of him!$1",
-  //gift reactions
   "Jacob_AcceptGift_(O)167": "Thanks, but sorry it's not to my taste... I tried drinking this stuff in my vet school days.$2#$b#It's so full of caffeine; I don't think I slept for a week.",
   "Jacob_AcceptGift_(O)StardropTea": "This is a very special tea... Thank you, @. I really appreciate it.",
-  //Jacob strings
   "jacob.strings.tue000": "Have fun, bufflehead, and don't stay up too late reading! I'll see you tomorrow. Love you!$4",
   "jacob.strings.tue001": "Have a great day today, bufflehead. I'll see you tonight. Love you.",
   "jacob.strings.fri001": "Ah, hello @. Every Friday I drop off Eloise's letters to her friend Sora.",
   "jacob.strings.fri002": "Hi @. Just checking in to make sure Miss Marnie's animals are all doing well.",
   "jacob.strings.sat001": "On a clear day, you can see almost all the way to the Fern Islands. Del used to love this view.",
   "jacob.strings.winter17": "I've given Ellie a little pocket money to spend - it's not often we get such exotic visitors!#$b#I hope she doesn't buy that parrot...$3",
-  //*****************
-  //Jade Dialogue
   "Jade_Introduction": "Hi! I'm Jade. I'm here doing research - so we'll probably see each other around, right?$1",
   "Jade_ESIntroduction": "$1 Jade_Introduction#Hi! I'm Jade. I'm here doing research - so we'll probably see each other around, right?$1$k#$e#Hi, we've met before, right?",
   "Jade_FlowerDance_Decline": "I'm not a good dancer...$2",
@@ -796,7 +749,6 @@
   "Jade_cc_Complete": "The community center looks great! Maybe we could have workshops or classes in there?#$b#Do you think people might like a meet-and-greet with Beauty?#$b#No? I guess not everyone loves spiders.$2",
   "Jade_movieTheater": "Have you visited the new theater? We should go see a movie sometime.$1",
   "Jade_JulietGremlin": "Have you met Juliet's dog, Gremlin? She's very cute... but she's scared of me.$2#$b#I'll win her over though - you'll see!$1",
-  // marriage dialogue
   "Jade_marriage_Rainy_Day_0": "It's raining. I wanna go look for worms!",
   "Jade_marriage_Rainy_Day_1": "Rainy. I wanna stay inside today.",
   "Jade_marriage_Rainy_Day_2": "Good morning darling!$h#$e#Work hard!",
@@ -884,8 +836,6 @@
   "Jade_resort.wander": "Am I allowed to check out the island?$1#$b#There's gotta be some crazy stuff living here.$1",
   "Jade_resort.bar": "Cold drinks, hot weather. How much does it cost to live here?$1",
   "Jade_resort.generic": "This place is great! Go relax, @, you've earned it.$1",
-  //**********
-  //Jasper
   "Jasper_Introduction": "Hello, @. I'm pleased to meet you.#$b#My name's Jasper, and I too, am newly returned to town.$1",
   "Jasper_ESIntroduction": "Hello, @. I'm pleased to meet you.#$b#My name's Jasper, and I too, am newly returned to town.$1",
   "Jasper_Resort_Entering": "Is this place not remarkable? I feel as though I have stepped back in time!$1",
@@ -1087,7 +1037,6 @@
   "Jasper_DwarfVisit_pk.r2": "That seems ... not impossible. But goblins leave a lingering scent behind them - of dead leaves and decay. I do not smell that here.",
   "Jasper_DwarfVisit_pk.r3": "$p 5070124#I do rather doubt that. Cameron would never seek to harm me in that manner and he would not stoop to petty crime.^I do rather doubt that. Cameron would never seek to harm me in that manner and she would not stoop to petty crime.|I know that you and Cameron do not see eye-to-eye, but this seems underhanded, even for him.$a^I know that you and Cameron do not see eye-to-eye but this seems underhanded, even for her.$a",
   "Jasper_DwarfVisit_pk.r4": "Please do not make me doubt my memories, @. For I indeed left them by the table that night.$2#$b#It is my body that is broken, not my mind.$a",
-  // Recovery dialogue
   "Jasper_Recovery_Tue8": "Sorry if I seem a little out of sorts. Last night, nightmares plagued my sleep.#$b#I fear the dark, @, as I never had before.",
   "Jasper_Recovery_summer_Wed6": "Gunther has been a most gracious host, for I am afeared I am not the best of company at present.",
   "Jasper_Recovery_Wed8": "I am ashamed to admit it, @, but I have invested in a night light. It helps to keep the dark thoughts at bay.#$b#I worry that the void has crept its way into my heart.",
@@ -1120,7 +1069,6 @@
   "Jasper_Recovery_EastScarp_JasperHouse_23_13": "Food nourishes the body, but knowledge is what nourishes the soul, @.$4",
   "Jasper_Recovery_Town_32_78": "Greetings my friend! It is my pleasure to assist Evelyn in tending the flowerbeds.#$b#There's some use to a washed-up scholar after all!",
   "Jasper_Recovery_summer_15_2": "Today marks the anniversary of my father's death. I was twelve years old.$2#$b#The yield from the mines had dwindled significantly, and miners were sent down in shifts - working day and night - in an effort to make quota. My father was on the night shift.$2#$b#The explosion happened at five minutes to midnight: a terrible low BOOM that rattled the windows and sent the cat bolting under the bed.#$b#We ran outside, and smoke obscured the stars. The forest burned for a week. The mines are burning still.$2",
-  //Cameron Rival hearts
   "Jasper_RivalHearts_Wed8": "Sorry, I am a little tired today. Cameron dropped by and we were up all night.$1#$b#We were talking of course! Well...mostly talking...$4",
   "Jasper_RivalHearts_Sat8": "$1 New_Proposal#I have submitted a new proposal for consideration. I hope that my newly-found camaraderie with Cameron may asist in its acceptance.$k#$e#Cameron has agreed to help with my latest proposal. I am sure that we shall disagree most whole-heartedly.#$b#But well-considered debate is always welcome, and shall assist in rebuttals at a later date.$3",
   "Jasper_RivalHearts_fall_Fri8": "Cameron has invited me to attend a movie with him. I do not know whether to accept.$2^Cameron has invited me to attend a movie with her. I do not know whether to accept.$2#$b#I am sure we shall most avidly disagree over it and it seems a shame to destabilize this new amiability we have forged.$2",
@@ -1142,7 +1090,6 @@
   "Jasper_RivalHearts_Jasper_Mean": "Seek reassurance, receive disregard. I would say I appreciate your honesty, @. But in truth, I do not.#5",
   "Jasper_RivalHearts_Jasper_Extrovert": "$p 5070103#But there is a saying that opposites attract, and perhaps my negatives shall balance his positives.$3^But there is a saying that opposites attract, and perhaps my negatives shall balance her positives.$3|And I understand that it cannot work between us. So why is it that I want so badly to try? I really like him, @. A lot.$5^And I understand that it cannot work between us. So why is it that I want so badly to try? I really like her, @. A lot.$5",
   "Jasper_RivalHearts_winter_20_2": "I would like to get Cameron a gift for Winter Star. Do you have any suggestions, @?",
-  //Jasper Dating
   "Jasper_Dating_Wed8": "Greetings my dear friend! It is always a pleasure to see you.#$b#And I hope that you feel the same?$4",
   "Jasper_Dating_spring_Sat8": "I found these in the back of my cupboard... I hope they shall still grow.[745][0745]$4",
   "Jasper_Dating_fall_Fri10": "It is as though a weight has been lifted off my shoulder. Or perhaps I should say, off my knee.$3#$b#Sorry, gallows humor again. But seriously, @, I am grateful to you, for tolerating my foibles and becoming my friend.",
@@ -1162,7 +1109,6 @@
   "Jasper_Dating_refusal_knownB": "Oh, my mind is all a buzz... Not so long ago I was married to my research. Please, give me a little more time.$2",
   "Jasper_Dating_refusal_botherA": "I need a little more time to consider this. And what it means. Sorry.$2",
   "Jasper_Dating_refusal_botherB": "Oh, @. Why are you so determined to shackle yourself to an old fool like me? I care for you deeply, but please be patient.$4",
-  // Jasper Marriage Dialogue
   "Jasper_Marriage_spouseRoom_Jasper": "Ah a place to call my own. The scent of ink and paper, @. That's the scent of home.$1#$b#But it wouldn't be a real home without you, my love.$4",
   "Jasper_Marriage_Rainy_Day_0": "I love the smell of a rainy day, it's like the sky is kissing the earth.$1#$b#What? I can romanticise the weather if I wish, @.$4",
   "Jasper_Marriage_Rainy_Day_1": "Today seems like a good day to finish my revisions on 'Mysteries of the Dwarves'.#$b#Stay safe out there, @. I love you.",
@@ -1352,7 +1298,6 @@
   "Jasper_Marriage_GIMA_GIReturn_Talked_Jasper": "I hope your trip to the island was as lucrative as mine, beloved. Here, I brought you home a little something.$1 [791 827 852 848]",
   "Jasper_Marriage_DwarfFriend_Neutral_6": "I've been poring over the newspapers, @, and it appears petty theft is on the rise across the Valley.$2#$b#Perhaps it is merely hopeful optimism, but could it be connected to the smoluanu?#$b#Our kleptomaniac friend may be less alone than they fear.",
   "Jasper_Marriage_FOWS_spouseRoom_Jasper": "Happy Winter Star my love. What am I thankful for? Oh, so many things!#$b#Friendships... a good book. And, of course, you my love. Happy Winter Star. I love you.[578 565 553 547 347]$4",
-  //Jasper Strings
   "strings.safariguy.tent": "It's a water-damaged and battered copy of M. Jasper's 'Famous Journeys'",
   "jasper.breathe": "Do not fret. I am just taking a moment to compose myself... The dark, the earth... it still haunts me, @.",
   "jasper.spring.false.read": "Oh, hello there @! I was just reading about the lore of Stardew Valley. But I shan't bore you with details, I'm sure you've better things to do than listen to me rabbit on.$1",
@@ -1423,8 +1368,6 @@
   "Jasper_Strings_dwarfVisit_Dw2": "Ah, greetings @. It appears, whilst some hold truth, that my theories were somewhat... lacking in the full complexity.",
   "Jasper_Strings_dwarfVisit_Dw3": "Have you come to join us? Dwarf has quite a few tales to tell!",
   "Jasper_strings_Harvey": "The wound looks to be healing well.$3",
-  //*****************
-  //Jessie
   "Jessie_Introduction": "Good morning! You must be the new farmer. I'm Jessie, and it's a pleasure to meet you.$1",
   "Jessie_ESIntroduction": "Good morning! You must be the new farmer. I'm Jessie, and it's a pleasure to meet you.$1",
   "Jessie_Resort_Entering": "I thought I saw something - someone - out on the waves. But I fear that was just wishful thinking.$2",
@@ -1506,7 +1449,6 @@
   "jessie.pregnantgift": "Hello @. Congratulations of the imminent new arrival. Here's a little something that might help.",
   "jessie.pregnant": "I hope everything's going well, @.",
   "jessie.rain": "It's a beautiful day, isn't it @? Of course I know it's raining! The plants love it, and the world becomes fresh and alive.$1",
-  //Juliet
   "Juliet_Resort_Entering": "Well, isn't this fancy! Time for some fun in the sun, right?",
   "Juliet_Resort_Leaving": "I feel so relaxed! But it's back to work tomorrow for you, I suppose?",
   "Juliet_Resort_Shore": "Sun, surf, babes in bikinis... what more can we wish for, eh?",
@@ -1686,7 +1628,6 @@
   "Juliet_MobilePhoneGoodBye": "Catch ya later! Don't be a stranger, {0}.",
   "Juliet_AcceptGift_(O)Rodney's_Autograph": "Haha, it's Two-time Rodney. Hmm, how do you think he'd look with glasses and a moustache, @?$1#$b#Now, where's my marker?",
   "Juliet_AcceptGift_(O)StardropTea": "Huh, weird. It's like someone brewed all my fave flavors together. Which should taste disgusting cos some stuff just shouldn't work - but somehow it's delicious.",
-  //Juliet marriage
   "Juliet_Marriage_Rainy_Day_0": "Well, the weather's crap. Guess I'll stay in and pound the skins, maybe catch up on this latest shapeshifter smut.",
   "Juliet_Marriage_Rainy_Day_1": "You going to the mines today? You better bring me back something shiny!",
   "Juliet_Marriage_Rainy_Day_2": "*yawns* Restless night... you know the drill. Might head back to bed soon.",
@@ -1796,7 +1737,6 @@
   "juliet.marriage.fall_juliet": "Good morning lover! Well, I'm off for the day! Laters!$1#$b#Oh, here's a little something to stop you wearing yourself out. I have plans for you later.$4",
   "juliet.refusal_no_heartsA": "Hah, me, get hitched? That's a ridiculous idea!$1",
   "juliet.refusal_no_heartsB": "Aww, you're adorable. But no.",
-  //strings
   "Juliet_Strings_winter_17.000": "Have you checked out the mermaid show, @? It was great! Gave me chills in more ways than one!$1",
   "Juliet_Strings_winter_17.100": "Hey @! I think I drank too much of that free coffee... I'm never gonna sleep tonight!$1#$b#Just what you need on a cold night like this, right?",
   "Juliet_Strings_winter_17.200": "Brrr, I think I'll just shelter here. Wanna grab a coffee and join me? We could huddle for warmth.$4",
@@ -1805,7 +1745,6 @@
   "Juliet_Strings_JojaClosedA": "What a dump. Hey, do you think Morris is still living in there? I can hear something scratching.",
   "Juliet_Strings_JojaClosedB": "Join us thrive. Hah, well that was a lie, wasn't it?$2",
   "Juliet_Strings_JojaClosedC": "Hey, wanna explore an abandoned building? There's probably some pizza left in the backroom.",
-  //JOSEPHINE Daily Dialogue
   "Josephine_Resort_Entering": "What a lovely little resort. It may not be The Grand, but it is most certainly charming.$1",
   "Josephine_Resort_Leaving": "Maybe I'll bring my Guvvie next time. He loves a rustic getaway.",
   "Josephine_Resort_Shore": "The water here's so clear. It's really quite divine.$1",
@@ -1855,13 +1794,8 @@
   "Josephine_AcceptGift_(O)J44": "How absolutely delightful! I do so love home preserves.$1",
   "Josephine_AcceptGift_(O)342": "Wonderful! These will add a wonderfully rustic touch to our next dinner party.$1",
   "Josephine_AcceptGift_(O)StardropTea": "What a wonderful beverage! The fragrance is truly unparallelled. Is this a local brew?",
-  //********
-  //Kataryna
-  //********
   "Kataryna_Resort_Entering": "What an intriguing island! That volcano is fascinating. I wonder if a dragon lives there?",
   "Kataryna_Resort_Leaving": "Nothing exciting today... Ugh, I think I got too much sun... What a waste of time.$2",
-  //"Kataryna_Resort_Shore": "",
-  //"Kataryna_Resort_Umbrella": "",
   "Kataryna_Resort_Wander": "'Don't go too far from the boat', he said. Well, fat lot of use that is... there could be all manner of fascinating creatures here.$5",
   "Kataryna_Resort_Bar": "Go on Gus, top me up. Beach days are easier to bear with a bit of booze.$1",
   "Kataryna_Resort": "Ugh... sun, sand and water... could this place be any more dull? And those changing huts? Pure kitsch.",
@@ -1921,7 +1855,6 @@
   "Kataryna_AcceptGift_(O)StardropTea": "I've heard that a tea like this can give you visions of the future or other worlds. How exciting!$1",
   "Kataryna_reject_EastScarp_Vintage_Ruby_Ring": "You're giving me vintage jewelry? I can't accept this. You should get it valued - who knows? Might be worth a fortune.$1",
   "Kataryna_DumpsterDiveComment": "What are you doing? Looking for treasure? I doubt you'll find any in there.$a",
-  //Kataryna MArriage Dialogue
   "Kataryna_Marriage_Rainy_Day_0": "What a thoroughly miserable day. If you absolutely must go outside, you'd better wear a coat.$2#$b#I've no time to be your nursemaid if you catch cold.",
   "Kataryna_Marriage_Rainy_Day_1": "Well, a good day to do some editing I guess. How tedious.#$b#Unless... Hmmm... I don't suppose you'd care to stay home?#$b#I can think of a way to keep each other entertained.$1",
   "Kataryna_Marriage_Rainy_Day_2": "If you're headed out today, love, can you keep an eye out for any kelpie?#$b#They're most active in wet weather. But whatever you do, don't hop on its back.$2#$b#I'd really rather you came home in one piece. I'm quite fond of you.",
@@ -2016,7 +1949,6 @@
   "dialogue.katarynabecomessocial.winter_Sat": "People keep looking at me sideways. Small town like this, bound to be a few skeletons.$2#$b#Lucky for them, I'm not that kind of journalist. Unless of course one was to stand up.$3",
   "dialogue.katarynabecomessocial.winter_Wed": "I've picked up some editing work on the side. Mostly pulp fiction nonsense, but it is what it is.$2",
   "dialogue.katarynabecomessocial.winter_Sun": "Oliver doesn't seem too happy I'm still around. Ah well, at least he's staying quiet about it.#$b#I can deal with the odd death stare.$2",
-  //Kataryna Strings
   "kataryna.strings.Museum_GuntherA": "Any more books turned up, Gunther?$3",
   "kataryna.strings.Museum_GuntherB": "Hello @, care to join a discussion about the netherworld? No? Well, maybe next time.",
   "kataryna.strings.Museum_GuntherC": "Read any good books lately? Gunther and I are discussing pulp literature - our not-so-secret vice!$1",
@@ -2028,7 +1960,6 @@
   "kataryna.strings.MinesEntrance": "Oooh, this place gives me the chills. I wonder what's in there?$3",
   "kataryna.strings.AdvGuild": "Ugh, I've been knocking all day, but the Guildmaster refuses to let me in.$a",
   "kataryna.strings.Winter_Market": "I've heard there are mermaids! How fantastic. Do you think they'll be up for an interview?$3",
-  //LEXI daily dialogue
   "Lexi_Mon": "From the surface, you come, yes?...#$b#Tell me... The people there, do they fear me still?",
   "Lexi_Mon4": "I miss the fruits of the land. Fruits of sea... they do not taste as sweet.",
   "Lexi_Mon8": "Friend Gull comes visit, he bring news. He's a big gossip!#$b#Talk tales of island of fire, and a funny boy who thinks he is a parrot!$1#$b#Friend Gull has a big imagination!$3",
@@ -2068,8 +1999,6 @@
   "Lexi_AcceptGift_(O)StardropTea": "Is the sweetest thing I've ever tasted. It make me feel warm and happy and loved. Thank you.$1",
   "Lexi_reject_EastScarp_Vintage_Ruby_Ring": "This is precious stone! Gift from earth, deep from earth heart. Not gift for me, is for someone else, I feel it.",
   "Lexi_ShearwaterBridgeRenovationStart": "There is big work going on the fancy bridge! It is very exciting to watch.$1",
-  //*****************************
-  //LUMA dialogue by RainyDayJules
   "Luma_LumaIntro": "There are not many human people who can see us. And you? You stink of the filth of the city.#$b#But perhaps, you are not all bad.#$b#$1 LumaFirstMet#We the junimo have no names...but we are fond of the name 'Luma', so you may call us that, if you like.$1",
   "Luma_Mon": "Today is a good day to enjoy flowers, but we would tell you not to pick them.#$b#The flowers are for the bees, not for humans to put in a vase to wilt.$2",
   "Luma_Mon2": "Take time to stop and smell the flowers, human stranger.#$b#Hmmm... we shall permit you to pick one today - but you must leave the rest for the bees!$1",
@@ -2127,9 +2056,7 @@
   "Luma_joja_begin": "You have some gall to show your face here, human person. Now we've been displaced from our home, and the blue-blight creeps across our land.$a",
   "Luma_AcceptGift_(O)Raisins": "We love the concentrated sweetness. For us, it is the taste of happiness.",
   "Luma_RejectGift_766": "Get it away! You would not like it, would you, were we to gift you the flesh of your flock.$5",
-  "Luma_RejectGift_(O)Lemurkat.EastScarp_Golden_Apple": "We do not approve of cheating! And you, smelly farmer, are a dirty cheater!$a", //this item is not implemented yet; this dialogue will be removed when update officially released
-  //**********************
-  //OLIVER Daily Dialogue
+  "Luma_RejectGift_(O)Lemurkat.EastScarp_Golden_Apple": "We do not approve of cheating! And you, smelly farmer, are a dirty cheater!$a",
   "Oliver_Josephine_Arrives": "Hey, you're the farmer, right? Mayor Lewis had a lot to say about you.#$b#Oh, don't worry, most of it was good!$1",
   "Oliver_Resort_Entering": "This place is pretty wicked!$1",
   "Oliver_Resort_Leaving": "I hope there's something good for dinner. I'm ravenous!$1",
@@ -2200,7 +2127,6 @@
   "Oliver_AcceptGift_(O)557": "Hey, cool thanks. These make great tokens for board games.",
   "Oliver_AcceptGift_(O)167": "Thanks! I'm not supposed to drink the stuff, but it'll help me stay up all night gaming.$1",
   "Oliver_AcceptGift_(O)StardropTea": "I'm not really into tea, but this smells really good.",
-  //Oliver additional dialogue
   "Oliver_vet_Wed6": "Yesterday with Dr. Jacob was awesome. I helped Dr. Jacob deliver a calf!#$b#Well, mostly I just handed him stuff, but it was pretty exciting... and a bit gross too!$1",
   "Oliver_vet_summer_Wed6": "Dr. Jacob had to euthanise an injured bull yesterday. He was pretty upset about it.#$b#I was a bit too. I guess we city kids don't really think about where meat comes from.",
   "Oliver_vet_fall_Wed6": "Phew. Don't tell Mom, but I'm a bit sore today. Dr. Jacob and me captured some sick sheep.#$b#They're tougher than they look! We managed to save almost all of them though.$1",
@@ -2214,9 +2140,6 @@
   "Oliver_fall_Mon10": "People trust me around here. I'm still getting used to that, but it's nice.",
   "Oliver_summer_Thu10": "One of the side effects of living with Jacob is that I will never need to learn things about birds ever again.",
   "Oliver_winter_Fri10": "I miss my parents sometimes. It is nice to be fussed over less, but... Maybe I should write a letter. No, but wait, what if that makes them visit?",
-  //********
-  //Rosa
-  //********
   "Rosa_Introduction": "Hi, I'm Rosa.  I'm new in town.$h#$b#Let me know if you have any work going, I'm up for any odd jobs!",
   "Rosa_ESIntroduction": "Hi, I'm Rosa.  I'm new in town.$h#$b#Let me know if you have any work going, I'm up for any odd jobs!",
   "Rosa_GreenRain": "Oh, howdy @! You're a brave one, traipsing through all that to get here.",
@@ -2311,7 +2234,6 @@
   "Rosa_RosaJuliet_official": "Howdy farmer! Yeh, me and Jules, right? I'm the luckiest gal in town.#$b#Don't tell her I said that, okay? She'd be insufferable.$1#$e#On second thoughts, I'll tell her myself.$5",
   "Rosa_SpecialOrder_SlayCrabs": "I hear you've taken on the challenge to kill the crabs, @! Good luck to you.#$b#I've made up a bed in the twin room with fresh sheets so you can stay the night - no charge for our local hero!$1",
   "Rosa_Strings_winter_17": "Ever just wanted to jump on a boat and travel far away, @?#$b#Hey, you never know - maybe Jules and I will run away together.$1",
-  //Rosa additional dialogue (with Juliet)
   "Rosa_Juliet_cc_Complete": "I saw the JojaMart is all boarded up. What happened?#$b#I hope that doesn't mean Juliet's going to leave.$2",
   "Rosa_Juliet_summer_Tue": "Are you friends with Juliet? Now, there's a woman who knows her own mind!$1",
   "Rosa_Juliet_summer_Tue.RivalHearts": "$d joja#Hey, you know Juliet? The cute clerk at the JojaMart? She's such a hoot.#$b#You won't believe what she said to me yesterday! Yep, something about melons.$1#$b#I bought two. Shes' err... very persuasive.$4|Have you seen you Juliet around? Now, there's a woman who knows her own mind!$1",
@@ -2321,10 +2243,8 @@
   "Rosa_Juliet_Sun6": "Hah, you should come join us sometime on Saturday night. Jules and I have been shooting pool down at the Stardrop.#$b#She's not quite the poolshark she thinks she is!$1#$e#But she does this cute little dance when she wins... so sometimes I miss on purpose.#$e#That's our little secret, 'k?$4",
   "Rosa_Juliet_fall_Fri10": "Jules dropped by last night. We watched a movie, and she fell asleep against my shoulder.#$b#It was pretty cute, even if she did drool a bit.$1",
   "Juliet_Mon_IslandSouth": "I know Rosa's enjoying the landscape, but me? I'm enjoying the scenery. Heh.$4#$b#Up for a skinny dip, anyone? I'm sure the water's warm.$1",
-  "dialogue.rosamentionskat": "So... you've probably noticed, Ms. Kataryna's still here. There's a few folks unhappy, but something - or should I say, someone - encouraged her to stay.$2", //Rosa
+  "dialogue.rosamentionskat": "So... you've probably noticed, Ms. Kataryna's still here. There's a few folks unhappy, but something - or should I say, someone - encouraged her to stay.$2",
   "Rosa_EthanBackToSchool": "With Ethan going back to school, I was worried Ms. Hart wouldn't need me around so much anymore.#$b#Thankfully, she's planning to focus on the social marketing and her blog.",
-  //*************************
-  //TORI Daily Dialogue
   "Tori_Introduction": "Oh, um... hi, I'm Victoria. Tori. I live here, I mean, in the 'Scarp.#$b#Hopefully we'll see each other around, right?",
   "Tori_ESIntroduction": "Oh, um... hi, I'm Victoria. Tori. I live here, I mean, in the 'Scarp. Hopefully we'll see each other around, right?",
   "Tori_Resort_Entering": "Oh, it's so gorgeous! I love it.$1",
@@ -2435,7 +2355,6 @@
   "Tori_HappySlimeTalk": "Did you see? Happy's back! And he TALKS now!$1#$b#And escapes all the time.$3#$b#I don't know what happened - it's like magic.#$b#I always knew he was special but I didn't realize HOW special!$1",
   "Tori_RejectMermaidPendant": "I'm sorry... I know we've been dating for a while but I'm not quite ready for marriage yet. Sorry...$2",
   "Tori_AcceptBouquet": "Is that a bouquet?!$1#$b#Of course! I'd love to be your girlfriend.$4",
-  //Victoria Marriage
   "Tori_Marriage_Rainy_Day_0": "Good morning gorgeous, I hope you're not planning to work too hard today.#$b#You're going to need some energy tonight.$4",
   "Tori_Marriage_Rainy_Day_1": "Don't forget your raincoat! Love you.$1",
   "Tori_Marriage_Rainy_Day_2": "Remember, every journey begins with a single step!$1#$e#Have an adventurous day, my love!$4",
@@ -2510,9 +2429,6 @@
   "Tori_Marriage_Bad_7": "Sometimes I really miss my little house in the Scarp.$2",
   "Tori_Marriage_Bad_8": "Mother was right... About me, about you.$3#$b#At least my slimes love me.$2",
   "Tori_Marriage_Bad_9": "Every cloud has a silver lining, right? But this one just looks stormcloud grey.$2",
-  //**************************
-  // T R I S T A N 
-  //Dialogue
   "Dialogue.BreakSpell_Yes1": "Thanks @. I knew I could rely on you!$4",
   "Dialogue.BreakSpell_Yes2": "Yeh, I know. It's a pretty big change for me too. Literally!$3#$b#No more napping all day in a sunbeam! But it'll be worth it, you'll see!$4",
   "Dialogue.BreakSpell_No": "Oh...$2",
@@ -2527,7 +2443,6 @@
   "dialogue.festivals.summer11": "It's cooler here, with the wind in my face and the taste of salt on my tongue...",
   "dialogue.festivals.summer28": "Romantic? Well, I suppose it might be if the whole town hadn't come down to watch them.#$b#Okay, I admit it, they're kinda pretty.#$b#Perhaps we could sneak away somewhere?",
   "dialogue.festivals.spring24": "If you wanna dance with me, better get in quick! Pretty sure Abigail's got her eyes on me.$4",
-  //Tristan in Animal Shop
   "tristan.dialogue.animalshop.sun10": "Want to come over and hang out with me and Jas on Sunday?#$b#It's boardgame night and if you could save me from having my tail kicked at Monopoly... well, I'll love you forever.$1",
   "tristan.dialogue.animalshop.summer_fri": "It's nice to feel like part of a family again.#$b#Although I'm not sure Shane likes me much. Ah well, his loss.",
   "tristan.dialogue.animalshop.summer_sat6": "Do you like swimming, @? Not too keen on it myself, obviously.$2#$b#But the beach is safe, if you watch out for the sea monsters!$3#$b#Kidding! Or am I?$6",
@@ -2683,7 +2598,6 @@
   "Dialogue.Tristan.DumpsterDiveComment": "Still digging through the cans I see, @. Never change, okay?$1",
   "Dialogue.Tristan.ScarfAroundLampPost": "Do you think the lamp posts are cold, @? Jas has some ideas about how we can warm them up!$1",
   "Dialogue.Tristan_YarnBombing_Invite": "$1 Tristan_YarnBombing#Hey babe, Jas and I have been working on a little project. Stop by East Scarp later today, if you'd like a bit of a yarn. Haha, cos it's a wool-based project!$1#$e#Knitting is fun!",
-  //Marriage Dialogue
   "MarriageDialogue.Tristan.Rainy_Day_0": "Bit damp out there today. Be careful, my love. I wouldn't want you to catch a cold.",
   "MarriageDialogue.Tristan.Rainy_Day_1": "Oh, must you really go out today?#$b#I know it's selfish but couldn't you stay in, we could watch a movie?#$b#Or... find some other form of entertainment?$6",
   "MarriageDialogue.Tristan.Rainy_Day_2": "Got my paws, oops, hands, on this latest thriller novel. It's supposed to be really good.#$b#I'll tell you about it later. Be careful out there.",
@@ -2759,8 +2673,6 @@
   "MarriageDialogue.Tristan.fall_17": "I'd forgotten how colorful the world could be. There's so many shades of orange, @.",
   "MarriageDialogue.Tristan.winter_1": "Winter's here. Plenty of time to curl in front of the fire with my favorite person!",
   "MarriageDialogue.Tristan.winter_28": "The end of another year. Have you any dreams for the New Year?#$b#Me? Oh, most of my dreams have already come true.#$b#Except for the one about the giant mouse. Thankfully.$1",
-  //********************************
-  //VIVIENNE Daily Dialogue 
   "Vivienne_Introduction": "It's lovely to see you again, @. I hear Eloise told you all about my books? Please don't feel obliged to read them.$1#$e#(if you read this, something is broken, please let me know!)",
   "Vivienne_Resort_Entering": "What a fascinating place! Who would've guessed a tropical island, right in our own backyard!$1",
   "Vivienne_Resort_Leaving": "Great place, see you again here soon, right @?",
@@ -2854,17 +2766,12 @@
   "Vivienne_AcceptGift_(O)EastScarp_Vintage_Ruby_Ring": "$1 VivienneRingReturn#I never thought I'd see this again. Oh dear, I think it's best you leave an old lady alone with her memories. But thank you for returning it to me, @. It means a lot.",
   "Vivienne_AcceptGift_(O)167": "Oooh, the amount of preservatives they use in these - if I drink enough, I might never die!$1",
   "Vivienne_AcceptGift_(O)StardropTea": "What a most glorious drink! Is it the elixir of life, do you think?",
-  //assorted dialogue
   "Vivienne_ClintEmily_winter_Sat6": "Clint and Emily, heh, never would've seen that one coming!#$b#Hmm, maybe my perception has dimmed in my dotage.$1",
   "Vivienne_ClintLucikiel_winter_Sat6": "Hmm, do you think there could be something going on between my Clint and that rather attractive demon man?$1#$b#Oh, perhaps it's just my writer's brain... always looking for a story arc that may not exist.$",
-  //*********************************
-  // CORWIN Dialogue
-  //Flirt Question 
   "Dialogue.Corwin.FlirtIntroduction.y1": "Hey there ${handsome^gorgeous}$. I've been at sea so long... I ain't used to solid ground.$2#$b#Or maybe it's just you, making me weak at the knees.$6#$b#$q 5787151/5787152 CorwinFlirtOrNo#Oh, was that too much?#$r 5787151 0 CorwinFlirt#No, I like it! Flirt with me all you want.#$r 5787152 0 CorwinNoFlirt#Please don't flirt with me.",
   "Dialogue.Corwin.FlirtIntroduction.y2": "Hey there ${handsome^gorgeous}$. I've been at sea so long... I ain't used to solid ground.$2#$b#Or maybe it's just you, making me weak at the knees.$6#$b#$q 5787151/5787152 CorwinFlirtOrNo#Oh, was that too much?#$r 5787151 0 CorwinFlirt#No, I like it! Flirt with me all you want.#$r 5787152 0 CorwinNoFlirt#Please don't flirt with me.",
   "Dialogue.Corwin.FlirtMarriage.y1": "Hey there ${handsome^gorgeous}$. 'Grats on the nuptials. Wishin' you and %spouse the best future together!$1#$b#$q 5787153/5787152 CorwinFlirtOrNo2#Now, I 'spose I'd better stop flirtin' with you an' all?#$r 5787153 0 CorwinFlirt#No, we're cool with it, keep it up!#$r 5787152 0 CorwinNoFlirt2#That would be appreciated, thanks.",
   "Dialogue.Corwin.FlirtMarriage.y2": "Hey there ${handsome^gorgeous}$. 'Gratulations on the nuptials. Wishin' you and %spouse the best!#$b#$q 5787153/5787152 CorwinFlirtOrNo2#Now, I 'spose I'd better stop flirtin' with you an' all?#$r 5787153 0 CorwinFlirt#No, we're cool with it, keep it up!#$r 5787152 0 CorwinNoFlirt2#Yes, that would be appreciated, thanks.",
-  //Daily Dialogue
   "Corwin_CorwinFlirt": "Alrighty then. Pleased to hear we're on the same page.$1",
   "Corwin_CorwinNoFlirt": "Oops, sorry. I didn't mean to offend. Won't happen again, promise.$2",
   "Corwin_CorwinNoFlirt2": "Message heard, loud and clear. I'll try an' behave. Apologies if I ever slip up, okay? I don't mean nothin' by it.",
@@ -2947,7 +2854,6 @@
   "Corwin_winter_Sat": "",
   "Corwin_winter_Sun": "",
   "Corwin_winter_Wed6": "",
-  //flirty dialogue
   "Corwin_AcceptBouquet": "I've been waitin' for this, darlin'! Hope you don't mind that I'm gonna be flirtin' with you now.$7",
   "Corwin_Mon10": "Ever fancied havin' a pet, @? Cats are all well an' good, but I always wondered what it would be like to 'ave a dog.",
   "Corwin_Tue10": "Tante Bea's been showin' me how to cook. Food is so much better with fresh ingredients. [EastScarp_Biteback_Curry]#$b#Careful! It's hot n' spicy. Kinda like you, sweetheart.$7",
@@ -2977,9 +2883,6 @@
   "Corwin_summer_Fri10": "Wanna take a dip with me, babe? Swimwear optional.$6",
   "Corwin_summer_Sat10": "",
   "Corwin_summer_Sun10": "",
-  //*********************************************
-  // DALE dialogue
-  //Note Dale is incomplete and more dialogue will be added
   "Dale_Introduction": "Hi, I'm Dale. And this gorgeous girl? Oh, her name's Valkyrie.$1#$b#She's working at the moment, so please don't pet her.",
   "Dale_ESIntroduction": "Hi, I'm Dale. And this gorgeous girl? Oh, her name's Valkyrie.$1",
   "Dale_SpouseFarmhouseClutter": "Oh hey @. It's getting a bit cluttered in here, Valkyrie's having trouble moving around. Could I help you tidy up a bit?",
@@ -3066,9 +2969,6 @@
   "Dale_winter_Thu10": "People used to tell me I was brave, living with my illness and all. But it's not like I had any choice in the matter.$2#$e#I've found life's just easier with a bit of optimism. Being negative takes too much energy.",
   "Dale_winter_Wed6": "Have you visited the beach today? I know it's winter, but you can find some pretty neat things on the shore if you look closely enough.$1",
   "Dale_winter_Fri10": "",
-  //*********************************
-  // H A R T   F A M I L Y
-  //Ethan Dialogue
   "Ethan_Introduction": "Hey, you're our new neighbor, right?$3#$b#Cool.$1",
   "Ethan_ESIntroduction": "Hey, you're one of our neighbors, right? Cool.$1",
   "Ethan_HartResidence_1_13": "%Ethan is asleep.",
@@ -3122,7 +3022,6 @@
   "Ethan_Sun10": "Mom keeps talking about my future career choices.#$b#I dunno... I think I'd rather just go with the flow. Deciding on one thing to do forever sounds boring.$2",
   "Ethan_ScarfAroundLampPost": "Do you own a really long purple scarf, @? I found one on the park bench.#$b#Oh yeah, I tied it around the lamp post. Figured that way the owner would see it.$1",
   "Ethan_EthanBackToSchool": "Hey farmer, I don't know what you said to Mom, but it looks like I'm going back to school. Thanks!$1#$b#That wasn't you? It was all my dad! Really? Cool.",
-  // Edith
   "Edith_Introduction": "My dear! We didn't expect to see you this soon! You can call me Edith. My husband, Michael, and I run this Inn.#$b#I know it's a bit of a walk, but you're welcome to visit us whenever you can.$3",
   "Edith_ESIntroduction": "My dear! Welcome! You can call me Edith. My husband, Michael, and I run this Inn. I know it's a bit of a walk, but you're welcome to visit us whenever you wish.$3",
   "Edith_Resort": "Oh, this little beach is gorgeous! I should take some photos - our guests would love it.$1",
@@ -3183,7 +3082,6 @@
   "Edith_fall_Sun10": "It tears my heart learning how people are struggling during this fruitless war.$5#$e#A letter arrived from a dear friend of mine.#$b#Yes, she was close to the front and all.$3#$e#It's just... Well, I sure hope she is, and will, keep doing fine.$3",
   "Edith_Fair_Judged_PlayerLost_PurpleShorts": "Oh my! Your 'purple cabbage' certainly caused a stir! I thought poor Mayor Lewis might suffer an apoplexy, although he composed himself admirably.#$e#Did I capture the moment for my blog? I did - but Michael wll probably talk me out of sharing it. Pity, it's impressive!$1",
   "Edith_EthanBackToSchool": "I'm not sure how I feel about Ethan going back to school... I guess you just want to protect them from the world, right?$2",
-  //Michael
   "Michael_Introduction": "You must be @! Welcome to the valley. I hope you'll make this place your home.$1",
   "Michael_ESIntroduction": "You must be @! Welcome to the East Scarp. I hope you enjoy our little settlement.$1",
   "Michael_HartResidence_2_35": "%Michael is asleep.",
@@ -3242,7 +3140,6 @@
   "Michael_summer_Sun": "Edith and Rosa always send me up with so much food. Today, I eat like I am king of the mountain!$1",
   "Michael_AcceptGift_(O)EastScarp_SeaGlass": "Thanks pal, this'll be perfect for my artistic endeavors.$1",
   "Michael_EthanBackToSchool": "I didn't 'convince' Edith of anything, we're a team. Team parents!#$e#Communication is key in any relationship, pal. Remember that!",
-  //Stella
   "StellaHart_Introduction": "So you're our town's newest farmer! What made you decide to move here?#$e#I look forward to see what you'll made of that old place.",
   "StellaHart_breakup": "So this is it. You know what? I reckon I'll be happier now we've gone seperate ways.$6",
   "StellaHart_divorced": "I'm learning to live without you, @. Enough's enough, indeed. $2",
@@ -3321,9 +3218,7 @@
   "StellaHart_Sun8": "Hey @, remember to take a rest from time to time; it's the key to stay productive!",
   "StellaHart_summer_Sun4": "I know they're not the healthiest, but I do enjoy a crisp, cold Joja cola on a hot summer day.#$b#They also help when I'm trying to pull an all-nighter.",
   "StellaHart_winter_Sun6": "Feel free to visit the inn! The boiler room keeps everything toasty and warm.",
-  //"StellaHart_winter_Sun10": "It's rather chilly, it'll be nice if you hold my hand. Could you?",
   "Stella_EthanBackToSchool": "I can't believe the little dweeb wanted to go back to school so bad.$1",
-  //No hearts seasonal dialogue
   "StellaHart_Mon": "Ah, hello @.#$e#Everything must've been taken care of back at the farm, no?",
   "StellaHart_summer_Mon": "Got a touch of Monday-itis today... Too much to do, and so little time. Luckily, I've made myself a checklist!$1",
   "StellaHart_fall_Mon": "We've talked about getting a pet - but Ken's a dog person and I prefer cats.#$e#How about you, @? Dogs or cats?",
@@ -3347,8 +3242,6 @@
   "StellaHart_summer_Sun": "This place is certainly shaping up into a cozy little village, isn't it?$1#$e#Cozy countryside retreats are all the rage at the moment - people want a break from reality.",
   "StellaHart_fall_Sun": "Oh, hi @. Sorry, I'm a bit stressed?#$b#it's nice to be here and all, but I've a busy week ahead and I'm trying to organize it all in my head.$2",
   "StellaHart_winter_Sun": "Have you tried the spa pool downstairs? It's a great way to warm up in winter!$1",
-  //*********************************
-  // KENNEDY
   "Kennedy_KennedyIntroduction": "Hey, you know Olly right? I'm Kennedy, the cool best friend. He sure as hell better have mentioned me!$1",
   "Kennedy_Resort_Entering": "This place is pretty wild. Ever wondered who used to live here?",
   "Kennedy_Resort_Leaving": "Next time I'm going to bring a swimsuit and snorkel.",
@@ -3387,9 +3280,6 @@
   "Kennedy_Scarp_fall_Sat2": "I would've offered to film for Crypto Today, but working one-on-one, all day long, with Ms. Kat? No thanks.",
   "Kennedy_Scarp_fall_Sat4": "I don't believe in ghosts, but there's something eerie about this town. I read it was built on the graves of miners.$2",
   "Kennedy_Scarp_fall_Sun2": "I've been looking into historic missing persons' cases. There's been a few in this area. Better watch your back, @!$2",
-  // K E A N U
-  //***********
-  //Note: the empty dialogue spaces are for future addition and do not currently show in game.
   "Keanu_EastScarp_KeanuHouse": "I know what you're thinking: Pretty rad, right? Our folks really had this psychadelic vibe going. Trying to decide if I like it or not.$1$k#This text you should never see.",
   "Keanu_Introduction": "Oh, I haven't seen you around before, right?$3#$b#I'm Keanu. Came back to town recently myself.#$e#I guess I'll see you around then.",
   "Keanu_ESIntroduction": "$1 Keanu_Introduction#Oh, I haven't seen you around before, right? I'm Keanu. Came back to town recently myself.#$e#I guess I'll see you around then.",
@@ -3643,9 +3533,6 @@
   "Keanu_RejectGift(O)727": "Damn, this smells delicious, pity 'bout the milk. I'd love to try it - but my digestive system would rebel. Sorry.$2",
   "Keanu_AcceptGift(O)424": "Kinda feel like I'm playing with fire accepting this, but a little won't hurt. Probably...$2",
   "Keanu_AcceptGift(O)426": "Thanks, I'll keep this for when my sister visits. She's into that fancy charcuterie stuff.",
-  // C A M E R O N
-  //**************
-  //Not Implemented, but here for future proofing
   "Cameron_Introduction": "$1 CameronMet#You're from Pelican Town?$2#$b#A... hmmm... close friend grew up near there, and talked fondly of the Scarp. I always wondered what it was like.",
   "Cameron_ArchaeologyHouse": "$1 CameronArchHouse#Gunther invited me here. Heard there's been a lot of interesting relics found. Would you happen to know anything about that?|Hey @, just catching up with Gunther, found any interesting relics recently?",
   "Cameron_ArchaeologyHouse_Wed": "If I uncover another chicken statue... What was it with these settlers and their poultry?#$e#Here, you have it. I've got plenty.$1[113]",
@@ -3656,16 +3543,13 @@
   "Cameron_Mountain_Fri": "This used to be a prosperous mining town, you know. Then the ore started drying up, and there were a couple of bad accidents.#$b#A superstitious lot, those miners. As if there could be monsters lurking in those caves!$1",
   "Cameron_Mountain_Sat": "I tried to get some students to help out with the physical stuff, but the department's filled with academics: strong in brains, but weak on the brawn.",
   "Cameron_Mountain_Sun": "Once upon a time they would've sent a whole team out here to look for bones and fossils...#$b#That's budget cuts for you. Not much money in research anymore.$2",
-  //East Scarp
   "Cameron_EastScarp_Village": "Ah, East Scarp has an interesting archeological history.#$b#Hmmm, perhaps we could hold an Archaeology Discovery Day to inspire the young 'uns. What do you think?$1",
   "Cameron_EastScarp_Village_Wed": "There's a peak around here called Mount Evermore. It's a steep and dangerous climb, but the views are spectacular.#$b#Maybe I'll climb up there some day.",
   "Cameron_EastScarp_Village_Thu": "Have you tried Rosa's baking, @? All I can say, is it's a good thing this job's pretty physical.",
-  //Town
   "Cameron_Town_Mon": "I'm very interested in this valley; there have been rumors, you know... and mysterious artifacts found.$1",
   "Cameron_Town_Wed": "We're pretty sure the early settlers worshipped chickens. Pretty weird, don't you think?#$b#Still, I'm sure you've heard a lot weirder around here! These small country towns thrive on superstition.",
   "Cameron_Town_Thu": "Pelican Town has an interesting history; the early settlers came from the sea.#$b#Sounds like there were people here first, though we've found no organic remains, only their artifacts.$2",
   "Cameron_Town_Fri": "Do you like surfing, @? The waves here aren't really well suited to it, sadly.#$b#You've gotta go west, to Juniper Point, to get real surf.",
-  //Generic
   "Cameron_Mon": "You can tell a lot about a society from what is left behind. Middens - their rubbish heaps - are a treasure trove of information.",
   "Cameron_fall_Mon": "I've given up on romance, @. The last man I truly loved... well, he loved his studies more than he loved me.$2",
   "Cameron_Tue": "There's this really old grimoire in the university. I don't believe in ghosts or other nonsense, but it gives me the chills.#$b#This place does that too. It's all history... but it's dark history.$2",
@@ -3683,15 +3567,10 @@
   "Cameron_summer_Sat": "Heh, back in my student days, I scaled the height of the Astronomy Tower to hang my roommate's boxers like a flag.#$b#The headmaster was not impressed.$1",
   "Cameron_fall_Sat": "Yeh, there's some pretty dumb stunts in my past. But, hey, what doesn't kill you...#$b#Really, it's all about being prepared, and not letting fear rule you.#$b#Also, not getting caught!$1",
   "Cameron_Sun": "Hello @! If you happen to find any bones lying around, can you let me know?#$b#The palentology department is always after more samples!",
-  //Conversation Topics
   "Cameron_KatarynaStillHere": "$query PLAYER_HAS_CONVERSATION_TOPIC Current KatarynaStillHere#Sigh... That Crypto Today reporter came knocking on my door today. I've explained we're no longer stocking their rag - Is it really that hard to just take 'no' for an answer?$a",
-  //Inn specific: removed
   "Cameron_Tue2": "Yeh, I'm staying in the inn. I keep hearing strange noises at night.#$b#My students would probably say it was ghosts - but these old buildings? They're filled with rodents and other pests.$2",
   "Cameron_fall_Tue6": "Oh, hey @. Yeah, I'm a bit tired today... Some weird clanking noise kept me awake half the night.#$b#Oh don't look like that, I'm not saying we have a ghost! It was probably just the pipes.$a",
   "Cameron_Custom_EastScarpeInn": "Not a bad place, is it? Very charming, although the floorboards creak something wicked.",
-  //*********************************
-  //animal NPC dialogue:
-  //Pepper the puppy
   "pepperpup.mon": "*Pepper wants to play with you.*$1",
   "pepperpup.tue": "*Pepper sniffs your hands. She seems to like you.*",
   "pepperpup.wed": "*You scratch Pepper behind the ears. She wags her tail.*$1",
@@ -3699,7 +3578,6 @@
   "pepperpup.fri": "*Pepper yawns. Looks like she's tuckered out.*$3",
   "pepperpup.sat": "*Pepper wants you to scratch her belly.*",
   "pepperpup.sun": "*Pepper seems sleepy.*$3",
-  //Abyss the rooster
   "abyssrooster.mon": "This rooster has a mad gleam in his eyes.",
   "abyssrooster.tue": "Abyss pecks at your shoe. Perhaps he mistook it for food?",
   "abyssrooster.wed": "Abyss cocks his head at you. You feel uncomfortable.",
@@ -3707,7 +3585,6 @@
   "abyssrooster.fri": "Abyss studies you, you wonder what he's thinking.",
   "abyssrooster.sat": "Abyss looks irritated.",
   "abyssrooster.sun": "Abyss glares at you.",
-  //duck 1
   "duck.mon": "%This duck looks very sinister.",
   "duck.tue": "Quack!",
   "duck.wed": "Quack?",
@@ -3717,7 +3594,6 @@
   "duck.sun": "Excuse me sir, have you got any grapes?",
   "duck.dumpsterdive": "*The Emperor looks expectant. He hopes you found him some bread.*",
   "duck.acceptgift_(O)126": "*Eloise would be disappointed in you, but the Emperor is very happy and that's what is important.*",
-  //duck 2
   "duck2.mon": "Quack...",
   "duck2.tue": "Quack!",
   "duck2.wed": "Quack?",
@@ -3725,7 +3601,6 @@
   "duck2.fru": "Quack?!",
   "duck2.sat": "Quack!",
   "duck2.sun": "%She's ignoring you.",
-  //Lady Sheba
   "ladysheba.mon": "Meow? Meow?",
   "ladysheba.tue": "Mirr?$2",
   "ladysheba.wed": "Yow!$2",
@@ -3733,7 +3608,6 @@
   "ladysheba.fri": "Mrrip.",
   "ladysheba.sat": "Mew? Mew? Mew?$2",
   "ladysheba.sun": "Mirpp!$1",
-  //lady Sheba if she can talk
   "ladysheba.mon.50706121": "Is hungry? Got food? Hungry yes?",
   "ladysheba.tue.50706121": "Bird no catch. Fly, fly away...$2",
   "ladysheba.wed.50706121": "Stay back! Is frightened.$2",
@@ -3756,7 +3630,6 @@
   "ladysheba.fri10.50706121": "Human try shut inside. No good! Squeeze through glass-thing.#$b#Me too smart to cage!$1#$b#You not cage me, friend?",
   "ladysheba.sat8.50706121": "You have mouse, friend? Need hunt? Love crunch-mouse-crunch.$1",
   "ladysheba.sun10.50706121": "Human kitten, come visit. Bring food. Love her.$1",
-  //Little Gruff
   "littlegruff.mon": "*The kid regards you with uncanny intelligence*",
   "littlegruff.tue": "*The kid nibbles on your clothes. He doesn't appear to like the taste. This doesn't stop him trying though.*",
   "littlegruff.wed": "*The kid gives you a friendly headbutt*",
@@ -3765,15 +3638,13 @@
   "littlegruff.sat": "*The kid frolics around you.*",
   "littlegruff.sun": "*The kid nibbles on your clothes.*",
   "littlegruff.AcceptGift_(O)78": "%The kid takes the carrot gently and crunches it down in two bites.#$b#Faaaa-maaaa!",
-  //macaw
   "macaw.mon": "Shut your trap!",
   "macaw.tue": "Who's a pretty boy then?",
   "macaw.wed": "Here kitty kitty kitty!#$b#%Richie starts barking like a dog and laughing hysterically.",
   "macaw.thu": "Polly wants a cracker!",
   "macaw.fri": "Duck 'n bell! Duck 'n bell!",
   "macaw.sat": "Quack Quack! Ima duck!",
-  "macaw.sun": "Holy Yoba! Gotcha tickers in a knist!", //"knickers in a twist" with letters reversed, feel free to replace with anything faintly (but not too) crude
-  //VAlkyrie
+  "macaw.sun": "Holy Yoba! Gotcha tickers in a knist!",
   "valkyrie.mon": "*Valkyrie is alert and on duty!*",
   "valkyrie.tue": "*Valkyrie knows she is a Good Girl.*$1",
   "valkyrie.wed": "*Valkyrie is worried about her human.*$2",
@@ -3781,7 +3652,6 @@
   "valkyrie.fri": "*Valkyrie would love to demand treats or pets, but she's working and knows she shouldn't.*",
   "valkyrie.sat": "*Valkyrie is excited to play today*$4",
   "valkyrie.sun": "*Valkyrie rests her head against your knee and looks at you pleadingly. It's okay to pet her.*$2",
-  //Gremlin
   "gremlin.JulietGremlin": "Arf....? Arf....?#$b#%Gremlin still looks a little cautious.",
   "gremlin.Mon": "Arrooooo....$2#$b#%Gremlin looks at you, and lets out a nervous whine.",
   "gremlin.Tue": "Arf!$3#$b#%Gremlin seems to be enjoying the attention.",
@@ -3791,7 +3661,6 @@
   "gremlin.Sat": "Arofff. Aroff!$1#$b#%Gremlin seems happy to see you today!",
   "gremlin.Sun": "Arroo?$3#$b#%Gremlin thinks you smell interesting.",
   "gremlin.DumpsterDiveComment": "%Gremlin is shaking... seems like the noise has scared her.",
-  //Happy Dialogue
   "HappySlime.Mon": "Squelch! Squelch!$1",
   "HappySlime.Tue": "(Happy seems disappointed you're not Victoria)$2",
   "HappySlime.Wed": "(Happy has found a puddle to splash in)$1",
@@ -3806,8 +3675,6 @@
   "HappySlime.Fri_HappyTalk": "Today Happy is sad... other slimes not understand him.$2",
   "HappySlime.Sat_HappyTalk": "Hiya!$1",
   "HappySlime.Sun_HappyTalk": "Happy bored... wanna play?",
-  //***************
-  //Dwarf Dialogue changes
   "Dwarf_Dialogue_Mon2": "It's weird what people leave lying around. I don't know what most of it's for, but... do you like my collection?",
   "Dwarf_Dialogue_summer_Mon4": "The sun is no friend to my kind, sundweller. His gaze burns our skin.",
   "Dwarf_Dialogue_Mon6": "Sometimes I dream of the sky. How high do you think it goes, friend?",
@@ -3851,10 +3718,6 @@
   "Dwarf_Dialogue_JasperSpouse_summer_Fri_inlaw_Jasper2.e": "What does thesaurus mean?",
   "Dwarf_Dialogue_JasperSpouse_fall_Fri_inlaw_Jasper": "Humans are a strange species, @. Why does your mate use so many words to say the same thing?",
   "Dwarf_Dialogue_JasperSpouse_spring_Fri_inlaw_Jasper": "Greetings friend! Pleased you could join us. How goes your mining?",
-  /**********************************
-  Other NPC Dialogue Changes
-  **********************************/
-  //Penny while teaching
   "Penny.Tue": "I'm tutoring the kids today... They're a handful, but it's nice to make a difference in someone's life.",
   "Penny.Wed": "We don't have a school but I'm doing my best to give the children here a proper education.#$e#Every child deserves a chance to be successful.#$e#Jas is very good at math and reading and sometimes I can't keep up with Eloise. Vincent is good at... well, he has an active imagination!",
   "Penny.summer.wed": "We don't do a full summer vacation, because we have to make up for our short school weeks during the regular year.#$e#Jodi, Marnie and Jacob requested we do it that way, instead of doing things the way a normal school would.",
@@ -3863,12 +3726,10 @@
   "Penny.wed8": "It's tough trying to fill the shoes of the woman who had my job before me, but having only a handful students makes it a bit easier.#$e#Ms. Eleanor had nine of us one year. There were just more kids in town when I was growing up.",
   "Penny.fall.mon6": "Maybe I could find a job as a full classroom teacher someday. But I don't know that it would be better for me.#$e#I just can't imagine having the same connections with twenty or thirty students like I have with the children here.",
   "Gunther.sat": "Penny tutors the children in the library several days a week.$5",
-  //Corwin's arrival
   "Rosa_CorwinArrives": "That newcomer, Corwin, is still hanging around. Odd, I would've thought he'd be headed back to sea right now.$2#$b#It's okay though; the more guests the better, after all!$1",
   "Juliet_CorwinArrives": "Oooh mysterious man with an eye-patch. Did ya hear he hit on Rosa?#$b#The look on his face when she shot him down was priceless. Wish I'd had a camera.$1",
   "Beatrice_CorwinArrives": "Monsieur Corwin has decided to stay for a time. It is not necessary... but he is in mournin'.#$b#He was very close to my Raoul, poor lad.$2",
   "Eloise_CorwinArrives": "I wonder what kind of adventures Mr. Corwin's had? Do you think he's a real pirate?$3",
-  //Captain Rod
   "CaptainRod.summer_10": "The Toroa? Why, she's a fine old lady. I restored her meself.#$e#She's a charter ship now - take posh folks on pirate-themed excursions 'round the Gem Isles.",
   "CaptainRod.summer_27": "I've been tracking the migration of the moonlight jellies, marvellous critters.#$b#They'll be here, regular as clockwork tomorrow night.",
   "CaptainRod.spring_23": "Ahoy there me hearty! All aboard for Captain Rodrique's piracy cruise!#$b#Hah, sorry, just getting into character.",
@@ -3880,5 +3741,5 @@
   "CaptainRod.spring_24": "Dance, me? Haha. Nah, but Toroa's seen some memorable jigs. 'Specially on Hen an' Stag nights.#$e#Have I mentioned we do charter cruises?",
   "CaptainRod.summer_11_2": "$c 0.7#Put in a good word with the guv'nor for me, won't ya?#Who's paying for this? Aye, 'tis a repayment to lovely Ms. Beatrice. She saved me scrawny hide once, ye know.",
   "CaptainRod.summer_28_2": "$c 0.5#Marvellous critters these jellies. They've guided many a lost ship to shore.#There's a lot of sailor's lore 'bout these critters: like will'o wisps they are, without the sinister side.",
-  "CaptainRod.spring_24_2": "$c 0.5#Nay, I shan't be joinin' in, 'tis for the village, not for one as I!#Nay, no dancin' for an old salt like meself. There's only one lassie I'd dance with, an' she ain't acceptin' me invite.",
+  "CaptainRod.spring_24_2": "$c 0.5#Nay, I shan't be joinin' in, 'tis for the village, not for one as I!#Nay, no dancin' for an old salt like meself. There's only one lassie I'd dance with, an' she ain't acceptin' me invite."
 }
