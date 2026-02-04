@@ -1,0 +1,55 @@
+{
+//INTRODUCTION//
+"Introduction": "Oh, salut ! Et toi, tu es... @ ? Enchanté.$h#$e#Tu es fermier ? Cool ! Je tiens le café Sanctuary dans le désert de Zuzu.",
+
+//DIALOGUES INITIAUX (0 COEURS)//
+"Mon": "Salut, @. Comment ça va ?",
+"Tue": "J’ai tellement de chance, je réalise mon rêve en tenant ce café.$h",
+"Wed": "Tu as rencontré Emerald ? C’est ma coloc.#$b#J’espère que vous allez bien vous entendre !$h",
+"Thu": "Mon anniversaire, c’est le 9 de l’hiver.#$b#...Quoi ? Je ne demande rien, mais si tu voulais quand même...$h",
+"Fri": "Tu as vu Leonard, le caissier de mon café ? Il parle peu.#$b#...Je l’aime bien. C’est un bon bosseur.$h",
+"Sat": "Je dois encore gérer un peu le café le week-end, même si Leonard s’occupe de beaucoup de choses. C’est un bon gars.",
+"Sun": "Mes yeux ? J’ai l’hétérochromie. Ça veut dire que mes yeux sont de couleurs différentes.#$b#C’est plutôt cool.$h",
+
+//DIALOGUES 2 COEURS//
+"Mon2": "Hé, @... Tu connais quelqu’un avec la peau bleue ? Juste par curiosité.",
+"Tue2": "Tu vas dans les grottes ou tu fais de l’aventure, @ ?#$b#Tu y vas ? C’est génial !$h",
+"Wed2": "Parfois, travailler au Sanctuary, c’est stressant...$h#$b#Mais ça en vaut la peine !$h",
+"Thu2": "Quels sont tes hobbies, @ ?#$b#Moi... euh, j’en ai pas vraiment.$s#$b#Regarder la télé compte ?$h",
+"Fri2": "Tu connais Cal ?#$b#Ouais, c’est un client régulier du Sanctuary. Un gars sympa !$h",
+"Sat2": "Tu sais te battre à l’épée, @ ?#$b#Trop cool. J’aimerais savoir faire !$h",
+"Sun2": "Le week-end, c’est sympa, non ? Je peux planifier les repas du café, et toi, tu fais quoi, euh...#$b#Qu’est-ce que tu fais le week-end, @ ?", 
+
+//DIALOGUES 4 COEURS//
+"Mon4": "Ma jeunesse me manque. J’ai vécu une expérience folle une fois.#$b#Hein ? Non, j’ai pas trop envie d’en parler.$s",
+"Tue4": "Tu es allé dans la grotte près de mon café ?#$b#J’aimerais avoir le courage de l’explorer. Paraît qu’il y a des trésors cachés.$h",
+"Wed4": "Je suis un peu déprimé aujourd’hui, @. Des idiots en ville se moquaient de mes yeux.$s",
+"Thu4": "Leonard est arrivé en retard aujourd’hui. Ça ne me dérange pas trop.#$b#C’est un bon gamin.$h",
+"Fri4": "J’ai des clients réguliers très sympas au Sanctuary.#$b#Et toi, tu as des clients réguliers qui achètent tes récoltes ?",
+"Sat4": "Pff, je suis crevé.#$b#Je t’ai dit que j’étais crevé. Tu peux me laisser tranquille ?$a",
+"Sun4": "@, tu habitais à Zuzu avant de venir dans la Vallée, non ?#$b#Qu’est-ce qui t’a fait partir ?", 
+
+//DIALOGUES 6 COEURS//
+"Mon6": "@... Tu connais quelqu’un avec les initiales 'QI' ou un truc du genre ?#$b#Non ? Oh...$s",
+"Tue6": "Je m’entraîne à l’épée. Je m’améliore, tu sais.$h",
+"Wed6": "C’est fun de vivre près de toute cette nature sauvage, tout ce danger ?#$b#Waouh, c’est génial.$h",
+"Thu6": "Tu connais un endroit sympa pour explorer ? Pourquoi ? Oh, rien. Juste curieux.#$b#Arrête de m’embêter, j’ai juste demandé.$a",
+"Fri6": "Ces idiots en ville encore, @. Ils se moquent de mes yeux. Je déteste ça.$s",
+"Sat6": "Alors, @. Tu es ami avec un 'Mr Qi' ? Non ? Ah.#$b#Rien, j’étais juste curieux. J’ai vu son nom dans un bouquin.$u",
+"Sun6": "Hé. J’ai regardé d’anciennes cartes que Gil m’a données. Je pense aller dans la 'Caverne du Crâne'.$h#$b#Quoi ? 'C’est trop dangereux' ? Je peux me débrouiller !$a",
+
+//DIALOGUES 8 COEURS//
+"Mon8": "@, ça me fait plaisir que tu viennes en ville me voir. T’es un chic type.$h",
+"Tue8": "Te voir illumine ma journée, @.$h",
+"Wed8": "...$s#$b#Hein ? Je réfléchissais juste.$u",
+"Thu8": "Tu regardes beaucoup la télé, @ ?#$b#Je suis accro. J’ai jamais raté un épisode de 'La Reine de la Sauce'.$h#$b#Elle a même inspiré certaines de mes recettes !$h",
+"Fri8": "@, tu voudrais aller dans la grotte du désert avec moi un de ces jours ?#$b#Je pense que ça ferait moins peur avec toi.$l",
+"Sat8": "Être chef, c’est cool, mais parfois j’aimerais bien faire une pause.#$b#Je suppose qu’en lançant ça, j’ai un peu renoncé à ce droit, hein ?$u",
+"Sun8": "Tu sais quoi, @ ? Avec toi, je commence vraiment à voir le bon côté de la vie.$l",
+
+//DIALOGUES 10 COEURS//
+"Mon10": "@ ! Je suis tellement content de te voir !$l#$b#Tu veux parler ? Ta journée se passe bien ?$h",
+"Tue10": "@, tu veux venir aux grottes tuer des serpents avec moi plus tard ?$h",
+"Wed10": "Hein ?! Il est déjà %time ?! Il est trop tard pour aller aux grottes ?",
+"Thu10": "Tu sais quoi, @ ? Je crois que je t’aime. Je sais, c’est un peu cul-cul, mais c’est vrai.$l"
+}

@@ -1,0 +1,21 @@
+{
+  "EnableMod": true,
+  "Debug": false,
+  "ShowRangeWhenPlacing": true,
+  "Scale": 4.0,
+  "Alpha": 1.0,
+  "RangeTint": {
+    "B": 255,
+    "G": 255,
+    "R": 255,
+    "A": 255
+  },
+  "RangeAlpha": 1.0,
+  "DrawOffsetX": 0,
+  "DrawOffsetY": 0,
+  "DrawOffsetZ": 0,
+  "PickupButton": "E",
+  "PickupNearby": false,
+  "ShowRangeButton": "LeftAlt",
+  "ShowAllRangeButton": "RightAlt"
+}

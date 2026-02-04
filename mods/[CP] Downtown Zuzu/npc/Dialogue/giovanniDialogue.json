@@ -1,0 +1,29 @@
+﻿{
+	"Introduction": "Salut ! Moi c’est Giovanni, mais tu peux m’appeler Gio !$h#$b#Je tiens la pizzeria à Zuzu City (sans surprise) qui s’appelle Gio’s Pizza.$h#$e#Tu as déjà rencontré ma nièce Hazel ?#$b#Parfois, elle m’aide en cuisine et elle fait aussi le service.#$e#Vous vous entendrez comme un calzone en feu !$h",
+
+	"Mon": "Oh là là ! J’aimerais bien que Hazel arrive à l’heure au boulot !$a#$b#Je sais qu’elle se couche tard pour étudier certains soirs...#$b#Mais jamais à l’heure, non !$s",
+	"Mon2": "Hazel a besoin qu’on lui rappelle ses responsabilités à la pizzeria !$s#$e#Ce matin, j’ai trouvé la vaisselle pas lavée et des légumes sales...$a#$e#Tu peux lui parler pour moi ? Elle se fâche toujours parce que je la « saoule »...$s",
+
+	"Tue": "Les affaires tournent à plein régime !$h#$b#Je n’ai jamais vu la pizzeria aussi pleine ! Tout le monde adore la pizza !$h",
+	"Tue4": "L’autre jour, je réfléchissais à comment faire grandir le business...#$b#Que penses-tu des 'nuits spéciales' ?$h#$e#Mardi tacos !$h#$b#Vendredi burger !$h#$b#Lundi sandwich !$h#$b#...#$b#Non ?$s",
+	"Tue6": "...$s#$b#Oh ! Tu me surprends en pleine réflexion, @. Parfois, au milieu du rush de la pizzeria, je me perds dans mes pensées.#$b#C’est comme si je pétrisais de la pâte, mais avec des idées !$h#$b#Toi aussi tu ressens ça ? Comme un monde de possibilités qui n’attend qu’à être exploré ?#$e#Bref, assez rêvassé. Ta journée, elle se passe comment ?$h",
+
+	"Wed": "Entre la pâte qui lève et le fromage qui fond, la cuisine n’arrête pas aujourd’hui !$h#$b#J’adore l’énergie d’une journée bien chargée.#$e#Par contre, j’ai peut-être... cramé une pizza ou deux...$s#$e#Hé, personne n’est parfait, hein ?$h",
+	"Wed4": "Je pensais à l’histoire de Gio’s Pizza, de ses débuts modestes à ce qu’elle est devenue.$h#$b#C’est pas juste la bouffe, c’est la communauté qu’on a créée autour.$h#$e#À la famille et à la bonne pizza !",
+	"Wed6": "Tiens, c’est encore toi, @!#$e#David est passé tout à l’heure pour discuter.#$b#On se taquine souvent pour savoir quelle pizzeria est la meilleure...$a#$b#Mais au fond, on sait que c’est pour rigoler.$h#$b#La compétition, ça garde les esprits affûtés, non ?$h",
+
+	"Thu": "Je dois penser à caler la livraison de demain avec le chauffeur...$s#$b#Oh, @! Haha, désolé, j’étais dans mes pensées...$h",
+	"Thu2": "Eh bien, eh bien, eh bien ! Regarde qui voilà, @ !#$b#Aujourd’hui, je suis un peu nostalgique... Je repensais aux débuts, quand Hazel était juste une petite tornade dans la cuisine.$h#$b#De la farine sur le nez et des étoiles dans les yeux.$h#$e#Comme le temps passe vite, hein @ ?",
+	"Thu6": "Journée stressante, effectivement, @.$s#$b#Est-ce que je suis le seul à sentir toute cette pression pour les affaires ?$s#$e#Mais tout le monde sait que la pizza de Gio est la meilleure, hein ?$h",
+
+	"Fri": "J’ai testé des mélanges de saveurs qui vont te faire tomber par terre, @ !$h#$b#Qui aurait cru que l’ananas diviserait autant...?$s#$e#Allez, la variété, c’est ce qui met du piquant dans la vie !$h",
+	"Fri2": "Vendredi... tout le monde est prêt à se détendre.#$b#Rien de mieux qu’une assiette de mes linguines aux crevettes pour ça !$h",
+	"Fri4": "Hey, hey, hey !#$b#J’ai pensé organiser une fête pizza pour fêter la fin de la semaine.$h#$e#Imagine : musique, rires, et bien sûr, des montagnes de délicieuses pizzas.#$b#Faudra qu’on organise ça un de ces jours !",
+
+	"Sat": "Les week-ends ! Parfait pour les affaires, mais pas pour mon dos...#$b#Rien de mieux que de trimbaler des sacs de farine à 50 balais.$h",
+	"Sat2": "Tu savais que les livraisons de pizza augmentent de 75 % le week-end ?#$b#Je me demande ce qui fait qu’à la fin de la semaine, on devient tous des gourmands.$h",
+	"Sat6": "Aujourd’hui, ça a été dur, @.#$b#Tu pourrais me laisser tranquille ? Je suis crevé.$s#$e#Merci, @. Je suis sûr qu’on se retrouve demain pour une bonne part de pizza, hein ?$h",
+
+	"Sun": "Le dimanche a ce petit air relaxant...#$b#Parfois, j’aimerais bien être dans un resort tropical, en train de siroter un verre de rhum blanc.$h#$e#Oh, ben, il y aura le temps pour ça quand je prendrai ma retraite !",
+	"Sun4": "Mmm...$h#$b#Je repensais aux bons vieux jours.#$b#...Pas que les jours d’aujourd’hui soient mauvais ! J’adore cuisiner avec passion.$h"
+}

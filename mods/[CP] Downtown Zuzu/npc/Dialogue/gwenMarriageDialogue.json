@@ -1,0 +1,29 @@
+{
+	// Premier jour d'une saison //
+	"spring_1": "L-le printemps, c'est génial, il ne fait pas trop froid, comme en hiver horrible, mais pas trop chaud, comme en été horrible.$h",
+	"summer_1": "L'été, c'est nul, mais c'est moins nul quand tu es là.$l",
+	"fall_1": "Il commence à faire plus f-froid mais ça va... Ça ne me dérange pas trop.#$b#Surtout quand je peux être p-près de toi, @.$l",
+	"winter_1": "...J-je d-déteste l-h-hiver...$u#$b#Caline-moi pour me réchauffer...$l",
+	// Lieux //
+	"patio_Gwen": "La vallée est tellement belle, n'est-ce pas?$l",
+	"Rainy_Night_1": "La pluie... hein. Ça sonne tellement bien sur le toit de la ferme.$l",
+	"Rainy_Night_2": "Bonne nuit, mon amour. Je pense que je vais bien dormir ce soir, au son de la pluie, et près de toi.$l",
+	"Rainy_Night_3": "%Gwen se détend. Tu ne veux pas la déranger.",
+	"Rainy_Day_1": "Il pleuvait comme ça tout le temps en ville.$u#$b#Je pensais que ça me manquerait, mais non. J'adore vivre ici avec toi, @.$h",
+	"Rainy_Day_2": "La p-pluie c'est super. Bon, peut-être pas pour toi. T-tu dois travailler sous la pluie...#$e#Au moins tu n'as p-pas à arroser les plantes !$h",
+	"Rainy_Day_3": "...Mes parents me manquent tous les jours, mais je sais qu'ils voudraient que je sois heureuse.$s#$b#Je suis heureuse avec toi, @.$l",
+	"indoor_Night_1": "Salut, @. Comment s'est passée ta journée?#$b#Je n'ai pas fait grand-chose, mais j'adore vivre à la ferme %farm.$h",
+	"indoor_Night_2": "Qu-que fais-tu aujourd'hui, @?#$b#Je regardais TubeYou plus tôt et j'ai vu une vidéo sur la philosophie.#$e#C'est comme ça que j'ai fini par faire une sieste !$h",
+	"indoor_Night_3": "%Gwen chante avec ses écouteurs.#$b#Et j'en ai assez de tes jeux — HEIN ?! Depuis combien de temps tu es là ?$u",
+	"indoor_Day_1": "@, que penses-tu de mes cheveux ? J'ai essayé un truc nouveau aujourd'hui !$h#$b#Je suis contente que ça te plaise.$l",
+	"indoor_Day_2": "Autant que j'aimais penser que c'était le cas, je n'appartenais pas à Zuzu.$u#$b#J'appartiens ici, avec toi.$l",
+	"indoor_Day_3": "Je n'ai pas parlé à %rival depuis un moment...#$b#Je p-peux les appeler !$h",
+	"spring_Gwen": "Pierre vend de bonnes graines aujourd'hui, @. Pourquoi ne pas aller en chercher ?$h",
+	"summer_Gwen": "%Gwen transpire, elle a l'air agacée.#$b#Il fait trop chaud... T-tu as un ventilateur, @?$s",
+	"fall_Gwen": "Pelican Town est magnifique en automne, @. Pourquoi ne pas prendre un jour de congé pour profiter de la nature ?$h",
+	"winter_Gwen": "Ça va, @ ? J'ai vu des billets en vente pour Flesh Robot. Tu veux y aller un jour ?$h#$e#Ou... on pourrait rester à la maison et se blottir l'un contre l'autre ?$l",
+	"Outdoor_Gwen": "Mmmm, la brise est agréable.$h#$b#Je suis tellement heureuse de t'avoir rencontré, @.$l",
+	"OneKid_1": "Je me demande ce que %kid1 fera quand il ou elle sera grand·e?#$b#Quoi qu'il arrive, je suis sûr·e qu'on sera tellement fier·e d'eux.$l",
+	"TwoKids_1": "%kid1 et %kid2 jouaient tout à l'heure. Je suis contente qu'ils s'entendent bien.$l",
+	"spouseRoom_Gwen": "Hé, @. Tu veux mettre la radio ?"
+}

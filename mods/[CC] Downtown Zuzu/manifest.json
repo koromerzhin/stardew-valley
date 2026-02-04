@@ -1,0 +1,18 @@
+{
+	"Name": "[CC] Downtown Zuzu",
+	"Author": "Équipe de développement de Zuzu Ville",
+	"Version": "0.9.4",
+	"Description": "Ajoute un lieu de taille moyenne censé représenter la périphérie de Zuzu Ville. Il fonctionne via BusLocations et CP.",
+	"UniqueID": "DTZ.DowntownZuzuCC",
+	"MinimumApiVersion": "4.1.5",
+	"UpdateKeys": [ "Nexus:8587" ],
+	"Dependencies": [
+		{
+			"UniqueID": "DTZ.DowntownZuzuDLL",
+			"IsRequired":  true
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "PeacefulEnd.CustomCompanions"
+	}
+}

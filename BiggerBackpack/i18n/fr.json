@@ -1,8 +1,0 @@
-{
-	"SetBackpackSizeCommand": "Définit la taille du sac à dos du joueur. Il doit s'agir d'un multiple de 12",
-	"Purchase": "Acheter ({{cost}}g)",
-	"BackpackUpgrade": "Amélioration du sac à dos -- 48 emplacements",
-	"PremiumPack": "Pack Premium",
-	"BackpackCostName": "Coût du sac à dos",
-    "BackpackCostTooltip": "La somme que vous devez payer pour acheter ce sac à dos dans la boutique.",
-}
